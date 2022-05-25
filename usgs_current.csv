@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-25T06:56:01.370Z,32.6101685,-115.5354996,11.25,2.23,ml,44,102,0.07955,0.29,ci,ci40025991,2022-05-25T06:58:27.235Z,"6km NE of Progreso, B.C., MX",earthquake,0.46,0.74,0.256,24,automatic,ci,ci
+2022-05-25T06:55:47.650Z,36.1511667,-118.0691667,2.94,1.01,ml,17,73,0.1767,0.13,ci,ci40025983,2022-05-25T06:59:24.353Z,"16km SSW of Olancha, CA",earthquake,0.24,1.12,0.173,14,automatic,ci,ci
+2022-05-25T06:55:32.806Z,58.2396,-155.9925,101,1.7,ml,,,,0.69,ak,ak0226nwtril,2022-05-25T06:59:24.998Z,"63 km SE of King Salmon, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-25T06:39:12.830Z,35.6085,-117.5118333,9.51,0.66,ml,9,154,0.04602,0.09,ci,ci40025967,2022-05-25T06:42:48.661Z,"15km E of Ridgecrest, CA",earthquake,0.4,0.76,0.14,6,automatic,ci,ci
 2022-05-25T06:35:56.210Z,33.3841667,-116.877,5.03,0.65,ml,27,37,0.03276,0.21,ci,ci40025959,2022-05-25T06:39:33.326Z,"3km NNW of Palomar Observatory, CA",earthquake,0.3,0.82,0.138,16,automatic,ci,ci
 2022-05-25T06:27:06.040Z,33.1543333,-116.4805,0.57,0.7,ml,9,114,0.3544,0.2,ci,ci40025951,2022-05-25T06:30:53.142Z,"14km NE of Julian, CA",earthquake,0.81,31.61,0.174,7,automatic,ci,ci
@@ -236,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-24T07:13:25.370Z,57.9048,-153.9591,29.8,3.2,ml,,,,0.75,ak,ak0226m9munu,2022-05-24T13:44:07.627Z,"40 km N of Larsen Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-24T07:11:21.956Z,36.1183,70.2927,106.17,5,mb,,71,1.03,1.01,us,us7000hc5n,2022-05-24T08:02:21.879Z,"63 km SE of Farkhār, Afghanistan",earthquake,5.7,5.6,0.039,204,reviewed,us,us
 2022-05-24T07:05:22.210Z,33.511,-116.4916667,13.11,0.25,ml,26,57,0.05648,0.13,ci,ci40025199,2022-05-24T16:54:15.765Z,"18km ESE of Anza, CA",earthquake,0.18,0.38,0.138,11,reviewed,ci,ci
-2022-05-24T06:58:40.600Z,19.1494998931885,-155.477493286133,33.3300018310547,2.13000011,md,40,166,,0.129999995,hv,hv73021572,2022-05-24T07:01:58.060Z,"5 km S of Pāhala, Hawaii",earthquake,0.57,0.769999981,0.349999994,13,automatic,hv,hv
