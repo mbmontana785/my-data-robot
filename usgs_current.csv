@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-12T22:19:32.560Z,19.2105007171631,-155.410827636719,33.7700004577637,2.49,ml,40,148,,0.159999996,hv,hv73042342,2022-06-12T22:25:01.720Z,"7 km E of Pāhala, Hawaii",earthquake,0.57,0.75999999,3.96,17,automatic,hv,hv
 2022-06-12T22:17:14.013Z,38.1348,-118.0045,0,1.7,ml,12,144.18,0.066,0.1532,nn,nn00840813,2022-06-12T22:20:55.569Z,"29 km SSE of Mina, Nevada",earthquake,,3.4,0.16,8,automatic,nn,nn
 2022-06-12T21:57:20.112Z,63.7724,-150.6795,0,1,ml,,,,0.93,ak,ak0227hxfxkb,2022-06-12T21:59:33.938Z,"57 km ENE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-12T21:54:19.650Z,17.978,-67.008,10.65,1.52,md,5,166,,0.06,pr,pr71353813,2022-06-12T22:17:26.820Z,"4 km E of La Parguera, Puerto Rico",earthquake,0.53,0.78,0.0426147776289034,5,reviewed,pr,pr
