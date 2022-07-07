@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-07-07T13:44:21.240Z,38.8358345,-122.7850037,1.72,0.36,md,7,171,0.004899,0.01,nc,nc73755881,2022-07-07T13:52:10.986Z,"6km WNW of Cobb, CA",earthquake,0.54,1.18,,1,automatic,nc,nc
-2022-07-07T13:37:40.440Z,38.7944984,-122.7480011,2.59,0.37,md,6,167,0.01101,0.01,nc,nc73755876,2022-07-07T13:46:09.950Z,"2km NNE of The Geysers, CA",earthquake,0.75,1.38,,1,automatic,nc,nc
+2022-07-07T13:37:40.440Z,38.7944984,-122.7480011,2.59,0.37,md,6,167,0.01101,0.01,nc,nc73755876,2022-07-07T14:02:13.046Z,"2km NNE of The Geysers, CA",earthquake,0.75,1.38,,1,automatic,nc,nc
 2022-07-07T13:36:14.210Z,33.1623333,-115.9661667,7.82,0.71,ml,11,127,0.01477,0.19,ci,ci40298952,2022-07-07T13:39:50.543Z,"15km S of Salton City, CA",earthquake,0.48,0.51,0.116,3,automatic,ci,ci
 2022-07-07T13:36:04.409Z,37.9654,-118.5192,0,1.2,ml,11,187.62,0.466,0.1649,nn,nn00842365,2022-07-07T13:39:59.775Z,"16 km NNW of Benton, California",earthquake,,10.2,0.13,8,automatic,nn,nn
 2022-07-07T13:34:08.079Z,38.1568,-118.2064,10.2,1.6,ml,17,94.41,0.179,0.2461,nn,nn00842362,2022-07-07T13:37:52.911Z,"27 km SSW of Mina, Nevada",earthquake,,0.7,0.2,10,automatic,nn,nn
