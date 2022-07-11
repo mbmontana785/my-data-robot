@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-11T18:17:12.860Z,38.8376656,-122.7990036,2.3,0.85,md,11,80,0.006804,0.02,nc,nc73757516,2022-07-11T18:43:13.384Z,"7km WNW of Cobb, CA",earthquake,0.51,1.11,,1,automatic,nc,nc
 2022-07-11T18:17:04.610Z,38.838665,-122.8008347,1.8,0.36,md,7,80,0.008197,0.01,nc,nc73757511,2022-07-11T18:33:15.333Z,"7km WNW of Cobb, CA",earthquake,0.43,1.7,,1,automatic,nc,nc
 2022-07-11T18:13:47.850Z,33.485,-116.4895,11.52,1.35,ml,38,37,0.08019,0.19,ci,ci40301960,2022-07-11T18:24:40.230Z,"19km ESE of Anza, CA",earthquake,0.25,0.54,0.244,29,automatic,ci,ci
-2022-07-11T17:58:59.576Z,38.6227,-116.195,2.4,2,ml,8,196.82,1.306,0.1723,nn,nn00842603,2022-07-11T18:03:50.988Z,"100 km SE of Kingston, Nevada",earthquake,,2.4,0.28,6,automatic,nn,nn
+2022-07-11T17:58:58.064Z,38.7578,-116.0849,0,2.1,ml,11,106.68,0.858,0.2486,nn,nn00842603,2022-07-11T19:10:59.996Z,"84 km S of Eureka, Nevada",earthquake,,0,0.37,4,reviewed,nn,nn
 2022-07-11T17:51:26.082Z,37.6933,141.2369,57.05,4.2,mb,26,131,2.679,1.07,us,us6000i1le,2022-07-11T18:18:27.040Z,"31 km NE of Namie, Japan",earthquake,8.4,10,0.14,14,reviewed,us,us
 2022-07-11T17:51:01.427Z,62.2287,-148.8359,42.5,0.9,ml,,,,1.22,ak,ak0228ttlxqy,2022-07-11T17:53:52.098Z,"50 km N of Sutton-Alpine, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2022-07-11T17:45:56.590Z,35.602,-117.4056667,5.11,2.69,ml,33,71,0.0486,0.14,ci,ci40301944,2022-07-11T19:00:46.126Z,"18km S of Trona, CA",earthquake,0.24,0.5,0.226,25,automatic,ci,ci
@@ -108,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-11T07:53:15.630Z,17.967,-66.8791666666667,20.74,2.24,md,8,202,,0.12,pr,pr71358843,2022-07-11T08:25:17.020Z,"1 km SE of Maria Antonia, Puerto Rico",earthquake,0.64,0.56,0.078442980470137,6,reviewed,pr,pr
 2022-07-11T07:42:09.692Z,62.1635,-152.1577,99.8,1.2,ml,,,,0.41,ak,ak0228tnlotl,2022-07-11T07:45:01.303Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-07-11T07:30:34.520Z,44.7055,-110.4098333,7.92,1.23,ml,12,227,0.07298,0.1,uu,uu60505227,2022-07-11T14:42:04.100Z,"37 km SE of Mammoth, Wyoming",earthquake,1.93,0.59,0.372,3,reviewed,uu,uu
-2022-07-11T07:28:15.760Z,39.5403333,-123.4876667,7.78,1.62,md,19,110,0.1096,0.09,nc,nc73757341,2022-07-11T18:42:11.380Z,"14km NW of Brooktrails, CA",earthquake,0.31,0.78,0.253,21,reviewed,nc,nc
+2022-07-11T07:28:15.760Z,39.5403333,-123.4876667,7.78,1.62,md,19,110,0.1096,0.09,nc,nc73757341,2022-07-11T19:04:13.489Z,"14km NW of Brooktrails, CA",earthquake,0.31,0.78,0.253,21,reviewed,nc,nc
 2022-07-11T07:26:33.970Z,33.4975,-116.4801667,11.98,0.33,ml,18,64,0.07338,0.23,ci,ci40301656,2022-07-11T07:30:07.463Z,"19km ESE of Anza, CA",earthquake,0.49,0.95,0.231,2,automatic,ci,ci
 2022-07-11T07:25:31.460Z,37.6628333,-118.8995,-1.09,0.27,md,6,169,0.009373,0.03,nc,nc73757336,2022-07-11T16:43:13.660Z,"8km ENE of Mammoth Lakes, CA",earthquake,0.42,0.52,0.254,4,reviewed,nc,nc
 2022-07-11T07:13:09.070Z,35.8446667,-117.6668333,10.93,0.76,ml,14,109,0.0633,0.11,ci,ci40301648,2022-07-11T18:16:01.158Z,"24km ESE of Little Lake, CA",earthquake,0.21,0.27,0.091,5,reviewed,ci,ci
@@ -224,5 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-10T19:58:34.390Z,17.9716666666667,-66.8688333333333,20.09,2.33,md,9,196,,0.15,pr,pr71358693,2022-07-10T20:23:17.350Z,"2 km ESE of Maria Antonia, Puerto Rico",earthquake,0.73,0.64,0.0967439437934969,6,reviewed,pr,pr
 2022-07-10T19:53:24.160Z,34.0446667,-117.253,15.3,0.99,ml,29,46,0.09394,0.22,ci,ci40301440,2022-07-10T19:56:55.509Z,"1km ESE of Loma Linda, CA",earthquake,0.31,0.66,0.205,30,automatic,ci,ci
 2022-07-10T19:21:34.953Z,-23.7577,-179.5937,527.17,4.5,mb,26,162,5.683,0.63,us,us6000i1ff,2022-07-10T20:29:28.040Z,"south of the Fiji Islands",earthquake,12.8,11,0.103,28,reviewed,us,us
-2022-07-10T19:11:22.910Z,33.2136667,-116.1825,10.81,1.36,ml,32,129,0.06348,0.21,ci,ci40301432,2022-07-11T16:37:20.514Z,"9km NNW of Ocotillo Wells, CA",earthquake,0.3,0.44,0.141,8,reviewed,ci,ci
-2022-07-10T19:08:19.399Z,40.5881,-127.1091,10,2.5,ml,18,266,2.285,0.66,us,us6000i1fc,2022-07-10T20:21:16.040Z,"240 km W of Ferndale, California",earthquake,9.9,2,0.053,46,reviewed,us,us
