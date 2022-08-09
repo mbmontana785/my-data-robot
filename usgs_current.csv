@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-09T11:30:19.360Z,35.12,-118.5206667,4.36,1.49,ml,25,49,0.1768,0.15,ci,ci40078135,2022-08-09T11:33:49.546Z,"7km WSW of Tehachapi, CA",earthquake,0.21,0.76,0.178,28,automatic,ci,ci
 2022-08-09T11:22:01.130Z,34.0308333,-116.7443333,11.51,0.84,ml,25,105,0.05287,0.16,ci,ci40078119,2022-08-09T11:25:41.347Z,"13km NNE of Cabazon, CA",earthquake,0.3,0.64,0.15,23,automatic,ci,ci
 2022-08-09T11:21:34.597Z,59.4746,-152.0238,69.1,2.4,ml,,,,0.29,ak,ak022a5og1hv,2022-08-09T11:23:30.659Z,"14 km NNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-08-09T11:12:10.270Z,38.8180008,-122.8024979,3.24,0.57,md,20,48,0.008002,0.02,nc,nc73765920,2022-08-09T11:31:13.402Z,"6km NW of The Geysers, CA",earthquake,0.27,0.6,0.27,3,automatic,nc,nc
@@ -261,6 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-08T12:09:22.330Z,34.5108333,-118.83,12.22,1.4,ml,26,61,0.1357,0.28,ci,ci40077439,2022-08-08T12:12:55.886Z,"11km NNW of Piru, CA",earthquake,0.53,1.68,0.222,30,automatic,ci,ci
 2022-08-08T11:56:49.052Z,38.1508,-117.9008,8.4,0.6,ml,14,151.28,0.048,0.1478,nn,nn00844399,2022-08-09T02:39:23.840Z,"32 km SE of Mina, Nevada",earthquake,,1.7,0.52,3,reviewed,nn,nn
 2022-08-08T11:54:20.490Z,38.8353348,-122.8201675,1.4,0.36,md,7,109,0.0124,0.04,nc,nc73765410,2022-08-08T14:30:10.800Z,"8km NW of The Geysers, CA",earthquake,0.4,0.98,,1,automatic,nc,nc
-2022-08-08T11:38:05.140Z,44.7743333,-110.8036667,5.08,2.8,ml,21,89,0.03617,0.13,uu,uu60508917,2022-08-09T04:59:05.040Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.36,0.99,0.229,8,reviewed,uu,uu
-2022-08-08T11:34:29.633Z,16.1624,-94.9676,64.486,4.6,mb,80,145,2.722,0.62,us,us6000i91y,2022-08-09T00:10:16.719Z,"5 km SSE of San Mateo del Mar, Mexico",earthquake,6.66,7.891,0.036,226,reviewed,us,us
-2022-08-08T11:33:21.010Z,34.1376667,-117.4771667,11.35,0.75,ml,17,116,0.108,0.21,ci,ci40077431,2022-08-08T11:36:53.353Z,"5km NNW of Fontana, CA",earthquake,0.62,1.32,0.249,11,automatic,ci,ci
