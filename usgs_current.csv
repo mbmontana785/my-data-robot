@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-16T10:36:53.550Z,38.786499,-122.7494965,0.73,0.86,md,18,80,0.0105,0.04,nc,nc73768690,2022-08-16T10:45:10.927Z,"1km NNE of The Geysers, CA",earthquake,0.24,0.47,0.1,4,automatic,nc,nc
+2022-08-16T10:47:48.557Z,61.8227,-151.5522,85.6,1.7,ml,,,,0.6,ak,ak022ah8rn49,2022-08-16T10:51:00.290Z,"20 km SSW of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2022-08-16T10:36:53.550Z,38.786499,-122.7494965,0.73,0.86,md,18,80,0.0105,0.04,nc,nc73768690,2022-08-16T10:53:22.982Z,"1km NNE of The Geysers, CA",earthquake,0.24,0.47,0.1,4,automatic,nc,nc
 2022-08-16T10:11:42.400Z,33.5273333,-116.735,3.05,0.23,ml,17,62,0.03802,0.17,ci,ci40326312,2022-08-16T10:15:08.115Z,"6km WSW of Anza, CA",earthquake,0.29,0.72,0.192,5,automatic,ci,ci
 2022-08-16T09:57:21.301Z,63.2933,-149.452,82.4,1.6,ml,,,,0.42,ak,ak022ah88ahu,2022-08-16T09:59:20.291Z,"27 km WSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-08-16T09:50:00.470Z,38.8089981,-122.8125,3.75,0.35,md,11,121,0.01303,0.02,nc,nc73768675,2022-08-16T10:06:16.695Z,"6km NW of The Geysers, CA",earthquake,0.51,1.47,,1,automatic,nc,nc
@@ -224,6 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-15T11:06:04.380Z,44.7768333,-110.8056667,6.05,2.32,ml,22,92,0.03393,0.17,uu,uu60509907,2022-08-15T13:14:26.880Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.36,0.82,0.226,6,reviewed,uu,uu
 2022-08-15T11:04:18.626Z,38.1857,-117.7535,14.6,2.1,ml,21,92.33,0.115,0.1336,nn,nn00845018,2022-08-16T02:40:09.131Z,"38 km SE of Mina, Nevada",earthquake,,0.6,0.25,6,reviewed,nn,nn
 2022-08-15T11:02:32.780Z,36.5671667,-120.7925,0.8,1.94,md,48,81,0.07074,0.13,nc,nc73768340,2022-08-15T21:12:12.108Z,"20km NNW of New Idria, CA",earthquake,0.2,0.67,0.174,39,reviewed,nc,nc
-2022-08-15T10:58:29.722Z,31.60421841,-104.2398895,7.288427734,2.3,ml,12,68,0.0707854607,0.3,tx,tx2022pxtk,2022-08-16T07:59:24.116Z,"53 km NW of Toyah, Texas",earthquake,1.363164859,1.786815818,0.2,10,reviewed,tx,tx
-2022-08-15T10:58:11.260Z,18.0321666666667,-65.0341666666667,23.75,2.51,md,4,239,,0.09,pr,pr71366073,2022-08-15T11:17:09.930Z,"35 km SSW of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.82,9.5,0.0716177614178548,4,reviewed,pr,pr
-2022-08-15T10:57:24.704Z,61.4885,-151.8096,85.4,1.5,ml,,,,0.6,ak,ak022afladva,2022-08-15T10:59:18.078Z,"54 km NW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
