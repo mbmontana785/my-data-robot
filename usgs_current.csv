@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-16T09:48:45.830Z,33.4945,-116.7476667,9.59,0.48,ml,20,64,0.07124,0.22,ci,ci40100975,2022-09-16T09:52:18.912Z,"10km SW of Anza, CA",earthquake,0.36,1.06,0.076,14,automatic,ci,ci
 2022-09-16T09:45:42.225Z,61.5968,-148.256,22.6,1,ml,,,,0.23,ak,ak022bwhtitq,2022-09-16T09:47:38.496Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-09-16T09:41:01.740Z,17.9195,-66.8583333333333,17.54,2.17,md,8,227,,0.05,pr,pr71372008,2022-09-16T09:55:27.140Z,"Puerto Rico region",earthquake,0.44,0.44,0.0442595911284023,6,reviewed,pr,pr
 2022-09-16T09:32:56.460Z,34.2186667,-117.6146667,8.83,1.03,ml,20,79,0.04154,0.2,ci,ci40100967,2022-09-16T09:36:27.400Z,"11km NNW of Rancho Cucamonga, CA",earthquake,0.36,0.67,0.425,20,automatic,ci,ci
 2022-09-16T09:32:08.880Z,33.9775,-116.3725,2.69,0.78,ml,20,84,0.09272,0.17,ci,ci40100959,2022-09-16T09:35:41.481Z,"12km E of Desert Hot Springs, CA",earthquake,0.34,0.67,0.168,16,automatic,ci,ci
+2022-09-16T09:29:09.160Z,17.9791666666667,-66.9808333333333,8.04,2.49,md,9,169,,0.16,pr,pr71372003,2022-09-16T09:49:01.030Z,"6 km W of Fuig, Puerto Rico",earthquake,0.55,1.2,0.142739964723819,5,reviewed,pr,pr
 2022-09-16T09:27:49.180Z,33.4898333,-116.751,7.72,0.77,ml,35,32,0.04696,0.19,ci,ci40100951,2022-09-16T09:31:23.391Z,"10km SW of Anza, CA",earthquake,0.22,0.84,0.164,23,automatic,ci,ci
 2022-09-16T09:05:22.098Z,62.2515,-150.9623,68,1.4,ml,,,,0.41,ak,ak022bwhkwmp,2022-09-16T09:32:56.745Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-09-16T09:05:12.000Z,17.9376666666667,-66.9976666666667,2.57,1.56,md,5,232,,0.15,pr,pr71371988,2022-09-16T09:14:29.390Z,"Puerto Rico region",earthquake,0.8,12.45,0.050631825110526,5,reviewed,pr,pr
@@ -56,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-16T02:46:46.316Z,36.9135,-115.2928,0.9,0.8,ml,10,324.91,0.568,0.2128,nn,nn00847273,2022-09-16T02:49:27.755Z,"50 km NE of Indian Springs, Nevada",earthquake,,51.4,0.3,4,automatic,nn,nn
 2022-09-16T02:43:56.224Z,62.9359,-150.507,83.1,1.4,ml,,,,0.22,ak,ak022bwdn38m,2022-09-16T02:46:03.990Z,"50 km NNE of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-09-16T02:37:56.110Z,19.216667175293,-155.387832641602,30.7700004577637,2.1099999,md,38,155,,0.140000001,hv,hv73141107,2022-09-16T02:43:17.060Z,"9 km E of Pāhala, Hawaii",earthquake,0.71,0.829999983,0.419999987,13,automatic,hv,hv
-2022-09-16T02:29:26.082Z,44.3209,-70.6914,5.292,2.3,mb_lg,23,84,0.282,0.26,us,us7000i8fz,2022-09-16T05:17:03.219Z,"3 km W of Greenwood, Maine",earthquake,1.15,4.637,0.255,4,reviewed,us,us
+2022-09-16T02:29:26.082Z,44.3209,-70.6914,5.292,2.3,mb_lg,23,84,0.282,0.26,us,us7000i8fz,2022-09-16T09:57:41.663Z,"3 km W of Greenwood, Maine",earthquake,1.15,4.637,0.255,4,reviewed,us,us
 2022-09-16T02:16:08.200Z,33.9921667,-117.1555,8.85,0.73,ml,19,75,0.1235,0.22,ci,ci40100847,2022-09-16T02:19:52.197Z,"8km SSE of Redlands, CA",earthquake,0.36,1.84,0.1,14,automatic,ci,ci
 2022-09-16T01:58:38.670Z,38.1546,-117.8953,7.6,1.1,ml,12,163.73,0.053,0.1252,nn,nn00847270,2022-09-16T02:38:18.038Z,"32 km SE of Mina, Nevada",earthquake,,0.6,0.22,7,automatic,nn,nn
 2022-09-16T01:54:42.300Z,38.8009987,-122.75383,1.88,0.21,md,7,122,0.004611,0.01,nc,nc73782261,2022-09-16T01:56:15.895Z,"3km N of The Geysers, CA",earthquake,0.73,2.17,0.16,2,automatic,nc,nc
