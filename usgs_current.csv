@@ -149,7 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-04T18:09:42.890Z,19.1561660766602,-155.470993041992,33.9300003051758,2.02999997,md,41,159,,0.100000001,hv,hv73166937,2022-10-04T18:32:17.197Z,"5 km S of Pāhala, Hawaii",earthquake,0.63,0.689999998,0.319999993,13,automatic,hv,hv
 2022-10-04T18:06:31.907Z,24.4075,141.5249,171.521,4.4,mb,85,98,8.805,0.78,us,us6000iqu0,2022-10-04T18:51:07.040Z,"Volcano Islands, Japan region",earthquake,6.77,6.402,0.064,77,reviewed,us,us
 2022-10-04T17:53:52.280Z,38.7651672,-122.7343369,-0.13,0.33,md,6,98,0.008223,0.02,nc,nc73789376,2022-10-04T17:55:28.557Z,"2km SE of The Geysers, CA",earthquake,0.41,1.23,0.05,3,automatic,nc,nc
-2022-10-04T17:53:07.170Z,17.9456666666667,-67.0368333333333,5.64,1.56,md,4,273,,0.03,pr,pr71374873,2022-10-04T20:21:52.270Z,"Puerto Rico region",earthquake,0.66,0.55,0.0741585655099586,3,reviewed,pr,pr
+2022-10-04T17:53:07.170Z,17.9456666666667,-67.0368333333333,5.64,1.56,md,4,273,,0.03,pr,pr71374873,2022-10-04T20:21:52.270Z,"3 km SSE of La Parguera, Puerto Rico",earthquake,0.66,0.55,0.0741585655099586,3,reviewed,pr,pr
 2022-10-04T17:51:51.410Z,59.8516,-152.6402,85.3,1.4,ml,,,,0.25,ak,ak022cqeajk5,2022-10-04T18:09:33.325Z,"46 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-10-04T17:40:23.012Z,36.8491,-115.9159,12,0.2,ml,21,202.85,0.047,0.1434,nn,nn00848521,2022-10-04T19:15:24.370Z,"37 km NW of Indian Springs, Nevada",earthquake,,1,0.31,10,reviewed,nn,nn
 2022-10-04T17:37:28.301Z,62.2884,-151.3267,90.8,1.7,ml,,,,0.51,ak,ak022cqe7hr2,2022-10-04T17:39:49.874Z,"33 km N of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
