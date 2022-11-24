@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-24T14:44:36.355Z,62.0212,-147.5189,40.2,2,ml,,,,0.26,ak,ak022f2over7,2022-11-24T14:45:54.293Z,"20 km WNW of Eureka Roadhouse, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-24T14:17:18.481Z,61.3502,-151.9231,97.5,2.3,ml,,,,0.49,ak,ak022f2opl1k,2022-11-24T14:19:28.546Z,"50 km WNW of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-24T14:15:22.880Z,36.1723328,-120.7753296,-0.31,1.39,md,7,150,0.04828,0.12,nc,nc73810981,2022-11-24T14:32:11.327Z,"20km NE of San Ardo, CA",earthquake,1.25,6.86,0.26,4,automatic,nc,nc
 2022-11-24T13:56:29.298Z,38.3021,-115.8106,5.3,1.5,ml,8,193.46,1.097,0.1304,nn,nn00851998,2022-11-24T14:00:46.130Z,"73 km N of Rachel, Nevada",earthquake,,3.1,0.23,7,automatic,nn,nn
@@ -174,7 +175,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T18:40:38.032Z,61.673,-149.8658,27.5,2,ml,,,,0.45,ak,ak022f13oxy3,2022-11-23T18:42:35.886Z,"5 km NNW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-23T18:37:16.805Z,51.3461,-174.336,4.2,2.9,ml,,,,0.65,ak,ak022f13o9mf,2022-11-23T20:28:08.123Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,1.2,,,reviewed,ak,ak
 2022-11-23T18:34:48.580Z,46.547,-121.80666666666667,8.89,0.59,ml,32,84,0.1268,0.19,uw,uw61887007,2022-11-23T18:55:05.170Z,"12 km WSW of Packwood, Washington",earthquake,0.28,0.26,0.25664419641091896,12,reviewed,uw,uw
-2022-11-23T18:26:27.950Z,39.4576667,-122.9638333,-0.63,1.6,md,15,67,0.1524,0.13,nc,nc73810706,2022-11-24T14:32:10.327Z,"6km N of Lake Pillsbury, CA",earthquake,0.34,1,0.172,14,reviewed,nc,nc
+2022-11-23T18:26:27.950Z,39.4576667,-122.9638333,-0.63,1.6,md,15,67,0.1524,0.13,nc,nc73810706,2022-11-24T14:37:10.360Z,"6km N of Lake Pillsbury, CA",earthquake,0.34,1,0.172,14,reviewed,nc,nc
 2022-11-23T18:09:20.121Z,36.6579,-116.2668,5.9,-0.3,ml,4,284.85,0.078,0.0717,nn,nn00851966,2022-11-24T00:02:48.927Z,"52 km ESE of Beatty, Nevada",earthquake,,11.6,0.05,3,reviewed,nn,nn
 2022-11-23T18:07:10.480Z,35.6715,-117.4966667,2.85,1.28,ml,22,63,0.08934,0.1,ci,ci40380000,2022-11-23T18:48:31.188Z,"14km SW of Searles Valley, CA",earthquake,0.14,0.3,0.113,13,reviewed,ci,ci
 2022-11-23T17:50:40.290Z,35.498,-118.3985,6.76,1.78,ml,33,42,0.1756,0.12,ci,ci40379984,2022-11-23T18:14:35.210Z,"13km SE of Bodfish, CA",earthquake,0.14,0.55,0.209,25,reviewed,ci,ci
@@ -218,6 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T14:58:37.797Z,61.6537,-146.755,19.7,1.6,ml,,,,0.63,ak,ak022f11f2eb,2022-11-23T15:01:14.986Z,"37 km S of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-23T14:50:35.291Z,31.52836424,-104.0080874,6.735705566,2.7,ml,26,64,0.03978448044,0.2,tx,tx2022wytk,2022-11-24T06:43:04.040Z,"western Texas",earthquake,0.600897029,0.5072398595,0.1,14,reviewed,tx,tx
 2022-11-23T14:47:32.270Z,44.7958333,-110.795,4.85,0.53,md,10,190,0.04022,0.08,uu,uu60526152,2022-11-23T17:20:06.840Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.63,0.4,0.335,5,reviewed,uu,uu
-2022-11-23T14:43:22.461Z,38.2042,-117.7702,9,1.2,ml,14,176.07,0.137,0.1397,nn,nn00851931,2022-11-23T20:52:16.298Z,"36 km SE of Mina, Nevada",earthquake,,2.5,0.19,5,reviewed,nn,nn
-2022-11-23T14:41:12.890Z,17.9523333333333,-66.9541666666667,10.82,1.97,md,6,210,0.0748,0.04,pr,pr71383603,2022-11-23T15:38:09.190Z,"Puerto Rico region",earthquake,0.47,0.77,0.050425148228544,5,reviewed,pr,pr
-2022-11-23T14:37:01.631Z,62.599,-151.4575,88.9,2.5,ml,,,,0.65,ak,ak022f11ahjf,2022-11-24T06:30:42.040Z,"37 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
