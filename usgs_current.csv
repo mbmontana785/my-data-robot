@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-01T13:21:07.730Z,35.8035,-117.6253333,7.12,1.1,ml,11,91,0.0257,0.17,ci,ci40152655,2023-01-01T13:24:36.061Z,"20km WNW of Searles Valley, CA",earthquake,0.66,0.98,0.112,9,automatic,ci,ci
 2023-01-01T13:13:02.460Z,33.4028333,-116.3833333,3.16,0.93,ml,22,115,0.1372,0.16,ci,ci40152647,2023-01-01T13:16:44.825Z,"16km N of Borrego Springs, CA",earthquake,0.31,1.17,0.193,15,automatic,ci,ci
 2023-01-01T12:50:20.075Z,38.1573,-117.9953,6.8,1.7,ml,14,126.8,0.034,0.198,nn,nn00854395,2023-01-01T12:53:08.045Z,"27 km SSE of Mina, Nevada",earthquake,,0.4,0.22,7,automatic,nn,nn
 2023-01-01T12:46:37.560Z,33.4023333,-116.3873333,3.93,1.51,ml,54,31,0.1249,0.23,ci,ci40152639,2023-01-01T12:57:52.580Z,"16km N of Borrego Springs, CA",earthquake,0.25,0.74,0.137,27,automatic,ci,ci
@@ -192,9 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-31T13:39:39.320Z,19.2395000457764,-155.408828735352,34.6399993896484,1.79999995,md,35,144,,0.140000001,hv,hv73289157,2022-12-31T13:42:54.490Z,"Hawaii region, Hawaii",earthquake,0.63,1.10000002,0.589999974,3,automatic,hv,hv
 2022-12-31T13:39:33.547Z,61.5979,-146.4711,33.6,1.8,ml,,,,0.39,ak,ak022grv4qmi,2022-12-31T13:40:46.981Z,"46 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-31T13:39:20.620Z,38.5926666,-122.6794968,3.87,1.14,md,6,203,0.1759,0.27,nc,nc73827226,2022-12-31T15:29:12.110Z,"9km W of Calistoga, CA",earthquake,11.45,16.97,,1,automatic,nc,nc
-2022-12-31T13:31:34.760Z,17.9953333333333,-66.7273333333333,12.45,3.19,md,37,171,0.04415,0.14,pr,pr71390013,2022-12-31T17:46:08.040Z,"Puerto Rico region",earthquake,0.32,0.22,0.0676777546808953,19,reviewed,pr,pr
-2022-12-31T13:28:23.080Z,36.770668,-121.4738312,5.52,1.82,md,15,113,0.0223,0.11,nc,nc73827221,2022-12-31T15:08:12.003Z,"10km SE of San Juan Bautista, CA",earthquake,0.41,0.39,0.11,16,automatic,nc,nc
-2022-12-31T13:26:41.790Z,36.7815018,-121.4923325,2,1.48,md,9,145,0.02791,0.24,nc,nc73827216,2022-12-31T14:58:12.957Z,"8km SSE of San Juan Bautista, CA",earthquake,0.94,1.6,0.28,8,automatic,nc,nc
-2022-12-31T13:25:53.240Z,36.7729988,-121.501503,3.46,1.69,md,14,104,0.02096,0.28,nc,nc73827211,2022-12-31T14:47:13.890Z,"9km SSE of San Juan Bautista, CA",earthquake,0.71,0.95,0.14,10,automatic,nc,nc
-2022-12-31T13:25:16.580Z,33.4026667,-116.3683333,4.73,0.76,ml,17,121,0.1402,0.16,ci,ci40152039,2022-12-31T13:28:45.497Z,"16km N of Borrego Springs, CA",earthquake,0.35,0.91,0.193,18,automatic,ci,ci
-2022-12-31T13:24:18.190Z,33.4033333,-116.3845,8.81,0.77,ml,24,88,0.1375,0.24,ci,ci40152031,2022-12-31T13:27:42.133Z,"16km N of Borrego Springs, CA",earthquake,0.4,1.33,0.209,18,automatic,ci,ci
