@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-22T11:29:33.720Z,38.8148346,-122.828331,1.51,0.61,md,6,88,0.005995,0.01,nc,nc73835741,2023-01-22T11:31:11.064Z,"8km NW of The Geysers, CA",earthquake,0.35,0.69,0.19,8,automatic,nc,nc
+2023-01-22T11:18:59.740Z,19.2358341217041,-155.398834228516,31.25,1.84000003,md,36,163,,0.109999999,hv,hv73310112,2023-01-22T11:22:13.260Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.57,0.689999998,0.349999994,5,automatic,hv,hv
 2023-01-22T11:11:37.275Z,60.7717,-150.8716,44.9,2.1,ml,,,,0.21,ak,ak02310kfu9r,2023-01-22T11:13:07.741Z,"Kenai Peninsula, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-22T11:04:28.537Z,61.7452,-149.6034,29,1.7,ml,,,,0.66,ak,ak02310kebl1,2023-01-22T11:06:10.931Z,"13 km N of Meadow Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-22T10:57:25.445Z,64.8565,-148.7196,14.9,2,ml,,,,0.56,ak,ak02310k48ow,2023-01-22T10:59:09.857Z,"33 km W of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -156,7 +158,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-21T14:59:14.245Z,5.984,125.7852,80.12,4.5,mb,30,128,1.098,0.62,us,us7000j631,2023-01-21T20:01:22.111Z,"11 km E of Mangili, Philippines",earthquake,7.51,8.055,0.111,24,reviewed,us,us
 2023-01-21T14:54:14.030Z,34.2678333,-116.6916667,7.97,1.42,ml,23,83,0.1179,0.21,ci,ci40404664,2023-01-21T14:57:51.793Z,"14km E of Big Bear City, CA",earthquake,0.31,1.2,0.151,28,automatic,ci,ci
 2023-01-21T14:40:43.775Z,58.2581,-155.1717,0,2.5,ml,,,,0.53,ak,ak023yyv0ux,2023-01-21T16:51:13.040Z,"87 km NNW of Karluk, Alaska",earthquake,,26.7,,,automatic,ak,ak
-2023-01-21T14:37:52.364Z,-21.599,-68.4633,144.798,4.1,ml,23,76,0.75,0.78,us,us7000j62w,2023-01-21T16:47:30.040Z,"Chile-Bolivia border region",earthquake,7.03,9.659,,,reviewed,us,guc
+2023-01-21T14:37:52.364Z,-21.599,-68.4633,144.798,4.1,ml,23,76,0.75,0.78,us,us7000j62w,2023-01-21T16:47:30.040Z,"106 km NNE of Calama, Chile",earthquake,7.03,9.659,,,reviewed,us,guc
 2023-01-21T14:26:00.200Z,38.8111649,-122.8296661,1.35,0.75,md,10,95,0.002325,0.01,nc,nc73835346,2023-01-21T14:43:13.209Z,"7km WNW of The Geysers, CA",earthquake,0.3,0.78,0.14,10,automatic,nc,nc
 2023-01-21T14:10:00.690Z,19.1765003204346,-155.498336791992,37.2200012207031,1.88999999,md,39,152,,0.119999997,hv,hv73309302,2023-01-21T14:13:19.980Z,"3 km SW of Pāhala, Hawaii",earthquake,0.61,0.949999988,0.939999998,3,automatic,hv,hv
 2023-01-21T14:00:23.172Z,38.2144,-116.6784,8,1.9,ml,11,150.82,0.822,0.2929,nn,nn00855121,2023-01-21T14:02:12.732Z,"Nevada",earthquake,,2,0.75,9,automatic,nn,nn
@@ -184,5 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-21T11:41:03.060Z,38.8204994,-122.7914963,1.49,1.1,md,15,44,0.01112,0.02,nc,nc73835291,2023-01-21T13:19:13.675Z,"6km NNW of The Geysers, CA",earthquake,0.28,0.58,0.13,15,automatic,nc,nc
 2023-01-21T11:40:49.350Z,38.8204994,-122.7911682,1.45,0.84,md,11,72,0.01092,0.01,nc,nc73835286,2023-01-21T12:23:13.311Z,"6km NNW of The Geysers, CA",earthquake,0.31,0.76,0.25,12,automatic,nc,nc
 2023-01-21T11:39:38.176Z,62.6127,-152.1539,0.1,2.6,ml,,,,0.81,ak,ak023yx2hw9,2023-01-21T12:42:28.040Z,"72 km W of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-01-21T11:29:00.265Z,61.7673,-149.7299,41.3,1.9,ml,,,,0.21,ak,ak023yx09t6,2023-01-21T11:31:03.934Z,"15 km NNE of Houston, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-01-21T11:26:56.360Z,38.6020012,-122.8069992,8.11,1.62,md,15,89,0.1153,0.04,nc,nc73835281,2023-01-21T12:53:18.622Z,"6km E of Healdsburg, CA",earthquake,0.3,1.15,0.16,15,automatic,nc,nc
