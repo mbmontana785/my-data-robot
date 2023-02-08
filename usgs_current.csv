@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-08T06:15:49.077Z,62.6073,-151.0868,79.1,2.1,ml,,,,0.49,ak,ak0231slmgez,2023-02-08T06:18:15.944Z,"20 km NW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-08T06:13:11.840Z,38.7938347,-122.7289963,-0.92,0.99,md,6,130,0.01218,0.07,nc,nc73843401,2023-02-08T06:32:11.271Z,"3km NE of The Geysers, CA",earthquake,0.35,2.87,0.22,7,automatic,nc,nc
 2023-02-08T06:11:04.352Z,61.1348,-151.9452,95.6,2.3,ml,,,,0.45,ak,ak0231slli3n,2023-02-08T06:13:28.049Z,"44 km W of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-02-08T06:10:05.440Z,38.7949982,-122.7296677,1.03,1.13,md,9,103,0.01297,0.02,nc,nc73843396,2023-02-08T06:26:11.226Z,"3km NE of The Geysers, CA",earthquake,0.26,0.79,0.26,9,automatic,nc,nc
+2023-02-08T06:10:05.440Z,38.7949982,-122.7296677,1.03,1.13,md,9,103,0.01297,0.02,nc,nc73843396,2023-02-08T07:17:38.553Z,"3km NE of The Geysers, CA",earthquake,0.26,0.79,0.26,9,automatic,nc,nc
 2023-02-08T06:09:01.827Z,36.3573,36.1303,10,4.4,mb,39,186,1.188,0.59,us,us6000jmfn,2023-02-08T07:09:30.941Z,"Turkey-Syria border region",earthquake,4.45,1.965,0.11,24,reviewed,us,us
 2023-02-08T06:08:52.830Z,35.698,-117.5626667,6.07,0.62,ml,8,149,0.1209,0.13,ci,ci40412160,2023-02-08T06:12:27.462Z,"13km NE of Ridgecrest, CA",earthquake,0.46,2.3,0.049,7,automatic,ci,ci
 2023-02-08T05:56:28.610Z,38.7956657,-122.7304993,0.55,0.89,md,12,100,0.01333,0.03,nc,nc73843386,2023-02-08T05:58:03.135Z,"3km SSW of Cobb, CA",earthquake,0.2,0.9,0.15,9,automatic,nc,nc
@@ -185,7 +185,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-07T13:35:47.434Z,38.346,-118.914,12,1.1,ml,6,184.77,0.335,0.159,nn,nn00855808,2023-02-07T21:12:58.706Z,"29 km ENE of Bridgeport, California",earthquake,,2.4,0.05,2,reviewed,nn,nn
 2023-02-07T13:35:08.910Z,44.7891667,-110.9633333,7.49,0.21,md,7,224,0.04267,0.13,uu,uu60530346,2023-02-07T17:20:46.450Z,"17 km NE of West Yellowstone, Montana",earthquake,0.85,1,0.322,4,reviewed,uu,uu
 2023-02-07T13:31:20.342Z,50.6464,-173.3364,10,4.3,mb,54,189,1.698,0.43,us,us6000jm83,2023-02-07T17:49:46.040Z,"182 km SSE of Atka, Alaska",earthquake,7.83,1.907,0.056,92,reviewed,us,us
-2023-02-07T13:28:06.140Z,44.799,-110.9681667,8.01,0.11,md,6,242,0.04802,0.12,uu,uu60530341,2023-02-07T17:18:39.780Z,"17 km E of Hebgen Lake Estates, Montana",earthquake,1.29,1.27,0.24,3,reviewed,uu,uu
+2023-02-07T13:28:06.140Z,44.799,-110.9681667,8.01,0.11,md,6,242,0.04802,0.12,uu,uu60530341,2023-02-07T17:18:39.780Z,"Wyoming",earthquake,1.29,1.27,0.24,3,reviewed,uu,uu
 2023-02-07T13:27:50.910Z,32.9785,-116.4458333,11.29,0.78,ml,17,84,0.03033,0.13,ci,ci40411808,2023-02-07T22:32:59.775Z,"18km SE of Julian, CA",earthquake,0.26,0.47,0.068,6,reviewed,ci,ci
 2023-02-07T13:23:54.182Z,40.0876,-119.6863,14.6,0,ml,3,239.6,0.09,0.0597,nn,nn00855807,2023-02-07T21:06:40.749Z,"16 km NNW of Sutcliffe, Nevada",earthquake,,3.5,0.55,3,reviewed,nn,nn
 2023-02-07T13:20:51.560Z,38.8258324,-122.7961655,2.62,1.1,md,17,43,0.01113,0.02,nc,nc73842986,2023-02-07T16:20:14.217Z,"6km W of Cobb, CA",earthquake,0.26,0.51,0.23,18,automatic,nc,nc
@@ -247,5 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-07T07:32:26.230Z,38.8288345,-122.802002,1.59,0.77,md,10,79,0.008322,0.01,nc,nc73842926,2023-02-07T08:27:17.268Z,"7km W of Cobb, CA",earthquake,0.35,0.91,0.42,13,automatic,nc,nc
 2023-02-07T07:26:36.400Z,38.0354,37.6579,16.534,4.5,mb,35,113,0.932,0.62,us,us6000jm6v,2023-02-07T08:29:49.040Z,"19 km WSW of Doğanşehir, Turkey",earthquake,3.66,5.223,0.171,10,reviewed,us,us
 2023-02-07T07:25:17.090Z,38.8283348,-122.8103333,1.11,0.23,md,9,64,0.004937,0.02,nc,nc73842921,2023-02-07T10:00:16.868Z,"7km NW of The Geysers, CA",earthquake,0.34,0.85,0.12,9,automatic,nc,nc
-2023-02-07T07:22:05.830Z,36.2938347,-120.7656631,3.07,1.49,md,5,181,0.3598,0.13,nc,nc73842916,2023-02-07T09:38:10.712Z,"16km SSW of New Idria, CA",earthquake,4.54,11.35,0.17,5,automatic,nc,nc
-2023-02-07T07:16:24.390Z,33.6511667,-116.7051667,13.15,0.78,ml,23,95,0.06031,0.12,ci,ci40411752,2023-02-07T14:34:25.805Z,"10km S of Idyllwild, CA",earthquake,0.26,0.46,0.16,19,reviewed,ci,ci
