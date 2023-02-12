@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-12T06:27:56.230Z,34.0411667,-116.7161667,11.82,0.94,ml,28,84,0.05671,0.17,ci,ci40413728,2023-02-12T06:31:25.753Z,"12km W of Morongo Valley, CA",earthquake,0.26,0.66,0.174,25,automatic,ci,ci
 2023-02-12T06:01:34.227Z,39.3853,-112.1159,5.874,3.1,ml,18,60,0.214,0.28,us,us6000jneg,2023-02-12T06:15:29.040Z,"15 km N of Scipio, Utah",earthquake,1.37,1.75,0.033,122,reviewed,us,us
 2023-02-12T05:56:28.410Z,36.4626655578613,-89.5616683959961,8.8100004196167,2.31999993,md,11,89,0.05495,0.0500000007,nm,nm60510256,2023-02-12T05:59:49.540Z,"southeastern Missouri",earthquake,0.44,1.66999996,1.10000002,6,reviewed,nm,nm
 2023-02-12T05:52:15.950Z,19.2310009002686,-155.3818359375,31.6499996185303,2.17000008,md,36,149,,0.109999999,hv,hv73323162,2023-02-12T05:55:28.570Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.57,0.670000017,0.879999995,11,automatic,hv,hv
@@ -101,7 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-11T18:08:34.202Z,64.8114,-147.5274,15.9,0.9,ml,,,,0.41,ak,ak0231xrc5zr,2023-02-11T18:12:09.434Z,"1 km NNE of Badger, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-11T18:05:31.190Z,38.901001,-122.6435013,-0.69,2.27,md,8,127,0.04334,0.3,nc,nc73845041,2023-02-11T22:01:15.922Z,"3km WSW of Lower Lake, CA",earthquake,1.45,5.04,0.24,10,automatic,nc,nc
 2023-02-11T18:01:06.505Z,65.0133,-149.1019,0,1.1,ml,,,,0.56,ak,ak0231xralsm,2023-02-11T18:04:11.212Z,"19 km SE of Minto, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-02-11T17:50:17.060Z,38.1803,38.729,5.649,4.2,mb,49,104,0.962,0.64,us,us6000jnbi,2023-02-11T20:02:19.040Z,"18 km NNE of Sincik, Turkey",earthquake,3.41,5.021,0.104,28,reviewed,us,us
+2023-02-11T17:50:17.060Z,38.1803,38.729,5.649,4.2,mb,49,104,0.962,0.64,us,us6000jnbi,2023-02-11T20:02:19.040Z,"eastern Turkey",earthquake,3.41,5.021,0.104,28,reviewed,us,us
 2023-02-11T17:45:25.447Z,58.2583,-154.9802,0.8,1.4,ml,,,,0.48,ak,ak0231xqyn7h,2023-02-11T17:47:49.861Z,"82 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-02-11T17:35:47.901Z,59.9646,-153.569,119.9,2.4,ml,,,,0.49,ak,ak0231xqwjs6,2023-02-11T17:38:03.806Z,"35 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-11T17:26:03.280Z,46.272333333333336,-122.4835,15.8,0.5700000000000001,ml,16,201,0.1035,0.16,uw,uw61906146,2023-02-11T23:16:33.870Z,"28 km S of Mossyrock, Washington",earthquake,1.09,1.05,0.15007737504045687,9,reviewed,uw,uw
@@ -182,4 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-11T06:50:31.120Z,38.8165016,-122.8225021,1.8,0.75,md,11,67,0.009236,0.01,nc,nc73844881,2023-02-11T08:24:14.712Z,"7km NW of The Geysers, CA",earthquake,0.33,0.77,0.13,12,automatic,nc,nc
 2023-02-11T06:47:20.540Z,34.0026667,-116.972,16.62,1.5,ml,44,41,0.08138,0.22,ci,ci40413392,2023-02-11T06:58:22.300Z,"7km ESE of Yucaipa, CA",earthquake,0.26,0.57,0.15,26,automatic,ci,ci
 2023-02-11T06:43:14.900Z,35.5088333,-118.3941667,5.43,0.93,ml,15,48,0.1891,0.12,ci,ci40413384,2023-02-11T06:46:45.492Z,"12km SE of Bodfish, CA",earthquake,0.24,1.3,0.151,9,automatic,ci,ci
-2023-02-11T06:28:13.065Z,37.9814,36.5916,10,4.6,mb,39,73,0.945,0.63,us,us6000jn97,2023-02-11T08:53:08.040Z,"9 km ESE of Göksun, Turkey",earthquake,5.72,1.908,0.173,10,reviewed,us,us
