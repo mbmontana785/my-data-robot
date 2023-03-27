@@ -202,5 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T10:51:35.340Z,48.226333333333336,-121.76283333333333,12.82,1.1,ml,10,76,0.1075,0.07,uw,uw61904852,2023-03-26T21:29:19.980Z,"6 km SSW of Swede Heaven, Washington",earthquake,0.35,0.71,0.27595412103167405,6,reviewed,uw,uw
 2023-03-26T10:43:44.822Z,-7.5337,130.3732,24.189,4.9,mb,49,99,3.028,0.58,us,us7000jmu9,2023-03-26T11:00:52.040Z,"Kepulauan Tanimbar, Indonesia",earthquake,4.77,5.67,0.08,49,reviewed,us,us
 2023-03-26T10:36:27.660Z,38.7980003,-122.815834,2.66,1.49,md,32,68,0.01389,0.04,nc,nc73862495,2023-03-26T13:23:17.304Z,"6km WNW of The Geysers, CA",earthquake,0.21,0.37,0.18,29,automatic,nc,nc
-2023-03-26T10:32:17.580Z,38.8359985,-122.793663,2.52,0.96,md,9,58,0.003537,0.02,nc,nc73862490,2023-03-26T10:48:15.298Z,"6km WNW of Cobb, CA",earthquake,0.47,1.47,0.31,12,automatic,nc,nc
-2023-03-26T10:31:30.154Z,61.3045,-150.0815,35.1,2.5,ml,,,,0.47,ak,ak0233wqtjjr,2023-03-27T02:30:28.135Z,"8 km SW of Point MacKenzie, Alaska",earthquake,,1.6,,,automatic,ak,ak
