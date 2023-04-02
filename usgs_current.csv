@@ -94,6 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T04:17:35.400Z,34.0266667,-117.2686667,19.54,1.19,ml,26,60,0.07719,0.28,ci,ci39508914,2023-04-02T04:21:11.080Z,"2km SSW of Loma Linda, CA",earthquake,0.48,0.72,0.299,31,automatic,ci,ci
 2023-04-02T04:14:42.024Z,61.4394,-147.8958,22.9,1.7,ml,,,,0.56,ak,ak023487wr4a,2023-04-02T04:16:53.147Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-02T04:14:07.724Z,36.2977,141.5322,29.473,4.4,mb,27,151,2.691,0.71,us,us6000k1fx,2023-04-02T05:12:29.943Z,"near the east coast of Honshu, Japan",earthquake,7.97,3.248,0.13,17,reviewed,us,us
+2023-04-02T04:07:29.862Z,53.8724,-166.589,4.9,1.4,ml,,,,0.5,ak,ak023487v6hw,2023-04-02T19:26:02.254Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-04-02T04:03:36.353Z,61.2918,-146.8596,24,1.8,ml,,,,1.08,ak,ak023487udsz,2023-04-02T04:05:37.833Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-02T03:58:38.010Z,53.8723333333333,-166.581166666667,7.29,2.5,ml,14,118,,0.2,av,av91830131,2023-04-02T13:38:22.650Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.42,0.39,0.199497255003652,15,reviewed,av,av
 2023-04-02T03:57:26.730Z,38.848835,-122.8136673,0.94,0.55,md,6,123,0.01987,0.01,nc,nc73865680,2023-04-02T06:37:11.655Z,"8km WNW of Cobb, CA",earthquake,0.31,1.67,0.29,7,automatic,nc,nc
@@ -158,5 +159,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T19:48:37.830Z,38.7978333,-122.7835,3.83,0.19,md,12,103,0.005789,0.03,nc,nc73865545,2023-04-02T10:22:11.004Z,"3km NW of The Geysers, CA",earthquake,0.33,0.44,0.297,10,reviewed,nc,nc
 2023-04-01T19:35:29.410Z,17.9438333333333,-66.957,14.1,2.68,md,11,215,0.08025,0.13,pr,pr71402283,2023-04-01T20:08:05.190Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.57,0.65,0.0747927480745507,5,reviewed,pr,pr
 2023-04-01T19:35:10.998Z,31.62911801,-104.4189777,5.668823242,2.9,ml,14,90,0.0293226118,0.3,tx,tx2023gjyc,2023-04-01T20:42:28.040Z,"60 km S of Whites City, New Mexico",earthquake,1.566366036,1.026792554,0.2,13,reviewed,tx,tx
-2023-04-01T19:33:38.329Z,31.63233497,-104.4190073,6.131567383,3.2,ml,16,88,0.02635900126,0.2,tx,tx2023gjxz,2023-04-01T19:52:21.040Z,"60 km S of Whites City, New Mexico",earthquake,1.274355031,0.9135910081,0.1,12,reviewed,tx,tx
-2023-04-01T19:33:07.860Z,61.0314,-152.278,106,1.8,ml,,,,0.31,ak,ak02346tewo2,2023-04-01T19:34:58.813Z,"61 km W of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
