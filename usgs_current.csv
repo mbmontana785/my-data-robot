@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-27T09:26:30.218Z,61.5327,-150.0134,21.9,1.2,ml,,,,0.41,ak,ak0235dne565,2023-04-27T09:28:44.376Z,"3 km WNW of Big Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-27T09:24:19.020Z,19.1620006561279,-155.490325927734,32.4700012207031,1.84000003,md,33,164,,0.109999999,hv,hv73378577,2023-04-27T09:27:31.510Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.67,1,1.84000003,4,automatic,hv,hv
 2023-04-27T09:15:39.273Z,60.7947,-150.9274,34.4,1.4,ml,,,,0.38,ak,ak0235dnbszr,2023-04-27T09:17:04.966Z,"19 km SW of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-27T09:05:22.400Z,38.8274994,-122.8043365,2.57,0.38,md,8,105,0.006073,0.01,nc,nc73880841,2023-04-27T09:22:16.275Z,"7km NW of The Geysers, CA",earthquake,0.5,1.74,0.23,8,automatic,nc,nc
 2023-04-27T09:02:34.960Z,35.6786667,-117.5126667,2.68,0.94,ml,14,126,0.07368,0.15,ci,ci40446144,2023-04-27T09:06:00.627Z,"14km SW of Searles Valley, CA",earthquake,0.34,0.56,0.134,8,automatic,ci,ci
@@ -255,9 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-26T09:42:27.224Z,62.1584,-149.5973,41.2,1.7,ml,,,,0.27,ak,ak0235bzy7wi,2023-04-26T09:44:58.572Z,"13 km E of Susitna North, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-04-26T09:41:12.968Z,38.7779,-118.6643,8.4,1,ml,10,87.61,0.515,0.1368,nn,nn00858720,2023-04-26T17:34:40.471Z,"California-Nevada border region",earthquake,,2.6,0.2,5,reviewed,nn,nn
 2023-04-26T09:40:40.911Z,39.2477,-119.6201,6.7,0.8,ml,3,200.3,0.053,0.0373,nn,nn00858719,2023-04-26T17:22:10.746Z,"2 km WNW of Dayton, Nevada",earthquake,,4.9,1.06,2,reviewed,nn,nn
-2023-04-26T09:34:52.480Z,33.8281667,-116.9745,9.05,0.33,ml,18,190,0.02084,0.11,ci,ci40445800,2023-04-26T18:36:50.684Z,"5km NNW of San Jacinto, CA",earthquake,0.45,0.59,0.03,7,reviewed,ci,ci
-2023-04-26T09:31:51.988Z,38.1763,-117.7971,10.4,1.5,ml,6,105.17,0.122,0.128,nn,nn00858712,2023-04-26T15:42:58.820Z,"36 km SE of Mina, Nevada",earthquake,,2.9,0.22,4,reviewed,nn,nn
-2023-04-26T09:28:19.380Z,19.2508335113525,-155.401504516602,32.0400009155273,1.99000001,md,36,148,,0.100000001,hv,hv73377082,2023-04-26T09:31:39.390Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.54,0.709999979,0.5,5,automatic,hv,hv
-2023-04-26T09:27:18.560Z,33.182,-115.6081667,2.97,1.56,ml,32,86,0.007726,0.2,ci,ci40445792,2023-04-26T18:33:11.221Z,"10km SW of Niland, CA",earthquake,0.22,0.15,0.189,28,reviewed,ci,ci
-2023-04-26T09:26:09.468Z,64.6509,-152.4595,11.5,3.5,ml,,,,0.82,ak,ak0235bzuu3b,2023-04-26T16:13:35.556Z,"60 km SSW of Tanana, Alaska",earthquake,,0.4,,,reviewed,ak,ak
-2023-04-26T09:25:40.487Z,64.6927,-152.4538,15.4,3.3,ml,,,,0.87,ak,ak0235bzulqx,2023-04-26T09:31:47.040Z,"56 km SSW of Tanana, Alaska",earthquake,,0.6,,,automatic,ak,ak
