@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-07T11:33:44.670Z,59.3038,-152.0335,73.4,1.4,ml,,,,0.53,ak,ak0235u800g3,2023-05-07T11:36:19.517Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-07T11:19:29.433Z,59.7693,-150.8484,57.6,1.4,ml,,,,0.5,ak,ak0235u7wz8v,2023-05-07T11:22:28.719Z,"Kenai Peninsula, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-07T11:09:42.740Z,38.8153343,-122.8251648,2.04,1.05,md,17,53,0.007178,0.02,nc,nc73884911,2023-05-07T11:26:19.810Z,"7km NW of The Geysers, CA",earthquake,0.23,0.41,0.31,19,automatic,nc,nc
 2023-05-07T11:01:07.220Z,33.9168333,-116.7463333,15.95,1.18,ml,45,55,0.03155,0.16,ci,ci40220319,2023-05-07T11:12:09.610Z,"4km E of Cabazon, CA",earthquake,0.19,0.46,0.186,27,automatic,ci,ci
@@ -27,6 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T08:31:14.628Z,2.4302,127.2941,94.779,4.5,mb,15,166,1.649,0.38,us,us6000ka6h,2023-05-07T09:08:48.040Z,"111 km NW of Tobelo, Indonesia",earthquake,11.06,6.719,0.171,12,reviewed,us,us
 2023-05-07T08:28:23.735Z,35.24039459,-98.04353333,0.1106850579,3.09,ml,94,21.16207886,0.03449582309,0.686646429,ok,ok2023iwwe,2023-05-07T08:53:08.040Z,"9 km WNW of Pocasset, Oklahoma",earthquake,1.314774281,1.006373082,0.27,50,automatic,ok,ok
 2023-05-07T08:18:07.841Z,58.1231,-155.5659,59.6,0.9,ml,,,,0.92,ak,ak0235u64f1s,2023-05-07T08:20:02.267Z,"89 km SE of King Salmon, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2023-05-07T08:15:07.963Z,45.0128,-66.8819,7.724,2,ml,13,151,0.109,0.26,us,us6000ka6b,2023-05-07T11:36:35.040Z,"14 km NE of Eastport, Maine",earthquake,2.91,6.748,0.148,6,reviewed,us,us
 2023-05-07T08:13:08.957Z,61.0034,-148.107,3.8,1.7,ml,,,,0.56,ak,ak0235u63cjz,2023-05-07T08:15:07.222Z,"40 km NE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-07T08:05:33.184Z,3.0743,-74.7779,184.391,4.6,ml,13,174,1.818,0.29,us,us6000ka69,2023-05-07T08:37:52.040Z,"31 km ESE of Baraya, Colombia",earthquake,7.64,11.065,0.074,24,reviewed,us,us
 2023-05-07T07:54:43.108Z,58.1605,-153.0518,63.3,1.7,ml,,,,0.55,ak,ak0235u5qrxy,2023-05-07T08:03:22.071Z,"13 km NW of Aleneva, Alaska",earthquake,,3.1,,,automatic,ak,ak
