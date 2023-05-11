@@ -200,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T12:22:50.906Z,37.0998,-116.9398,7,-0.1,ml,4,315.18,0.18,0.0885,nn,nn00859329,2023-05-11T00:11:13.935Z,"26 km NW of Beatty, Nevada",earthquake,,10.8,0.79,4,reviewed,nn,nn
 2023-05-10T12:17:36.540Z,33.7121667,-116.8306667,14.95,0.59,ml,24,155,0.08159,0.14,ci,ci40222151,2023-05-10T14:12:55.835Z,"7km SE of Valle Vista, CA",earthquake,0.35,0.44,0.096,7,reviewed,ci,ci
 2023-05-10T11:59:11.200Z,38.783165,-122.7458344,0.99,0.78,md,8,90,0.00712,0.02,nc,nc73886101,2023-05-10T14:14:14.200Z,"1km NE of The Geysers, CA",earthquake,0.55,0.88,0.06,9,automatic,nc,nc
-2023-05-10T11:52:00.510Z,44.8448333333333,-111.846333333333,8.92,1.32,ml,25,78,0.1725,0.18,mb,mb90013208,2023-05-10T19:49:24.750Z,"50 km S of Virginia City, Montana",earthquake,0.43,0.93,0.17131201050627,13,reviewed,mb,mb
