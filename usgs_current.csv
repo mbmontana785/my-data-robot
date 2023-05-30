@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-30T16:44:37.399Z,58.1769,-155.4031,0.1,1.5,ml,,,,0.51,ak,ak0236wcei57,2023-05-30T16:46:12.253Z,"88 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-05-30T16:41:09.823Z,63.4993,-149.2894,36.7,1.5,ml,,,,0.69,ak,ak0236wcdsva,2023-05-30T16:43:06.316Z,"20 km NW of Cantwell, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-05-30T16:36:48.997Z,58.2509,-155.1296,1.4,0.1,ml,,,,0.12,ak,ak0236wcctb7,2023-05-30T16:38:12.244Z,"Alaska Peninsula",earthquake,,2,,,automatic,ak,ak
 2023-05-30T16:36:36.238Z,64.9648,-148.6808,15.1,2,ml,,,,0.51,ak,ak0236wccsbr,2023-05-30T16:38:20.243Z,"34 km WNW of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-30T16:33:48.010Z,19.4069995880127,-155.253326416016,2.05999994277954,1.88,ml,26,81,,0.150000006,hv,hv73430417,2023-05-30T16:39:21.430Z,"4 km SSW of Volcano, Hawaii",earthquake,0.19,0.209999993,0.24,11,automatic,hv,hv
@@ -119,10 +121,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-30T03:00:39.250Z,19.4061660766602,-155.286163330078,0.699999988079071,1.83,ml,19,40,,0.180000007,hv,hv73429417,2023-05-30T03:06:09.750Z,"6 km SW of Volcano, Hawaii",earthquake,0.18,0.209999993,0.29,9,automatic,hv,hv
 2023-05-30T02:59:05.136Z,58.2038,-155.0359,10,0.8,ml,,,,0.74,ak,ak0236w45kzs,2023-05-30T03:02:10.757Z,"78 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-30T02:58:02.340Z,38.8213348,-122.8046646,2.96,1.08,md,22,38,0.0047,0.01,nc,nc73891520,2023-05-30T04:19:11.887Z,"6km NW of The Geysers, CA",earthquake,0.23,0.47,0.18,23,automatic,nc,nc
-2023-05-30T02:49:43.600Z,37.5325,-87.3443333333333,0.69,2.51,md,17,103,0.1217,0.28,nm,nm60500763,2023-05-30T16:35:54.713Z,"7 km W of Calhoun, Kentucky",earthquake,0.92,1.65,0.184107851597688,13,reviewed,nm,nm
+2023-05-30T02:49:43.600Z,37.5325,-87.3443333333333,0.69,2.51,md,17,103,0.1217,0.28,nm,nm60500763,2023-05-30T16:51:11.414Z,"7 km W of Calhoun, Kentucky",earthquake,0.92,1.65,0.184107851597688,13,reviewed,nm,nm
 2023-05-30T02:49:39.581Z,59.4755,-152.7885,83.7,1.7,ml,,,,0.19,ak,ak0236w43ifa,2023-05-30T02:51:01.218Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-30T02:47:22.120Z,34.4108333,-119.8983333,10.98,1.33,ml,10,131,0.1136,0.27,ci,ci40237215,2023-05-30T02:51:02.609Z,"3km W of Isla Vista, CA",earthquake,0.69,1.77,0.108,13,automatic,ci,ci
-2023-05-30T02:45:20.990Z,37.535,-87.328,5.99,3,md,17,106,0.1188,0.28,nm,nm60500758,2023-05-30T16:32:38.605Z,"6 km W of Calhoun, Kentucky",earthquake,1.33,2.35,0.186899946144104,14,reviewed,nm,nm
+2023-05-30T02:45:20.990Z,37.535,-87.328,5.99,3,md,17,106,0.1188,0.28,nm,nm60500758,2023-05-30T16:43:10.611Z,"6 km W of Calhoun, Kentucky",earthquake,1.33,2.35,0.186899946144104,14,reviewed,nm,nm
 2023-05-30T02:40:23.010Z,41.5016667,-112.1768333,8.05,1.36,ml,18,92,0.1044,0.1,uu,uu60541226,2023-05-30T14:50:20.150Z,"7 km SW of Corinne, Utah",earthquake,0.32,1.43,0.106,2,reviewed,uu,uu
 2023-05-30T02:35:40.986Z,58.2571,-155.1346,1.9,0.8,ml,,,,0.32,ak,ak0236w40iia,2023-05-30T02:37:07.802Z,"86 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-30T02:28:39.150Z,38.8051682,-122.8225021,2.31,1.09,md,21,71,0.006392,0.02,nc,nc73891510,2023-05-30T03:52:12.711Z,"6km WNW of The Geysers, CA",earthquake,0.21,0.47,0.14,21,automatic,nc,nc
@@ -202,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-29T17:08:16.844Z,9.7704,125.1503,11.013,4.6,mb,76,84,2.717,0.69,us,us7000k4t6,2023-05-30T01:36:13.396Z,"31 km W of Ipil, Philippines",earthquake,6.67,4.29,0.068,70,reviewed,us,us
 2023-05-29T17:04:42.510Z,19.2438335418701,-155.399673461914,30.6900005340576,1.77999997,md,41,151,,0.140000001,hv,hv73428742,2023-05-29T17:08:09.230Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.58,0.769999981,0.670000017,7,automatic,hv,hv
 2023-05-29T17:03:40.902Z,61.6922,-151.9908,122.1,1.6,ml,,,,0.33,ak,ak0236up7t62,2023-05-29T17:05:25.429Z,"45 km SW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-05-29T16:46:49.632Z,61.8013,-149.5587,50.2,1.2,ml,,,,0.4,ak,ak0236uovm0z,2023-05-29T16:48:36.376Z,"18 km WNW of Fishhook, Alaska",earthquake,,1.1,,,automatic,ak,ak
