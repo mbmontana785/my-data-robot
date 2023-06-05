@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-05T12:05:45.920Z,38.7911682,-122.7594986,1.58,0.77,md,12,72,0.009444,0.02,nc,nc73897236,2023-06-05T12:07:21.767Z,"2km N of The Geysers, CA",earthquake,0.26,0.65,0.17,11,automatic,nc,nc
 2023-06-05T11:23:50.289Z,61.4172,-149.9245,34.6,1.3,ml,,,,0.58,ak,ak023766iy1g,2023-06-05T11:25:52.484Z,"7 km NNE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-05T11:07:12.660Z,33.6523333,-116.7085,15.41,0.34,ml,16,73,0.05887,0.16,ci,ci40478624,2023-06-05T11:10:37.434Z,"10km S of Idyllwild, CA",earthquake,0.45,0.61,0.142,7,automatic,ci,ci
 2023-06-05T11:01:59.820Z,19.1483325958252,-155.488006591797,29.2299995422363,1.83000004,md,36,162,,0.100000001,hv,hv73440582,2023-06-05T11:05:05.730Z,"Hawaii region, Hawaii",earthquake,0.59,0.75,0.910000026,3,automatic,hv,hv
@@ -185,5 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-04T12:14:22.509Z,-25.1558,179.7521,490.621,4.6,mb,48,54,4.585,0.54,us,us7000k691,2023-06-04T12:33:28.040Z,"south of the Fiji Islands",earthquake,12.49,8.016,0.036,238,reviewed,us,us
 2023-06-04T12:12:25.880Z,32.9413333,-115.5533333,6.06,1.34,ml,17,89,0.04023,0.25,ci,ci40477824,2023-06-04T12:16:03.600Z,"5km SSW of Brawley, CA",earthquake,0.58,1.62,0.216,19,automatic,ci,ci
 2023-06-04T12:10:11.810Z,61.7663,-149.6733,17.1,0.9,ml,,,,0.26,ak,ak02374ji5vh,2023-06-04T12:12:08.275Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-06-04T12:02:40.660Z,38.8121681,-122.7845001,1.58,2.05,md,33,36,0.003173,0.07,nc,nc73896871,2023-06-04T12:56:13.813Z,"5km NNW of The Geysers, CA",earthquake,0.19,0.29,0.2,37,automatic,nc,nc
-2023-06-04T11:53:36.150Z,48.65116666666667,-123.08683333333333,20.2,0.54,ml,8,193,0.04709,0.19,uw,uw61930436,2023-06-04T18:43:52.690Z,"Washington-British Columbia border region",earthquake,0.85,1.06,0.17117476753097793,3,reviewed,uw,uw
