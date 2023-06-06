@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-06T15:48:01.502Z,65.5284,-144.0871,5,1.4,ml,,,,0.98,ak,ak02377wla27,2023-06-06T15:50:16.431Z,"33 km S of Circle, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-06T15:12:14.190Z,38.8305016,-122.8178329,1.82,0.83,md,13,57,0.009332,0.02,nc,nc73897746,2023-06-06T15:32:14.639Z,"8km NW of The Geysers, CA",earthquake,0.31,0.71,0.25,15,automatic,nc,nc
 2023-06-06T15:05:30.200Z,38.8321648,-122.8178329,1.65,0.67,md,10,69,0.01065,0.01,nc,nc73897741,2023-06-06T15:20:14.569Z,"8km NW of The Geysers, CA",earthquake,0.36,0.76,0.28,10,automatic,nc,nc
 2023-06-06T15:03:03.770Z,33.3358333,-116.3681667,9.93,1.54,ml,49,33,0.07895,0.21,ci,ci40479416,2023-06-06T15:13:55.080Z,"9km N of Borrego Springs, CA",earthquake,0.26,0.56,0.176,27,automatic,ci,ci
