@@ -233,5 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-06T05:51:47.340Z,33.6695,-116.7665,16.44,0.4,ml,21,64,0.06026,0.12,ci,ci40479240,2023-06-06T13:10:08.850Z,"9km SSW of Idyllwild, CA",earthquake,0.24,0.33,0.165,10,reviewed,ci,ci
 2023-06-06T05:37:03.296Z,66.1085,-143.245,21.6,1.9,ml,,,,1.33,ak,ak02377qklax,2023-06-06T05:41:54.655Z,"northern Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-06-06T05:36:07.230Z,37.3754,-117.8787,6.9,0.8,ml,6,199.4,0.075,0.0763,nn,nn00860893,2023-06-07T02:03:31.616Z,"California-Nevada border region",earthquake,,4.3,0.82,5,reviewed,nn,nn
-2023-06-06T05:35:57.004Z,58.1846,-155.3182,0.7,0.8,ml,,,,2.32,ak,ak02377qka0k,2023-06-06T05:41:44.235Z,"Alaska Peninsula",earthquake,,6.9,,,automatic,ak,ak
-2023-06-06T05:35:34.060Z,45.3701666666667,-112.601833333333,5.83,1.86,ml,26,88,0.008571,0.08,mb,mb90016858,2023-06-06T19:47:09.230Z,"17 km N of Dillon, Montana",earthquake,0.27,0.32,0.167256080527435,23,reviewed,mb,mb
