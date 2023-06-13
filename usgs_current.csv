@@ -174,4 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T06:11:48.259Z,-8.5689,157.261,10,5,mb,32,57,2.791,1.11,us,us7000k7xr,2023-06-12T06:32:06.040Z,"69 km SE of Gizo, Solomon Islands",earthquake,5.23,1.911,0.113,25,reviewed,us,us
 2023-06-12T06:09:17.120Z,34.0945,-117.3178333,16.91,1.32,ml,69,39,0.03098,0.17,ci,ci40483704,2023-06-12T17:50:13.350Z,"2km N of Colton, CA",earthquake,0.17,0.33,0.116,33,reviewed,ci,ci
 2023-06-12T05:58:33.800Z,37.1146667,-121.5063333,8.22,0.92,md,19,54,0.05022,0.09,nc,nc73900256,2023-06-12T21:54:02.271Z,"10km ENE of San Martin, CA",earthquake,0.27,0.64,0.267,18,reviewed,nc,nc
-2023-06-12T05:45:59.520Z,35.2415,-84.2935,6.21,1.78,md,7,104,0.1567,0.18,se,se60500828,2023-06-12T15:10:56.685Z,"Tennessee",earthquake,0.65,4.11,0.0446448577643859,5,reviewed,se,se
