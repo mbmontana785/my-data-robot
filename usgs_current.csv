@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-28T06:28:42.940Z,19.1906661987305,-155.505004882812,30.8600006103516,1.82000005,md,32,87,,0.100000001,hv,hv73464027,2023-06-28T06:31:56.920Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.75,0.939999998,0.460000008,5,automatic,hv,hv
 2023-06-28T06:25:49.910Z,38.8388329,-122.8271637,2.5,0.58,md,6,168,0.01608,0.03,nc,nc73906236,2023-06-28T06:28:42.263Z,"9km NW of The Geysers, CA",earthquake,0.47,1.45,0.24,7,automatic,nc,nc
 2023-06-28T06:22:11.932Z,59.1501,-151.0158,26.2,2.2,ml,,,,0.48,ak,ak023884wgp5,2023-06-28T06:24:31.858Z,"50 km SSE of Halibut Cove, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-28T06:19:59.697Z,64.759,-147.5516,14.3,0.4,ml,,,,0.33,ak,ak023884vx8h,2023-06-28T06:21:31.218Z,"4 km S of Badger, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -186,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-27T06:51:22.356Z,62.3208,-150.4021,33.3,1.1,ml,,,,1.25,ak,ak02386hjcrv,2023-06-27T07:24:47.020Z,"8 km W of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-27T06:49:16.745Z,60.1455,-151.6005,57.9,1.5,ml,,,,0.41,ak,ak02386hiwwq,2023-06-27T06:50:43.124Z,"Kenai Peninsula, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-06-27T06:45:11.210Z,19.2336,-67.5883,24,3.59,md,16,296,0.8561,0.22,pr,pr2023178000,2023-06-27T07:19:45.257Z,"96 km NNW of San Antonio, Puerto Rico",earthquake,0.98,16.6,0.09,12,reviewed,pr,pr
-2023-06-27T06:37:16.887Z,37.0532,-104.9449,8.62,2.7,ml,25,63,0.147,0.59,us,us6000knck,2023-06-27T06:48:21.040Z,"12 km SW of Weston, Colorado",earthquake,4.83,8.497,0.05,52,reviewed,us,us
