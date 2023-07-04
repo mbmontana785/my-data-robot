@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-04T04:21:54.180Z,38.8266678,-122.8026657,2.65,0.6,md,7,91,0.006646,0.01,nc,nc73908596,2023-07-04T04:23:29.293Z,"7km NW of The Geysers, CA",earthquake,0.48,1.74,0.28,8,automatic,nc,nc
+2023-07-04T04:32:55.490Z,17.874,-66.861,14.54,2.66,md,8,244,0.102,0.08,pr,pr71416178,2023-07-04T04:46:46.110Z,"Puerto Rico region",earthquake,0.82,1.02,0.0882559781229366,7,reviewed,pr,pr
+2023-07-04T04:21:54.180Z,38.8266678,-122.8026657,2.65,0.6,md,7,91,0.006646,0.01,nc,nc73908596,2023-07-04T04:47:18.831Z,"7km NW of The Geysers, CA",earthquake,0.48,1.74,0.28,8,automatic,nc,nc
 2023-07-04T04:14:31.540Z,38.793499,-122.7623367,2.52,0.75,md,13,79,0.01999,0.04,nc,nc73908591,2023-07-04T04:36:14.761Z,"2km NNW of The Geysers, CA",earthquake,0.38,1.2,0.07,12,automatic,nc,nc
 2023-07-04T04:08:46.690Z,38.8274994,-122.8536682,2.1,0.84,md,16,91,0.002504,0.06,nc,nc73908586,2023-07-04T04:26:13.708Z,"10km WNW of The Geysers, CA",earthquake,0.27,0.58,0.2,17,automatic,nc,nc
 2023-07-04T03:59:06.106Z,60.4599,-152.1861,73.6,1.6,ml,,,,0.62,ak,ak0238i0k5w2,2023-07-04T04:05:57.587Z,"49 km WNW of Cohoe, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -111,7 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-03T15:04:36.480Z,45.4375,-111.7975,4.64,0.05,ml,4,185,0.1984,0.03,mb,mb90020648,2023-07-03T16:02:21.050Z,"11 km NNW of Ennis, Montana",earthquake,2.09,6.13,0.410377561470938,2,reviewed,mb,mb
 2023-07-03T15:02:29.620Z,46.312666666666665,-122.23816666666667,5.28,0.61,ml,12,124,0.03987,0.1,uw,uw61929207,2023-07-03T19:23:51.650Z,"27 km S of Morton, Washington",earthquake,0.43,0.61,0.11603502836035628,6,reviewed,uw,uw
 2023-07-03T14:59:20.395Z,60.6396,-151.7692,71.3,1.8,ml,,,,0.52,ak,ak0238gjkm5j,2023-07-03T15:01:15.817Z,"Kenai Peninsula, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-03T14:47:29.646Z,61.2982,-149.5885,28.2,4.6,ml,,,,0.62,ak,ak0238gji26s,2023-07-04T04:22:52.597Z,"Southern Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2023-07-03T14:47:29.646Z,61.2982,-149.5885,28.2,4.6,ml,,,,0.62,ak,ak0238gji26s,2023-07-04T04:42:52.665Z,"Southern Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-07-03T14:43:16.500Z,34.2941667,-116.8373333,5.72,1.58,ml,40,40,0.05434,0.17,ci,ci40502608,2023-07-03T14:46:53.516Z,"4km N of Big Bear City, CA",earthquake,0.23,0.69,0.155,28,automatic,ci,ci
 2023-07-03T14:33:21.060Z,38.8349991,-122.7894974,1.88,0.56,md,9,84,0.003469,0.01,nc,nc73908296,2023-07-03T14:36:03.388Z,"6km WNW of Cobb, CA",earthquake,0.43,0.46,0.36,8,automatic,nc,nc
 2023-07-03T14:22:52.390Z,17.969,-67.0651666666667,7.73,2.25,md,3,224,0.01994,0.13,pr,pr71416103,2023-07-03T15:01:46.080Z,"2 km WSW of La Parguera, Puerto Rico",earthquake,3.27,0.5,0.0091647400957211,2,reviewed,pr,pr
@@ -213,4 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-03T05:14:03.780Z,33.3876667,-116.9661667,6.75,0.48,ml,16,60,0.05495,0.16,ci,ci40502392,2023-07-03T05:17:34.869Z,"10km WNW of Palomar Observatory, CA",earthquake,0.35,0.9,0.104,11,automatic,ci,ci
 2023-07-03T05:08:27.680Z,18.0351,-68.1748,164,3.95,md,20,211,0.2472,0.44,pr,pr2023184001,2023-07-03T06:57:59.040Z,"Mona Passage",earthquake,3.81,1.54,0.07,13,reviewed,pr,pr
 2023-07-03T04:59:36.312Z,69.1642,-143.6426,35.2,2.8,ml,,,,0.88,ak,ak0238gdmbbz,2023-07-03T05:02:29.342Z,"107 km S of Kaktovik, Alaska",earthquake,,24.7,,,automatic,ak,ak
-2023-07-03T04:46:27.796Z,59.474,-150.8272,34.7,2.1,ml,,,,0.64,ak,ak0238gdjid7,2023-07-03T04:48:27.008Z,"Kenai Peninsula, Alaska",earthquake,,0.2,,,automatic,ak,ak
