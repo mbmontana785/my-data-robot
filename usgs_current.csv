@@ -223,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-19T07:03:11.340Z,36.562,-121.0835,10.66,2.24,md,52,93,0.03901,0.14,nc,nc73914486,2023-07-19T22:37:14.211Z,"6 km ENE of Pinnacles, CA",earthquake,0.29,0.39,0.158,54,reviewed,nc,nc
 2023-07-19T06:58:59.210Z,36.1943333,-120.7648333,7.81,1.87,md,51,79,0.03649,0.1,nc,nc73914481,2023-07-19T21:06:14.679Z,"23 km NNE of San Ardo, CA",earthquake,0.24,0.32,0.182,42,reviewed,nc,nc
 2023-07-19T06:57:41.009Z,62.4772,-150.648,68,1.2,ml,,,,0.68,ak,ak02396vebdg,2023-07-19T06:59:58.024Z,"6 km ESE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-19T06:54:52.095Z,31.62476865,-104.1240924,5.771655273,2,ml,21,55,0.04666988745,0.1,tx,tx2023oacv,2023-07-19T14:45:30.985Z,"46 km NW of Toyah, Texas",earthquake,0.7487971706999998,1.059540684,0.1,7,reviewed,tx,tx
