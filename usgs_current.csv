@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-25T19:28:02.358Z,57.0186,-158.3126,6.4,1,ml,,,,0.63,ak,ak0239h06qgb,2023-07-25T19:30:17.442Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
 2023-07-25T19:23:43.296Z,58.1925,-155.331,1.1,0,ml,,,,0.38,ak,ak0239h05r15,2023-07-25T19:25:03.857Z,"86 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-07-25T19:11:26.102Z,63.08,-151.4876,8.1,1,ml,,,,0.52,ak,ak0239h03542,2023-07-25T19:13:02.770Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-25T19:07:27.501Z,61.2843,-148.7854,24.3,1.2,ml,,,,1.04,ak,ak0239h02acu,2023-07-25T19:09:20.865Z,"20 km SSE of Knik River, Alaska",earthquake,,0.3,,,automatic,ak,ak
