@@ -177,7 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-24T12:01:24.430Z,38.8339996,-122.9551697,4.62,1.14,md,8,176,0.01294,0.02,nc,nc73916136,2023-07-24T12:47:15.858Z,"6 km ENE of Cloverdale, CA",earthquake,1.6,2.07,0.12,8,automatic,nc,nc
 2023-07-24T11:58:14.176Z,60.2591,-147.0542,10.7,1.4,ml,,,,0.76,ak,ak0239f82de5,2023-07-24T12:00:48.146Z,"57 km ENE of Chenega, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-07-24T11:54:26.500Z,48.51016666666666,-122.03166666666667,6.82,0.84,ml,5,110,0.12,0.06,uw,uw61943281,2023-07-24T17:08:04.610Z,"2 km SE of Lyman, Washington",earthquake,0.32,1.68,0.1650143931354685,4,reviewed,uw,uw
-2023-07-24T11:52:05.530Z,33.7075,-116.7316667,18.79,0.45,ml,12,108,0.01504,0.11,ci,ci39620314,2023-07-24T13:06:12.267Z,"4km SSW of Idyllwild, CA",earthquake,0.38,0.44,0.129,10,reviewed,ci,ci
-2023-07-24T11:50:55.440Z,33.9375,-116.542,10.02,0.3,ml,17,84,0.1108,0.11,ci,ci39620306,2023-07-24T21:27:02.451Z,"4km N of Garnet, CA",earthquake,0.21,0.86,0.123,9,reviewed,ci,ci
-2023-07-24T11:48:07.696Z,62.248,-151.3875,78.2,1.1,ml,,,,0.25,ak,ak0239f807zw,2023-07-24T12:00:50.207Z,"28 km N of Skwentna, Alaska",earthquake,,3.2,,,automatic,ak,ak
-2023-07-24T11:47:47.299Z,59.9694,-151.8495,67.5,1.8,ml,,,,0.21,ak,ak0239f8036x,2023-07-24T11:49:15.625Z,"7 km WNW of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
