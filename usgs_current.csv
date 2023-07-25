@@ -1,5 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-25T15:50:49.283Z,61.3153,-152.4309,0,1.2,ml,,,,1.15,ak,ak0239gxxteo,2023-07-25T15:52:41.122Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-07-25T15:50:06.140Z,19.1988334655762,-155.466171264648,30.1599998474121,2.29,ml,38,100,,0.100000001,hv,hv73496987,2023-07-25T15:55:37.270Z,"1 km ESE of Pāhala, Hawaii",earthquake,0.51,0.670000017,0.23,7,automatic,hv,hv
+2023-07-25T15:46:27.940Z,19.1961669921875,-155.493499755859,30.7999992370605,1.76999998,md,35,81,,0.0900000036,hv,hv73496972,2023-07-25T15:49:32.690Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.5,0.800000012,0.49000001,11,automatic,hv,hv
 2023-07-25T15:35:53.220Z,19.2023334503174,-155.317001342773,28.5599994659424,1.75,ml,31,173,,0.140000001,hv,hv73496962,2023-07-25T15:41:22.850Z,"16 km E of Pāhala, Hawaii",earthquake,0.66,0.730000019,0.34,5,automatic,hv,hv
+2023-07-25T15:35:05.902Z,2.2578,126.8221,54.244,5.1,mb,104,74,1.573,0.9,us,us7000ki9d,2023-07-25T15:52:26.040Z,"144 km WNW of Tobelo, Indonesia",earthquake,7.03,6.676,0.062,85,reviewed,us,us
+2023-07-25T15:31:32.390Z,54.6043,-161.1932,41.126,3.8,mb,11,186,0.853,0.71,us,us7000ki98,2023-07-25T15:56:28.040Z,"Alaska Peninsula",earthquake,4.95,17.87,0.228,5,reviewed,us,us
 2023-07-25T15:27:47.790Z,35.7446667,-118.061,3.19,1,ml,12,81,0.1339,0.16,ci,ci39621586,2023-07-25T15:31:24.708Z,"25km WNW of Inyokern, CA",earthquake,0.45,1.33,0.127,9,automatic,ci,ci
 2023-07-25T15:16:53.950Z,38.7921677,-122.7480011,2.24,0.63,md,8,132,0.01254,0.02,nc,nc73916521,2023-07-25T15:45:14.650Z,"2 km NNE of The Geysers, CA",earthquake,0.42,2.13,0.19,8,automatic,nc,nc
 2023-07-25T15:12:55.263Z,60.3566,-147.7664,13.3,1.8,ml,,,,0.95,ak,ak0239gxponq,2023-07-25T15:15:09.744Z,"35 km NNE of Chenega, Alaska",earthquake,,0.1,,,automatic,ak,ak
