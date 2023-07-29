@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-07-29T04:38:54.777Z,59.9736,-152.7287,106.4,1.8,ml,,,,0.28,ak,ak0239ndgvj4,2023-07-29T04:40:46.691Z,"54 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-07-29T04:38:54.777Z,59.9736,-152.7287,106.4,1.8,ml,,,,0.28,ak,ak0239ndgvj4,2023-07-29T04:47:55.040Z,"54 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-29T04:27:07.910Z,60.4036,-143.0431,11.8,2.5,ml,,,,0.39,ak,ak0239ndef2f,2023-07-29T04:35:27.040Z,"114 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-29T04:12:16.780Z,33.0375,-115.6163333,3.83,1.28,ml,13,88,0.02892,0.23,ci,ci39624890,2023-07-29T04:15:45.664Z,"0 km E of Westmorland, CA",earthquake,0.7,0.99,0.237,7,automatic,ci,ci
 2023-07-29T04:11:27.160Z,33.0368333,-115.608,6.27,1.74,ml,29,71,0.02196,0.2,ci,ci39624882,2023-07-29T04:21:48.690Z,"1 km E of Westmorland, CA",earthquake,0.33,0.83,0.229,27,automatic,ci,ci
@@ -63,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T21:01:29.880Z,33.4691667,-116.4701667,11.51,0.7,ml,15,74,0.06562,0.12,ci,ci39624706,2023-07-28T21:47:18.259Z,"21 km ESE of Anza, CA",earthquake,0.26,0.75,0.253,12,reviewed,ci,ci
 2023-07-28T21:00:36.380Z,36.5643349,-121.1539993,0.21,1.8,md,19,128,0.02633,0.12,nc,nc73917736,2023-07-29T01:06:17.044Z,"4 km NNW of Pinnacles, CA",earthquake,0.38,10.12,0.16,19,automatic,nc,nc
 2023-07-28T20:52:37.120Z,40.1913333,-121.069,7.36,2.47,md,32,52,0.08119,0.14,nc,nc73917731,2023-07-29T03:43:14.914Z,"2 km NNE of Canyondam, CA",earthquake,0.27,0.5,0.135,40,reviewed,nc,nc
-2023-07-28T20:52:02.368Z,58.185,-155.262,1.1,1.2,ml,,,,0.38,ak,ak0239lzjcq4,2023-07-28T20:53:36.614Z,"83 km NW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2023-07-28T20:52:02.368Z,58.185,-155.262,1.1,1.2,ml,,,,0.38,ak,ak0239lzjcq4,2023-07-29T04:47:11.170Z,"83 km NW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-07-28T20:46:53.612Z,63.259,-150.406,113.1,1.1,ml,,,,0.18,ak,ak0239lzi6dt,2023-07-28T20:48:58.190Z,"72 km ESE of Denali National Park, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-07-28T20:44:14.000Z,33.471,-116.4711667,12.16,0.63,ml,21,65,0.06461,0.14,ci,ci39624690,2023-07-28T20:58:45.844Z,"21 km ESE of Anza, CA",earthquake,0.24,0.74,0.16,14,reviewed,ci,ci
 2023-07-28T20:41:27.970Z,38.8100014,-122.7598343,0.64,0.74,md,9,105,0.009363,0.01,nc,nc73917726,2023-07-28T21:49:12.892Z,"4 km WSW of Cobb, CA",earthquake,0.38,0.65,0.04,9,automatic,nc,nc
@@ -241,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T05:28:41.557Z,61.3988,-150.1043,31.4,1,ml,,,,0.55,ak,ak0239lqgshn,2023-07-28T05:30:06.840Z,"8 km WNW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-28T05:23:29.980Z,55.0545,-162.243333333333,1.16,0.58,ml,7,144,,0.16,av,av91111943,2023-07-28T22:45:29.130Z,"4 km E of King Cove, Alaska",earthquake,0.4,1.46,0.268103377502309,7,reviewed,av,av
 2023-07-28T05:08:29.230Z,35.9131667,-117.6688333,4.64,0.94,ml,10,136,0.1261,0.06,ci,ci39624130,2023-07-28T17:58:16.054Z,"22 km E of Little Lake, CA",earthquake,0.21,0.39,0.092,5,reviewed,ci,ci
-2023-07-28T04:56:51.440Z,53.8721666666667,-166.541666666667,7.14,-0.03,ml,6,283,,0.17,av,av91980481,2023-07-28T22:07:44.430Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.84,1.62,0.241365333578601,6,reviewed,av,av
