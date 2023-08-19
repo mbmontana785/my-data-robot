@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-19T09:45:33.050Z,33.3156662,-116.8933334,17.76,1.79,ml,73,27,0.04574,0.2,ci,ci39644434,2023-08-19T09:47:41.026Z,"5 km SSW of Palomar Observatory, CA",earthquake,0.22,0.53,0.25,27,automatic,ci,ci
+2023-08-19T09:57:35.205Z,64.7437,-151.9456,11.9,3,ml,,,,0.67,ak,ak023am6ud1s,2023-08-19T09:59:51.450Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-08-19T09:45:33.080Z,33.3165,-116.8931667,17.41,1.77,ml,58,43,0.04497,0.22,ci,ci39644434,2023-08-19T09:56:12.090Z,"5 km SSW of Palomar Observatory, CA",earthquake,0.22,0.58,0.166,26,automatic,ci,ci
 2023-08-19T09:28:59.200Z,19.1366672515869,-155.367172241211,29.5100002288818,1.80999994,md,34,185,,0.100000001,hv,hv73533442,2023-08-19T09:32:01.020Z,"Island of Hawaii, Hawaii",earthquake,0.65,0.939999998,1.80999994,4,automatic,hv,hv
 2023-08-19T09:25:57.670Z,33.5143333,-116.7566667,3.89,0.61,ml,27,65,0.03655,0.19,ci,ci39644426,2023-08-19T09:29:25.737Z,"9 km WSW of Anza, CA",earthquake,0.26,0.46,0.155,18,automatic,ci,ci
 2023-08-19T09:23:00.334Z,61.1146,-150.7216,44.9,1.1,ml,,,,0.39,ak,ak023am6n00h,2023-08-19T09:24:24.178Z,"19 km E of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
