@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-24T17:38:13.570Z,36.2108333,-118.305,5.5,2.57,ml,24,54,0.2919,0.26,ci,ci39649714,2023-08-24T17:41:59.932Z,"28 km WSW of Olancha, CA",earthquake,0.41,4.09,0.163,25,automatic,ci,ci
+2023-08-24T17:38:13.570Z,36.2108333,-118.305,5.5,2.57,ml,24,54,0.2919,0.26,ci,ci39649714,2023-08-24T17:49:09.500Z,"28 km WSW of Olancha, CA",earthquake,0.41,4.09,0.163,25,automatic,ci,ci
 2023-08-24T17:27:16.537Z,64.434,-147.9528,13.9,0.8,ml,,,,0.28,ak,ak023aul43fp,2023-08-24T17:29:28.482Z,"42 km S of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-24T17:14:52.610Z,64.7539,-150.7379,8.6,1.1,ml,,,,0.55,ak,ak023aul1dwt,2023-08-24T17:16:47.773Z,"27 km S of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-24T17:10:13.630Z,19.4090003967285,-154.908493041992,2.36999988555908,1.76999998,md,18,206,,0.129999995,hv,hv73542367,2023-08-24T17:13:33.420Z,"6 km S of Leilani Estates, Hawaii",earthquake,0.77,0.479999989,0.699999988,3,automatic,hv,hv
@@ -271,10 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-23T18:01:19.300Z,19.4028333333333,-155.26,1.8,0.69,md,15,61,,0.11,hv,hv73540222,2023-08-23T20:31:35.400Z,"5 km SSW of Volcano, Hawaii",earthquake,0.22,0.37,0.0710385119738643,2,reviewed,hv,hv
 2023-08-23T18:00:52.049Z,61.6469,-153.9455,0,1.3,ml,,,,0.37,ak,ak023asy0gyc,2023-08-23T18:02:34.503Z,"85 km ENE of Lime Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-23T17:59:24.138Z,55.7921,-158.1471,16.8,2.2,ml,,,,0.65,ak,ak023asxrmfx,2023-08-23T18:00:42.885Z,"58 km SSE of Chignik, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-23T17:55:13.910Z,19.4033333333333,-155.29,1.35,1.24,md,12,67,,0.06,hv,hv73540212,2023-08-23T18:53:15.520Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.27,0.0964717077944115,2,reviewed,hv,hv
-2023-08-23T17:52:53.279Z,61.7866,-150.7043,52,1.2,ml,,,,0.49,ak,ak023asxq6of,2023-08-23T17:54:49.994Z,"28 km NNW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-08-23T17:51:25.315Z,-55.9095,-27.4913,88.592,5.1,mb,70,45,5.417,0.84,us,us7000kqdh,2023-08-23T18:47:34.040Z,"South Sandwich Islands region",earthquake,11.09,4.888,0.064,78,reviewed,us,us
-2023-08-23T17:48:52.270Z,19.2006664276123,-155.386840820312,30.0400009155273,2.22,ml,32,166,,0.129999995,hv,hv73540197,2023-08-23T17:54:23.410Z,"9 km E of Pāhala, Hawaii",earthquake,0.66,1,4.47,4,automatic,hv,hv
-2023-08-23T17:48:42.610Z,19.3845,-155.280166666667,1.08,1.41,md,13,77,,0.08,hv,hv73540192,2023-08-23T20:40:17.110Z,"8 km SW of Volcano, Hawaii",earthquake,0.2,0.18,0.108744179766974,2,reviewed,hv,hv
-2023-08-23T17:48:31.100Z,45.371,-121.98483333333333,-1.61,0.84,ml,10,169,0.1405,0.09,uw,uw61943607,2023-08-23T22:37:32.010Z,"1 km N of Mount Hood Village, Oregon",explosion,0.86,31.61,0.11676800490682182,5,reviewed,uw,uw
-2023-08-23T17:47:11.060Z,19.3855,-155.280666666667,1.22,1.85,md,13,77,,0.07,hv,hv73540187,2023-08-23T20:43:24.090Z,"8 km SW of Volcano, Hawaii",earthquake,0.18,0.19,0.0919790031808966,2,reviewed,hv,hv
