@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-11T19:39:56.480Z,38.8373337,-122.8088303,2.17,0.76,md,12,57,0.01395,0.01,nc,nc73935796,2023-09-11T19:41:33.240Z,"8 km WNW of Cobb, CA",earthquake,0.31,0.93,0.29,13,automatic,nc,nc
 2023-09-11T19:31:34.007Z,62.9351,-149.7882,66.6,1.4,ml,,,,0.51,ak,ak023boe03qw,2023-09-11T19:33:26.516Z,"56 km NNE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-11T19:29:44.900Z,33.9486667,-117.1155,16.13,0.86,ml,20,78,0.1145,0.16,ci,ci39662906,2023-09-11T19:33:20.605Z,"7 km SW of Calimesa, CA",earthquake,0.31,0.81,0.091,14,automatic,ci,ci
 2023-09-11T19:23:11.450Z,35.0513333,-118.3268333,0.15,1.24,ml,10,85,0.06179,0.23,ci,ci39662882,2023-09-11T19:26:44.564Z,"14 km W of Mojave, CA",earthquake,0.68,31.61,0.133,24,automatic,ci,ci
