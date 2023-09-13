@@ -51,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-13T04:27:58.640Z,38.7946663,-122.7669983,3.78,0.91,md,10,74,0.008235,0.01,nc,nc73936206,2023-09-13T04:29:32.915Z,"2 km NNW of The Geysers, CA",earthquake,0.35,0.98,0.17,12,automatic,nc,nc
 2023-09-13T04:27:44.373Z,58.1894,-155.2696,1.1,1.1,ml,,,,0.52,ak,ak023brg4glh,2023-09-13T04:36:19.808Z,"84 km NW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-09-13T04:18:19.597Z,61.8835,-149.6233,41.6,1.1,ml,,,,0.52,ak,ak023brg2h8n,2023-09-13T04:19:55.293Z,"25 km NW of Fishhook, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-09-13T04:16:38.104Z,61.8415,-149.6542,35.5,1.3,ml,,,,0.78,ak,ak023brg238i,2023-09-13T04:18:56.647Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-09-13T04:16:38.104Z,61.8415,-149.6542,35.5,1.3,ml,,,,0.78,ak,ak023brg238i,2023-09-13T04:18:56.647Z,"22 km ENE of Willow, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-09-13T04:08:01.976Z,60.715,-147.0276,19.8,1.9,ml,,,,0.61,ak,ak023brg0aoj,2023-09-13T04:09:31.528Z,"25 km SW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-13T03:58:36.950Z,38.7709999,-122.7190018,1.34,1.62,md,18,65,0.01567,0.06,nc,nc73936196,2023-09-13T04:58:13.572Z,"2 km W of Anderson Springs, CA",earthquake,0.27,0.43,0.09,22,automatic,nc,nc
 2023-09-13T03:43:27.770Z,35.7021675,-117.5690002,2.12,1.18,ml,15,108,0.1239,0.19,ci,ci39663826,2023-09-13T03:47:04.007Z,"13 km NE of Ridgecrest, CA",earthquake,0.51,0.6,0.073,4,automatic,ci,ci
@@ -165,6 +165,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-12T12:42:27.770Z,36.01,-117.8131667,1.72,1.47,ml,20,122,0.06059,0.14,ci,ci39663290,2023-09-12T16:13:35.005Z,"12 km NE of Little Lake, CA",earthquake,0.18,0.3,0.123,9,reviewed,ci,ci
 2023-09-12T12:27:43.860Z,38.8395004,-122.8235016,1.43,0.66,md,6,95,0.009404,0,nc,nc73936046,2023-09-12T12:29:17.895Z,"9 km WNW of Cobb, CA",earthquake,0.58,2.44,0.45,7,automatic,nc,nc
 2023-09-12T12:09:56.160Z,47.6805,-120.1875,1.88,0.66,ml,11,107,0.03112,0.08,uw,uw61950287,2023-09-12T16:37:17.400Z,"1 km ENE of Entiat, Washington",earthquake,0.27,0.68,0.10483097974681099,8,reviewed,uw,uw
-2023-09-12T11:53:38.360Z,19.5728340148926,-155.683334350586,7.71999979019165,1.76999998,md,16,89,,0.180000007,hv,hv73576232,2023-09-12T11:56:50.050Z,"22 km NE of Honaunau-Napoopoo, Hawaii",earthquake,0.6,0.74000001,0.879999995,3,automatic,hv,hv
-2023-09-12T11:53:35.609Z,62.3775,-149.1705,40.8,1.4,ml,,,,1.8,ak,ak023bpwwpa0,2023-09-12T11:55:28.979Z,"42 km NE of Susitna North, Alaska",earthquake,,3,,,automatic,ak,ak
-2023-09-12T11:52:13.270Z,38.8273333,-122.8171667,4.44,-0.01,md,19,42,0.006794,0.14,nc,nc73936036,2023-09-12T23:11:02.148Z,"8 km NW of The Geysers, CA",earthquake,0.55,31.61,0.237,17,reviewed,nc,nc
