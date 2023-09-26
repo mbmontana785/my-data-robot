@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-26T03:57:49.080Z,38.8428345,-122.8178329,1.28,0.8,md,12,120,0.01257,0.01,nc,nc73941996,2023-09-26T03:59:25.704Z,"8 km WNW of Cobb, CA",earthquake,0.3,0.64,0.2,13,automatic,nc,nc
+2023-09-26T03:56:18.210Z,34.1076667,-116.639,7.32,1.32,ml,39,41,0.06937,0.17,ci,ci40572536,2023-09-26T03:59:54.656Z,"9 km NW of Morongo Valley, CA",earthquake,0.21,0.74,0.197,28,automatic,ci,ci
 2023-09-26T03:43:35.430Z,33.3873333,-116.8213333,11.48,0.59,ml,21,77,0.04823,0.23,ci,ci40572528,2023-09-26T03:47:07.182Z,"5 km NE of Palomar Observatory, CA",earthquake,0.4,0.83,0.213,13,automatic,ci,ci
 2023-09-26T03:42:16.020Z,38.7885017,-122.6921692,3.82,1.02,md,5,180,0.02104,0.01,nc,nc73941991,2023-09-26T03:43:50.589Z,"2 km N of Anderson Springs, CA",earthquake,3.72,7.06,0.4,7,automatic,nc,nc
 2023-09-26T03:34:28.140Z,34.0358333,-117.2573333,18.68,0.86,ml,18,119,0.1068,0.24,ci,ci40572520,2023-09-26T03:38:11.695Z,"1 km SSE of Loma Linda, CA",earthquake,0.51,0.86,0.242,13,automatic,ci,ci
@@ -166,7 +168,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T07:10:00.091Z,64.4423,-146.793,12.1,0.7,ml,,,,0.41,ak,ak023cbc93jz,2023-09-25T07:12:03.994Z,"10 km SSE of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-25T06:57:45.899Z,13.8217,-91.8928,35,4.6,mb,129,166,2.054,0.9,us,us7000kxy5,2023-09-25T14:12:41.040Z,"52 km S of Champerico, Guatemala",earthquake,9.99,1.954,0.033,280,reviewed,us,us
 2023-09-25T06:45:08.149Z,62.6989,-151.8335,5.4,1.9,ml,,,,0.65,ak,ak023cbbv9tq,2023-09-25T06:47:34.136Z,"59 km WNW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-09-25T06:42:33.790Z,35.0428333,-119.6403333,14.25,3.05,ml,66,42,0.1036,0.32,ci,ci40572024,2023-09-25T17:40:11.844Z,"20 km WSW of Taft, CA",earthquake,0.31,0.58,0.118,75,reviewed,ci,ci
+2023-09-25T06:42:33.790Z,35.0428333,-119.6403333,14.25,3.05,ml,66,42,0.1036,0.32,ci,ci40572024,2023-09-26T03:54:18.615Z,"20 km WSW of Taft, CA",earthquake,0.31,0.58,0.118,75,reviewed,ci,ci
 2023-09-25T06:32:59.820Z,58.4176,-154.0111,95.2,1,ml,,,,0.14,ak,ak023cbbsli6,2023-09-25T06:47:21.217Z,"75 km WNW of Aleneva, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-09-25T06:27:42.370Z,38.8148346,-122.8188324,2.81,1.17,md,25,51,0.01004,0.02,nc,nc73941656,2023-09-25T06:29:17.147Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.44,0.14,26,automatic,nc,nc
 2023-09-25T06:20:47.510Z,35.8193333333333,-90.1405,9.49,1.78,md,14,93,0.03565,0.09,nm,nm60552821,2023-09-25T15:24:56.790Z,"7 km SSE of Manila, Arkansas",earthquake,0.39,0.72,0.178250720109181,11,reviewed,nm,nm
