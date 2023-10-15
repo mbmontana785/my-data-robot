@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-15T15:16:51.014Z,61.0649,-150.9553,15.7,1.6,ml,,,,0.63,ak,ak023d8jszot,2023-10-15T15:19:28.332Z,"9 km E of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-15T15:10:45.330Z,33.3003333,-116.734,17.3,1.1,ml,36,100,0.06745,0.22,ci,ci40582752,2023-10-15T15:14:16.023Z,"7 km NNE of Lake Henshaw, CA",earthquake,0.35,0.68,0.138,26,automatic,ci,ci
 2023-10-15T15:05:10.348Z,64.9831,-147.4572,0,1.4,ml,,,,0.69,ak,ak023d8jqjo1,2023-10-15T15:07:12.395Z,"8 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-15T14:46:18.280Z,19.2021675109863,-155.337173461914,25.7199993133545,1.86000001,md,39,169,,0.129999995,hv,hv73609557,2023-10-15T14:49:34.890Z,"14 km E of Pāhala, Hawaii",earthquake,0.55,0.870000005,0.769999981,11,automatic,hv,hv
@@ -152,5 +153,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T15:45:47.850Z,64.8411,-148.778,20.9,1.1,ml,,,,0.36,ak,ak023d6wfupt,2023-10-14T15:47:19.088Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-14T15:36:06.720Z,38.8256683,-122.796669,2.82,0.33,md,10,88,0.01365,0.01,nc,nc73947140,2023-10-14T17:35:18.349Z,"6 km W of Cobb, CA",earthquake,0.41,0.78,0.27,12,automatic,nc,nc
 2023-10-14T15:29:59.880Z,34.1613333,-117.5716667,9.67,1.14,ml,33,33,0.06839,0.21,ci,ci40582520,2023-10-14T15:33:29.104Z,"4 km N of Rancho Cucamonga, CA",earthquake,0.33,0.7,0.239,29,automatic,ci,ci
-2023-10-14T15:23:08.967Z,61.5959,-150.4659,25.1,1.8,ml,,,,0.6,ak,ak023d6wb1yn,2023-10-14T15:25:47.074Z,"6 km NNE of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-10-14T15:22:54.780Z,19.1735000610352,-155.492172241211,31.6700000762939,1.84000003,md,39,146,,0.129999995,hv,hv73608477,2023-10-14T15:26:03.450Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.55,0.910000026,0.920000017,3,automatic,hv,hv
