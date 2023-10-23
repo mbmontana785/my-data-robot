@@ -154,7 +154,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-22T11:05:01.270Z,35.6838333,-117.5376667,2.42,1.32,ml,15,131,0.09465,0.15,ci,ci40584896,2023-10-22T13:40:38.822Z,"14 km ENE of Ridgecrest, CA",earthquake,0.45,0.71,0.147,14,reviewed,ci,ci
 2023-10-22T10:50:12.389Z,38.1147,-118.0206,2,1.8,ml,15,105.26,0.089,0.342,nn,nn00867736,2023-10-22T10:52:48.018Z,"31 km SSE of Mina, Nevada",earthquake,,1.6,1.29,6,automatic,nn,nn
 2023-10-22T10:47:30.403Z,62.1636,-148.388,26.5,1.7,ml,,,,0.56,ak,ak023dk1ruq8,2023-10-22T10:49:34.323Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-22T10:40:17.190Z,38.6866684,-122.4954987,7.87,1.42,md,11,110,0.09301,0.07,nc,nc73949980,2023-10-22T12:52:10.826Z,"13 km SE of Middletown, CA",earthquake,0.42,1.95,0.2,12,automatic,nc,nc
-2023-10-22T10:40:11.697Z,57.3371,-154.9751,41,3,ml,,,,0.3,ak,ak023dk1qb9t,2023-10-22T10:52:14.040Z,"Kodiak Island region, Alaska",earthquake,,7.6,,,automatic,ak,ak
-2023-10-22T10:38:02.873Z,-22.928,-69.3263,87.396,4.3,mb,22,114,0.317,0.61,us,us6000lhah,2023-10-22T10:48:52.040Z,"66 km SW of Calama, Chile",earthquake,5.38,5.474,0.188,8,reviewed,us,us
-2023-10-22T10:35:57.862Z,60.3676,-152.2948,88.4,2.5,ml,,,,0.41,ak,ak023dk1pc8d,2023-10-22T10:41:06.040Z,"49 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
