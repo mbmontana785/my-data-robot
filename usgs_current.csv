@@ -160,6 +160,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-22T10:35:57.862Z,60.3676,-152.2948,88.4,2.5,ml,,,,0.41,ak,ak023dk1pc8d,2023-10-22T10:41:06.040Z,"49 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-22T10:31:49.120Z,19.1023330688477,-155.451171875,28.4400005340576,1.76999998,md,45,202,,0.159999996,hv,hv73617737,2023-10-22T10:35:05.070Z,"11 km SSE of Pāhala, Hawaii",earthquake,0.59,0.819999993,1.13999999,7,automatic,hv,hv
 2023-10-22T10:30:12.227Z,61.6221,-151.5915,84.9,0.7,ml,,,,0.17,ak,ak023dk1o65i,2023-10-22T10:31:36.798Z,"42 km SSW of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-10-22T10:09:46.980Z,38.6871681,-122.4954987,7.34,1.56,md,11,110,0.09331,0.06,nc,nc73949970,2023-10-22T12:25:10.671Z,"13 km SE of Middletown, CA",earthquake,0.35,1.85,0.12,11,automatic,nc,nc
-2023-10-22T10:09:33.000Z,34.1605,-117.432,6.45,0.7,ml,30,88,0.03224,0.13,ci,ci40584888,2023-10-22T18:28:18.991Z,"7 km SSW of Devore, CA",earthquake,0.19,0.42,0.097,11,reviewed,ci,ci
-2023-10-22T10:00:20.080Z,60.0742,-150.5663,42.4,2.8,ml,,,,0.22,ak,ak023dk1hra0,2023-10-22T10:04:57.040Z,"Kenai Peninsula, Alaska",earthquake,,1.1,,,automatic,ak,ak
