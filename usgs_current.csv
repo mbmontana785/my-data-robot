@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-24T07:28:24.360Z,18.0221666666667,-66.8176666666667,5.87,2.44,md,9,173,0.2022,0.09,pr,pr71429723,2023-10-24T07:46:25.150Z,"2 km W of Guayanilla, Puerto Rico",earthquake,0.34,0.39,0.225974848751477,5,reviewed,pr,pr
 2023-10-24T07:20:28.705Z,60.8806,-152.3448,16.7,0.9,ml,,,,0.42,ak,ak023dnawgfq,2023-10-24T07:22:29.932Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-24T07:05:53.340Z,32.7471667,-115.415,7.71,1.42,ml,16,121,0.06388,0.27,ci,ci40585912,2023-10-24T07:13:20.114Z,"8 km SSW of Holtville, CA",earthquake,0.67,1.57,0.14,13,automatic,ci,ci
 2023-10-24T06:50:42.900Z,38.8428345,-122.8310013,1.28,0.23,md,12,118,0.005499,0.02,nc,nc73950630,2023-10-24T07:08:10.385Z,"10 km WNW of Cobb, CA",earthquake,0.3,0.65,0.14,12,automatic,nc,nc
