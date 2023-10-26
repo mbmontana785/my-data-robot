@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-26T06:53:13.320Z,17.889,-66.1265,14.38,2.83,md,8,228,0.07834,0.17,pr,pr71429888,2023-10-26T07:04:05.230Z,"8 km SSE of Jobos, Puerto Rico",earthquake,0.98,0.61,0.214992081415305,5,reviewed,pr,pr
 2023-10-26T06:24:16.780Z,33.329,-116.2995,5.22,0.86,ml,16,152,0.2532,0.2,ci,ci40587904,2023-10-26T06:27:56.996Z,"11 km NE of Borrego Springs, CA",earthquake,0.6,3.05,0.154,12,automatic,ci,ci
 2023-10-26T06:20:11.810Z,33.9433333,-116.7555,15.34,0.78,ml,26,68,0.1014,0.2,ci,ci40587896,2023-10-26T06:23:37.581Z,"4 km NE of Cabazon, CA",earthquake,0.38,0.64,0.177,20,automatic,ci,ci
 2023-10-26T06:15:26.060Z,34.106,-117.3198333,7.8,1.36,ml,51,30,0.01336,0.18,ci,ci40587888,2023-10-26T06:19:04.037Z,"4 km SW of San Bernardino, CA",earthquake,0.19,0.61,0.205,26,automatic,ci,ci
 2023-10-26T06:14:05.580Z,34.2231667,-117.3801667,7.61,0.61,ml,14,78,0.02036,0.26,ci,ci40587880,2023-10-26T06:17:29.903Z,"2 km E of Devore, CA",earthquake,0.59,1.17,0.177,8,automatic,ci,ci
 2023-10-26T06:12:00.870Z,18.6493333333333,-67.4585,3.85,3.17,md,17,282,0.2642,0.27,pr,pr71429883,2023-10-26T06:45:33.060Z,"40 km NW of Aguadilla, Puerto Rico",earthquake,1.47,1.26,0.0574995046794018,8,reviewed,pr,pr
-2023-10-26T06:06:24.570Z,18.335,-65.5525,114,3.55,md,11,179,0.5906,0.28,pr,pr2023299000,2023-10-26T06:31:04.120Z,"9 km ENE of Luis M. Cintron, Puerto Rico",earthquake,2.83,1.54,0.18,5,reviewed,pr,pr
+2023-10-26T06:06:24.570Z,18.335,-65.5525,114,3.55,md,11,179,0.5906,0.28,pr,pr2023299000,2023-10-26T06:51:02.040Z,"9 km ENE of Luis M. Cintron, Puerto Rico",earthquake,2.83,1.54,0.18,5,reviewed,pr,pr
 2023-10-26T05:52:12.690Z,34.141,-117.4075,2.54,0.82,ml,20,114,0.08923,0.2,ci,ci40587872,2023-10-26T05:55:50.045Z,"5 km NW of Rialto, CA",earthquake,0.38,0.52,0.117,16,automatic,ci,ci
 2023-10-26T05:48:38.500Z,33.7938333,-116.9498333,13.93,1.7,ml,59,28,0.02064,0.22,ci,ci40587864,2023-10-26T05:59:23.070Z,"1 km NE of San Jacinto, CA",earthquake,0.22,0.49,0.183,26,automatic,ci,ci
 2023-10-26T05:46:51.844Z,62.1344,-150.3938,14.5,1.4,ml,,,,0.35,ak,ak023dqkxwm8,2023-10-26T05:54:33.235Z,"22 km SSW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -216,6 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-25T07:19:00.100Z,38.7796669,-122.7111664,1.63,1.21,md,15,109,0.01476,0.04,nc,nc73951085,2023-10-25T10:25:11.257Z,"2 km WNW of Anderson Springs, CA",earthquake,0.43,0.67,0.14,14,automatic,nc,nc
 2023-10-25T07:18:26.640Z,38.7680016,-122.7340012,0.9,1.15,md,11,73,0.009592,0.04,nc,nc73951080,2023-10-25T10:52:11.410Z,"2 km ESE of The Geysers, CA",earthquake,0.33,0.49,0.11,10,automatic,nc,nc
 2023-10-25T07:15:01.960Z,38.7840004,-122.7791672,-0.84,0.81,md,7,113,0.01144,0.14,nc,nc73951075,2023-10-25T07:25:10.254Z,"2 km WNW of The Geysers, CA",earthquake,0.46,2.5,0.12,8,automatic,nc,nc
-2023-10-25T06:59:08.656Z,64.5936,-150.4555,2.7,1.7,ml,,,,0.53,ak,ak023doy2opd,2023-10-25T07:06:55.540Z,"46 km S of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-25T06:55:23.600Z,34.1416667,-117.4248333,7.1,0.49,ml,30,39,0.07996,0.12,ci,ci40586928,2023-10-25T15:36:48.888Z,"6 km NNE of Fontana, CA",earthquake,0.18,0.4,0.063,5,reviewed,ci,ci
-2023-10-25T06:52:21.510Z,19.1638336181641,-155.474838256836,29.0699996948242,1.74000001,md,26,166,,0.0799999982,hv,hv73623232,2023-10-25T06:55:34.690Z,"Hawaii region, Hawaii",earthquake,0.84,1.40999997,0.870000005,3,automatic,hv,hv
