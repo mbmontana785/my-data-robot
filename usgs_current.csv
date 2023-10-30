@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T04:48:26.279Z,43.7744,147.8506,35,4.3,mb,29,189,3.813,0.94,us,us7000l7h5,2023-10-30T05:12:53.040Z,"90 km E of Shikotan, Russia",earthquake,10.7,1.986,0.137,15,reviewed,us,us
 2023-10-30T04:39:01.932Z,63.2537,-148.3879,89.4,1.8,ml,,,,0.26,ak,ak023dx6g91b,2023-10-30T04:40:26.976Z,"32 km ESE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-30T04:22:28.767Z,23.9177,142.0327,122,4.9,mb,58,134,9.995,1.21,us,us7000l7h1,2023-10-30T04:42:00.040Z,"Volcano Islands, Japan region",earthquake,11.58,8.129,0.031,315,reviewed,us,us
-2023-10-30T04:20:22.447Z,31.0437,-8.4488,10,4.3,mb,13,185,1.04,0.88,us,us7000l7h7,2023-10-30T06:12:12.114Z,"58 km WSW of Oukaïmedene, Morocco",earthquake,6.23,1.988,0.238,5,reviewed,us,us
+2023-10-30T04:20:22.447Z,31.0437,-8.4488,10,4.3,mb,13,185,1.04,0.88,us,us7000l7h7,2023-10-30T07:19:08.140Z,"58 km WSW of Oukaïmedene, Morocco",earthquake,6.23,1.988,0.238,5,reviewed,us,us
 2023-10-30T04:06:40.320Z,34.1191667,-116.9233333,16.19,1,ml,23,96,0.02759,0.33,ci,ci40591168,2023-10-30T04:10:15.106Z,"14 km S of Big Bear Lake, CA",earthquake,0.66,1.56,0.12,18,automatic,ci,ci
 2023-10-30T03:53:17.640Z,19.3916664123535,-155.276504516602,0.25,1.82,ml,16,62,,0.189999998,hv,hv73632002,2023-10-30T03:58:47.750Z,"7 km SW of Volcano, Hawaii",earthquake,0.2,0.209999993,0.15,6,automatic,hv,hv
 2023-10-30T03:52:40.500Z,19.4198341369629,-155.623336791992,40.1100006103516,2.73,ml,17,108,,0.349999994,hv,hv73631997,2023-10-30T04:28:02.926Z,"25 km E of Honaunau-Napoopoo, Hawaii",earthquake,1.56,2.08999991,0.21,6,automatic,hv,hv
@@ -208,5 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T07:33:34.710Z,38.829834,-122.8138351,2.21,0.74,md,14,64,0.01786,0.01,nc,nc73953200,2023-10-29T07:44:10.999Z,"8 km NW of The Geysers, CA",earthquake,0.28,0.85,0.1,15,automatic,nc,nc
 2023-10-29T07:33:01.323Z,44.237,-115.1158,10,2.7,ml,18,69,0.234,0.42,us,us7000l7cd,2023-10-29T14:34:24.270Z,"14 km W of Stanley, Idaho",earthquake,2.12,2.011,0.053,46,reviewed,us,us
 2023-10-29T07:28:29.380Z,36.796833,-121.3933334,9,1.43,md,16,74,0.06885,0.13,nc,nc73953195,2023-10-29T08:41:12.337Z,"3 km SW of Ridgemark, CA",earthquake,0.42,1.14,0.24,11,automatic,nc,nc
-2023-10-29T07:26:19.270Z,33.0715,-115.5766667,9.75,2.28,ml,36,91,0.03344,0.24,ci,ci40590616,2023-10-29T10:11:58.513Z,"6 km NE of Westmorland, CA",earthquake,0.34,0.81,0.265,28,automatic,ci,ci
-2023-10-29T07:24:39.190Z,53.9016666666667,-167.918166666667,4.72,1.14,ml,9,156,,0.2,av,av92099906,2023-10-29T13:28:25.910Z,"90 km W of Dutch Harbor, Alaska",earthquake,0.56,31.61,0.275002477873226,8,reviewed,av,av
