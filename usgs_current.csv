@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-31T21:08:15.600Z,38.824501,-122.7651672,2.17,0.74,md,9,123,0.00702,0.03,nc,nc73954305,2023-10-31T21:09:55.091Z,"4 km W of Cobb, CA",earthquake,0.45,1.03,0.21,9,automatic,nc,nc
-2023-10-31T21:07:58.410Z,38.6843338,-122.4944992,8.22,1.33,md,9,128,0.09098,0.07,nc,nc73954300,2023-10-31T21:09:34.494Z,"13 km NNW of Angwin, CA",earthquake,0.73,2.88,0.29,9,automatic,nc,nc
+2023-10-31T21:22:51.370Z,38.8361664,-122.796669,2.23,0.82,md,10,151,0.005424,0.01,nc,nc73954310,2023-10-31T21:24:29.404Z,"7 km WNW of Cobb, CA",earthquake,0.5,0.57,0.23,15,automatic,nc,nc
+2023-10-31T21:08:15.600Z,38.824501,-122.7651672,2.17,0.74,md,9,123,0.00702,0.03,nc,nc73954305,2023-10-31T21:19:10.197Z,"4 km W of Cobb, CA",earthquake,0.45,1.03,0.21,9,automatic,nc,nc
+2023-10-31T21:07:58.410Z,38.6843338,-122.4944992,8.22,1.33,md,9,128,0.09098,0.07,nc,nc73954300,2023-10-31T21:24:10.224Z,"13 km NNW of Angwin, CA",earthquake,0.73,2.88,0.29,9,automatic,nc,nc
 2023-10-31T20:41:32.080Z,46.92816666666667,-120.53983333333333,-0.88,1.5,ml,13,93,0.02661,0.8,uw,uw61960737,2023-10-31T21:01:33.840Z,"7 km S of Ellensburg, Washington",earthquake,1.67,5.34,0.15115587732246882,13,reviewed,uw,uw
 2023-10-31T20:40:56.250Z,38.8338318,-122.8128357,2.8,0.22,md,8,93,0.01815,0.02,nc,nc73954295,2023-10-31T21:05:12.116Z,"8 km W of Cobb, CA",earthquake,0.55,2,0.1,9,automatic,nc,nc
 2023-10-31T20:38:28.974Z,58.1651,-155.4126,1.2,0.6,ml,,,,0.2,ak,ak023dz3ido1,2023-10-31T20:39:55.294Z,"87 km NW of Karluk, Alaska",earthquake,,2.8,,,automatic,ak,ak
@@ -204,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T21:37:58.610Z,46.889833333333335,-121.95216666666667,9.45,0.48,ml,24,129,0.01427,0.11,uw,uw61960472,2023-10-30T23:42:01.000Z,"15 km NNE of Ashford, Washington",earthquake,0.27,0.45,0.14155741370703667,15,reviewed,uw,uw
 2023-10-30T21:29:45.030Z,38.8378334,-122.8424988,1.83,0.77,md,7,211,0.005528,0.01,nc,nc73953890,2023-10-30T23:40:13.146Z,"10 km NW of The Geysers, CA",earthquake,1.07,0.57,0.36,8,automatic,nc,nc
 2023-10-30T21:28:54.119Z,36.7561,-116.6418,3.3,0.7,ml,17,114.28,0.039,0.1322,nn,nn00868159,2023-10-31T02:04:37.537Z,"19 km SSE of Beatty, Nevada",earthquake,,1.8,0.26,4,reviewed,nn,nn
-2023-10-30T21:18:34.071Z,-28.8875,-179.5849,386.604,4.5,mb,44,74,1.504,1.19,us,us7000l7m7,2023-10-30T21:37:40.040Z,"Kermadec Islands region",earthquake,13.9,8.198,0.077,50,reviewed,us,us
