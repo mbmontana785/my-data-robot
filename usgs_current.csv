@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-06T02:37:46.980Z,33.0053333,-116.4243333,5.94,0.56,ml,15,87,0.03536,0.23,ci,ci39709034,2023-11-06T02:41:20.283Z,"18 km ESE of Julian, CA",earthquake,0.46,0.86,0.099,4,automatic,ci,ci
+2023-11-06T02:36:45.882Z,61.9852,-148.3956,28.7,1.8,ml,,,,0.87,ak,ak023e8q09m4,2023-11-06T02:38:39.890Z,"21 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-06T02:01:55.240Z,33.3031667,-115.6823333,5.23,1.92,ml,30,77,0.06519,0.21,ci,ci39709018,2023-11-06T02:13:09.320Z,"7 km SE of Bombay Beach, CA",earthquake,0.29,0.78,0.116,27,automatic,ci,ci
 2023-11-06T01:58:37.324Z,61.3495,-147.6512,18.3,1.8,ml,,,,0.57,ak,ak023e8pjj3o,2023-11-06T02:00:24.785Z,"51 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-06T01:55:37.160Z,33.2996667,-115.6711667,5.36,1.53,ml,14,110,0.0741,0.09,ci,ci39709002,2023-11-06T01:59:21.071Z,"8 km SE of Bombay Beach, CA",earthquake,0.25,0.5,0.106,26,automatic,ci,ci
@@ -31,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T22:23:22.660Z,34.0296667,-117.1945,11.5,0.96,ml,19,124,0.1195,0.26,ci,ci39708898,2023-11-05T22:27:01.259Z,"3 km SSW of Redlands, CA",earthquake,0.49,1.7,0.195,14,automatic,ci,ci
 2023-11-05T22:22:06.122Z,61.3526,-150.3191,39.3,2.6,ml,,,,0.56,ak,ak023e7eai3r,2023-11-05T22:44:37.040Z,"18 km W of Point MacKenzie, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-11-05T22:18:41.063Z,61.6707,-151.525,79.1,2,ml,,,,0.47,ak,ak023e7e9pyi,2023-11-05T22:21:17.198Z,"36 km S of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-11-05T22:15:54.800Z,37.1636658,-121.552002,3.91,1.4,md,18,97,0.05855,0.04,nc,nc73956555,2023-11-05T23:33:13.536Z,"10 km ENE of Morgan Hill, CA",earthquake,0.22,0.69,0.14,12,automatic,nc,nc
+2023-11-05T22:15:54.800Z,37.1636658,-121.552002,3.91,1.4,md,18,97,0.05855,0.04,nc,nc73956555,2023-11-06T02:41:18.624Z,"10 km ENE of Morgan Hill, CA",earthquake,0.22,0.69,0.14,12,automatic,nc,nc
 2023-11-05T21:55:27.990Z,39.2514992,-123.1263351,6.91,1.43,md,12,117,0.1219,0.04,nc,nc73956550,2023-11-05T23:07:14.389Z,"7 km ESE of Redwood Valley, CA",earthquake,0.27,1.11,0.21,3,automatic,nc,nc
 2023-11-05T21:46:36.600Z,38.7876663,-122.7448349,0.94,1.59,md,19,85,0.007729,0.07,nc,nc73956540,2023-11-06T01:58:14.392Z,"2 km NE of The Geysers, CA",earthquake,0.21,0.28,0.16,19,automatic,nc,nc
 2023-11-05T21:46:32.200Z,38.7879982,-122.7444992,1.56,1.89,md,20,85,0.007715,0.03,nc,nc73956535,2023-11-06T01:31:10.227Z,"2 km NE of The Geysers, CA",earthquake,0.25,0.41,0.1,19,automatic,nc,nc
@@ -214,6 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T02:56:19.873Z,62.7448,-149.243,56.5,1.4,ml,,,,0.39,ak,ak023e72l5fn,2023-11-05T02:58:01.950Z,"55 km NE of Chase, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-05T02:47:37.950Z,34.4693333,-118.0148333,8.46,1.37,ml,29,30,0.05315,0.21,ci,ci39708194,2023-11-05T14:42:49.210Z,"6 km SSW of Littlerock, CA",earthquake,0.28,0.6,0.373,34,reviewed,ci,ci
 2023-11-05T02:47:09.707Z,56.2876,-149.7726,10,2.9,ml,31,255,2.147,0.54,us,us7000l8y2,2023-11-05T06:31:48.518Z,"212 km SE of Chiniak, Alaska",earthquake,9.9,2.022,0.062,34,reviewed,us,us
-2023-11-05T02:41:06.130Z,35.569,-117.4376667,2.83,0.88,ml,14,74,0.02655,0.22,ci,ci39708186,2023-11-05T02:44:51.917Z,"22 km S of Searles Valley, CA",earthquake,0.49,0.34,0.252,3,automatic,ci,ci
-2023-11-05T02:40:31.901Z,61.3562,-149.8923,32.8,1.6,ml,,,,0.75,ak,ak023e72hqwm,2023-11-05T02:42:13.932Z,"4 km E of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-11-05T02:39:15.295Z,62.4616,-149.4646,28.6,1.3,ml,,,,0.77,ak,ak023e72hhwp,2023-11-05T02:41:06.990Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
