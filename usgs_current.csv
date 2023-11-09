@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-09T09:18:39.650Z,38.6418343,-122.7360001,7.61,1.22,md,8,170,0.0666,0.02,nc,nc73960371,2023-11-09T09:20:16.711Z,"12 km ENE of Healdsburg, CA",earthquake,0.48,1.1,0.12,9,automatic,nc,nc
+2023-11-09T09:18:39.650Z,38.6418343,-122.7360001,7.61,1.22,md,8,170,0.0666,0.02,nc,nc73960371,2023-11-09T09:31:09.512Z,"12 km ENE of Healdsburg, CA",earthquake,0.48,1.1,0.12,9,automatic,nc,nc
 2023-11-09T08:54:33.785Z,61.4013,-150.6645,52.4,1.9,ml,,,,0.25,ak,ak023edsaqoi,2023-11-09T08:56:40.659Z,"17 km SSW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-11-09T08:46:53.460Z,38.8221664,-122.8046646,3.17,1.07,md,22,39,0.0044,0.02,nc,nc73960361,2023-11-09T08:57:11.340Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.63,0.22,22,automatic,nc,nc
+2023-11-09T08:46:53.460Z,38.8221664,-122.8046646,3.17,1.07,md,22,39,0.0044,0.02,nc,nc73960361,2023-11-09T09:26:14.485Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.63,0.22,22,automatic,nc,nc
 2023-11-09T08:40:20.905Z,31.638,-104.007,7.7441,1.6,ml(texnet),13,51,0,0.6,tx,tx2023vysd,2023-11-09T08:59:30.661Z,"39 km W of Mentone, Texas",earthquake,0,2.60761206,0.2,11,automatic,tx,tx
 2023-11-09T08:32:34.200Z,31.643,-104.015,4.7886,1.6,ml(texnet),19,43,0,0.5,tx,tx2023vyrw,2023-11-09T08:59:22.560Z,"40 km W of Mentone, Texas",earthquake,0,1.213851916,0.2,13,automatic,tx,tx
 2023-11-09T08:30:49.450Z,33.0616684,-116.0533371,2.06,1.43,ml,22,98,0.1283,0.24,ci,ci39710690,2023-11-09T08:36:57.343Z,"12 km SE of Ocotillo Wells, CA",earthquake,0.55,1.08,0.492,14,automatic,ci,ci
