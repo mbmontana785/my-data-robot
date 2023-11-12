@@ -192,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T09:58:41.160Z,38.8233337,-122.8010025,2.41,2.29,md,48,31,0.007086,0.06,nc,nc73961506,2023-11-11T12:52:11.009Z,"6 km NW of The Geysers, CA",earthquake,0.16,0.24,0.13,55,automatic,nc,nc
 2023-11-11T09:55:33.270Z,33.0765,-116.5523333,5.79,1.15,ml,60,23,0.03823,0.18,ci,ci39711554,2023-11-11T10:01:51.362Z,"5 km E of Julian, CA",earthquake,0.14,0.4,0.111,27,automatic,ci,ci
 2023-11-11T09:53:16.100Z,38.8168335,-122.7961655,2.46,1.01,md,16,50,0.008878,0.01,nc,nc73961501,2023-11-11T10:04:10.105Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.53,0.24,18,automatic,nc,nc
-2023-11-11T09:49:19.910Z,38.802166,-122.7926636,7.41,0.31,md,7,155,0.00615,0.01,nc,nc73961496,2023-11-11T10:00:11.085Z,"4 km NW of The Geysers, CA",earthquake,1.44,3.21,0.16,9,automatic,nc,nc
