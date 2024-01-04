@@ -182,5 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-03T06:09:44.016Z,36.6567,-116.2735,7.1,-0.1,ml,11,185.62,0.054,0.0689,nn,nn00871266,2024-01-03T22:49:11.287Z,"51 km ESE of Beatty, Nevada",earthquake,,1.6,0.06,3,reviewed,nn,nn
 2024-01-03T06:04:36.320Z,38.7739983,-122.7001648,2.47,2.12,md,27,58,0.005854,0.1,nc,nc73984681,2024-01-03T07:46:10.570Z,"1 km W of Anderson Springs, CA",earthquake,0.32,0.55,0.16,27,automatic,nc,nc
 2024-01-03T05:45:27.510Z,52.2233,-170.4439,38.754,4,mb,27,217,0.688,0.41,us,us6000m1c9,2024-01-03T07:00:52.040Z,"133 km SW of Nikolski, Alaska",earthquake,3.4,20.848,0.197,8,reviewed,us,us
-2024-01-03T05:22:21.580Z,33.2661667,-116.4285,4.11,1.41,ml,75,23,0.009715,0.19,ci,ci40454415,2024-01-03T14:18:48.078Z,"5 km WNW of Borrego Springs, CA",earthquake,0.13,0.31,0.182,26,reviewed,ci,ci
-2024-01-03T05:19:36.060Z,31.644,-104.063,18.0469,1.8,ml,14,116,0,0.9,tx,tx2024aebo,2024-01-03T06:03:16.910Z,"44 km W of Mentone, Texas",earthquake,0,2.596986613,0.2,10,automatic,tx,tx
