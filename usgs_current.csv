@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-02T11:24:48.096Z,63.0939,-151.5503,0.1,1.8,ml,,,,1.1,ak,ak0242uq0j61,2024-03-02T11:26:47.103Z,"50 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-02T11:11:21.056Z,62.164,-150.5381,7.2,2.1,ml,,,,0.44,ak,ak0242upxorb,2024-03-02T11:13:37.795Z,"23 km SW of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-02T11:10:49.711Z,57.429,-155.0349,28,3.1,ml,,,,0.53,ak,ak0242upxja0,2024-03-02T11:12:57.965Z,"38 km WSW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-02T11:10:10.540Z,35.788,-117.6118333,4.09,1.28,ml,28,125,0.1261,0.16,ci,ci40680072,2024-03-02T11:16:18.287Z,"19 km W of Searles Valley, CA",earthquake,0.22,0.52,0.135,18,automatic,ci,ci
@@ -209,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-01T11:41:19.640Z,39.3155,-111.149166666667,-2.52,1.34,ml,14,70,0.044,0.12,uu,uu80056151,2024-03-01T20:48:40.110Z,"12 km NW of Orangeville, Utah",earthquake,0.44,0.74,0.0822724080468459,4,reviewed,uu,uu
 2024-03-01T11:40:37.688Z,61.7167,-150.7013,42.7,1.7,ml,,,,0.48,ak,ak0242t2klbs,2024-03-01T11:42:40.655Z,"21 km NNW of Susitna, Alaska",earthquake,,3.5,,,automatic,ak,ak
 2024-03-01T11:37:57.517Z,-5.6005,148.3124,193.837,4.8,mb,42,107,8.185,0.85,us,us6000mg1x,2024-03-01T11:58:02.040Z,"117 km NNE of Finschhafen, Papua New Guinea",earthquake,6.79,9.039,0.067,69,reviewed,us,us
-2024-03-01T11:35:42.980Z,45.3828333333333,-113.185666666667,5.01,1.44,ml,18,78,0.3954,0.12,mb,mb90042313,2024-03-01T15:12:36.980Z,"33 km SE of Wisdom, Montana",earthquake,0.39,9.18,0.190041426923489,12,reviewed,mb,mb
