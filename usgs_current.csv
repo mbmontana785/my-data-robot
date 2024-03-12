@@ -73,6 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-12T06:41:47.780Z,44.8623333333333,-112.016333333333,4.99,0.8,ml,6,102,0.3288,0.06,mb,mb90043018,2024-03-12T14:08:20.100Z,"48 km S of Virginia City, Montana",earthquake,0.3,31.61,0.0813916676383778,2,reviewed,mb,mb
 2024-03-12T06:26:59.479Z,61.6281,-146.4143,29.5,2.2,ml,,,,0.51,ak,ak0243b6fae3,2024-03-12T06:28:23.441Z,"44 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-12T06:22:54.052Z,31.591,-104.345,0.7481,1.7,ml,18,86,0.1,0.7,tx,tx2024fafi,2024-03-12T06:41:27.425Z,"60 km WNW of Toyah, Texas",earthquake,0,1.61797162640075,0.4,14,automatic,tx,tx
+2024-03-12T06:22:03.720Z,35.1935,-84.495,5.12,1.71,md,8,100,0.1362,0.12,se,se60501753,2024-03-12T15:25:26.290Z,"14 km E of Benton, Tennessee",earthquake,0.95,0.72,0.107927244055877,8,reviewed,se,se
 2024-03-12T06:20:47.663Z,39.7236,-119.863,11,0.9,ml,8,79.24,0.139,0.1053,nn,nn00874612,2024-03-12T14:44:48.749Z,"9 km N of Lemmon Valley, Nevada",earthquake,,2.4,0.51,3,reviewed,nn,nn
 2024-03-12T06:16:25.717Z,36.4529,-115.736,0,0.8,ml,12,220.17,0.277,0.1434,nn,nn00874590,2024-03-12T06:18:17.170Z,"14 km SSW of Indian Springs, Nevada",earthquake,,50.8,0.17,2,automatic,nn,nn
 2024-03-12T06:15:23.678Z,36.4526,-115.7321,0.9,1.1,ml,15,186.77,0.279,0.0774,nn,nn00874587,2024-03-12T06:17:18.709Z,"14 km SSW of Indian Springs, Nevada",earthquake,,0,0.19,7,automatic,nn,nn
@@ -227,6 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-11T15:39:55.870Z,38.8366661,-122.7923355,1.53,0.72,md,11,94,0.002334,0.01,nc,nc74015671,2024-03-11T15:41:30.161Z,"6 km WNW of Cobb, CA",earthquake,0.28,0.81,0.23,12,automatic,nc,nc
 2024-03-11T15:35:18.377Z,41.9474,-119.5913,1.4,2,ml,3,128.3,0.532,0.0538,nn,nn00874545,2024-03-12T15:12:55.870Z,"47 km ENE of Fort Bidwell, California",earthquake,,6.3,0.27,2,reviewed,nn,nn
 2024-03-11T15:35:03.040Z,41.8811666666667,-111.941333333333,6.3,1.36,md,19,77,0.1726,0.09,uu,uu80062531,2024-03-11T16:35:00.670Z,"4 km S of Trenton, Utah",earthquake,0.26,1.27,0.139049420081957,15,reviewed,uu,uu
-2024-03-11T15:19:51.414Z,41.9494,-119.6105,5,2.9,ml,33,73,0.308,0.9,us,us7000m4nv,2024-03-12T06:11:38.400Z,"45 km ENE of Fort Bidwell, California",earthquake,1.61,1.915,0.042,76,reviewed,us,us
-2024-03-11T15:19:15.310Z,53.3788333333333,-168.2145,4.76,0.33,ml,4,266,,0.1,av,av92228541,2024-03-11T20:20:49.170Z,"65 km NE of Nikolski, Alaska",earthquake,0.87,1.47,0.459508376282811,4,reviewed,av,av
-2024-03-11T15:17:23.690Z,38.8248329,-122.7973328,2.46,1.04,md,13,82,0.01691,0.02,nc,nc74015646,2024-03-11T15:18:59.896Z,"6 km NW of The Geysers, CA",earthquake,0.29,0.63,0.27,14,automatic,nc,nc
