@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-26T14:58:54.721Z,61.5586,-152.256,23.6,1.5,ml,,,,1.12,ak,ak0245dqk800,2024-04-26T15:00:57.610Z,"66 km SW of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-04-26T14:57:26.247Z,65.0403,-148.7361,7.1,0.8,ml,,,,1.24,ak,ak0245dqjy34,2024-04-26T14:59:33.740Z,"31 km ESE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-04-26T14:50:06.566Z,63.2104,-149.5105,82.2,1.4,ml,,,,0.79,ak,ak0245dqiek0,2024-04-26T14:51:50.022Z,"34 km SW of Cantwell, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-04-26T14:33:25.760Z,38.8204994,-122.803833,1.74,1,md,11,61,0.005668,0.02,nc,nc74041406,2024-04-26T14:34:58.266Z,"6 km NW of The Geysers, CA",earthquake,0.33,0.67,0.24,12,automatic,nc,nc
 2024-04-26T14:18:18.880Z,18.2298333333333,-65.3958333333333,4.1,2.79,md,6,156,0.1991,0.33,pr,pr71446668,2024-04-26T14:44:42.000Z,"10 km NNE of Isabel Segunda, Puerto Rico",earthquake,1.94,1.51,0.0467273653856803,6,reviewed,pr,pr
 2024-04-26T14:09:50.560Z,38.8359985,-122.7948303,2.01,0.21,md,8,76,0.004251,0,nc,nc74041401,2024-04-26T14:11:23.971Z,"6 km WNW of Cobb, CA",earthquake,0.48,1.52,0.13,8,automatic,nc,nc
@@ -98,6 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-26T06:14:32.630Z,37.8478317,-122.0066681,8.17,1.62,md,20,103,0.01562,0.07,nc,nc74041186,2024-04-26T06:16:07.590Z,"2 km E of Alamo, CA",earthquake,0.28,0.51,0.15,16,automatic,nc,nc
 2024-04-26T06:12:29.420Z,19.3889999389648,-155.25016784668,0.620000004768372,1.85000002,md,14,91,0.003635,0.129999995,hv,hv74186257,2024-04-26T06:15:09.170Z,"6 km SSW of Volcano, Hawaii",earthquake,0.21,0.189999998,0.400000006,10,automatic,hv,hv
 2024-04-26T06:00:27.830Z,36.644165,-121.2448349,1.89,1.4,md,7,163,0.062,0.06,nc,nc74041176,2024-04-26T06:10:54.299Z,"15 km NW of Pinnacles, CA",earthquake,0.57,1.73,0.27,6,automatic,nc,nc
+2024-04-26T05:59:32.530Z,44.8013333333333,-111.058166666667,7.84,1.54,ml,17,134,0.0348,0.17,uu,uu80067531,2024-04-26T14:53:48.020Z,"11 km ENE of Hebgen Lake Estates, Montana",earthquake,0.48,0.52,0.371692951431026,3,reviewed,uu,uu
 2024-04-26T05:57:46.495Z,57.8538,-155.463,17.5,1.1,ml,,,,0.13,ak,ak0245dl737d,2024-04-26T05:59:04.183Z,"67 km WNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-26T05:22:55.130Z,38.8486671,-122.8116684,1.06,0.28,md,7,102,0.01091,0.01,nc,nc74041171,2024-04-26T05:24:26.913Z,"8 km WNW of Cobb, CA",earthquake,0.39,1.16,0.18,8,automatic,nc,nc
 2024-04-26T05:21:57.402Z,61.3713,-147.255,33.5,1,ml,,,,0.41,ak,ak0245dkze9o,2024-04-26T05:23:12.929Z,"53 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -230,6 +234,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-25T17:36:44.804Z,63.3259,-145.2612,5.5,1.1,ml,,,,0.74,ak,ak0245c4ofsw,2024-04-25T17:49:21.846Z,"31 km NE of Paxson, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-25T17:29:26.590Z,45.6581666666667,-111.937833333333,3.14,0.22,ml,5,182,0.07398,0.02,mb,mb90048153,2024-04-26T14:15:05.530Z,"3 km W of Pony, Montana",earthquake,0.79,0.99,0.179160944334758,2,reviewed,mb,mb
 2024-04-25T17:26:16.550Z,44.8093333333333,-111.065833333333,7.87,1.47,ml,16,160,0.0318,0.12,uu,uu80067441,2024-04-25T18:20:40.890Z,"10 km ENE of Hebgen Lake Estates, Montana",earthquake,0.44,0.36,0.268344903495182,4,reviewed,uu,uu
+2024-04-25T17:26:06.667Z,39.3143,109.6262,10,4.2,mb,30,91,5.097,0.55,us,us6000mtt5,2024-04-26T14:59:55.040Z,"35 km SSW of Ordos, China",earthquake,9.4,1.93,0.121,19,reviewed,us,us
 2024-04-25T17:25:52.600Z,45.6606666666667,-111.936166666667,3.34,0.29,ml,5,180,0.07199,0.02,mb,mb90048088,2024-04-25T17:41:57.500Z,"3 km W of Pony, Montana",earthquake,1.25,1.15,0.184010244812625,2,reviewed,mb,mb
 2024-04-25T17:21:55.438Z,61.2178,-147.555,0,1.2,ml,,,,0.61,ak,ak0245c4l8vr,2024-04-25T17:23:59.345Z,"61 km NW of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-25T17:21:34.350Z,44.8025,-111.058333333333,8.16,1.05,ml,14,156,0.03487,0.11,uu,uu80067436,2024-04-25T18:23:23.740Z,"11 km ENE of Hebgen Lake Estates, Montana",earthquake,0.48,0.81,0.206262227821605,3,reviewed,uu,uu
