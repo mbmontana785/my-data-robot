@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-18T09:56:16.810Z,33.7649994,-116.9353333,15.34,1.06,ml,36,103,0.07831,0.18,ci,ci40663223,2024-07-18T09:58:22.184Z,"3 km SE of San Jacinto, CA",earthquake,0.34,0.52,0.219,11,automatic,ci,ci
 2024-07-18T09:25:03.510Z,33.9768333,-116.8273333,17.29,0.63,ml,27,79,0.06039,0.16,ci,ci40663215,2024-07-18T09:31:17.704Z,"7 km NE of Banning, CA",earthquake,0.29,0.54,0.176,14,automatic,ci,ci
 2024-07-18T08:55:27.310Z,33.5418333,-116.788,2.42,0.95,ml,61,22,0.04206,0.2,ci,ci40663207,2024-07-18T09:01:51.017Z,"11 km W of Anza, CA",earthquake,0.14,0.21,0.132,28,automatic,ci,ci
 2024-07-18T08:51:48.533Z,61.7684,-149.6455,40.4,0.8,ml,,,,0.42,ak,ak02496wjwv9,2024-07-18T08:53:28.663Z,"16 km N of Meadow Lakes, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -231,5 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-17T10:18:31.360Z,60.9628,-147.6757,4.9,1.6,ml,,,,0.37,ak,ak02495a0bmo,2024-07-17T10:20:04.811Z,"55 km W of Tatitlek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-07-17T10:16:27.730Z,19.3931666666667,-155.248666666667,1.53,2.49,ml,32,52,0.008015,0.1,hv,hv74340311,2024-07-17T17:59:47.540Z,"5 km SSW of Volcano, Hawaii",earthquake,0.18,0.16,0.144539964270799,10,reviewed,hv,hv
 2024-07-17T10:13:51.650Z,19.4050006866455,-155.267166137695,0.150000005960464,1.78,ml,14,71,0.006808,0.119999997,hv,hv74340301,2024-07-17T10:16:29.660Z,"5 km SW of Volcano, Hawaii",earthquake,0.15,0.209999993,0.21,7,automatic,hv,hv
-2024-07-17T09:49:30.000Z,35.8685,-117.6915,10.98,0.7,ml,18,64,0.08445,0.12,ci,ci40661991,2024-07-17T21:49:36.492Z,"21 km ESE of Little Lake, CA",earthquake,0.21,0.35,0.154,7,reviewed,ci,ci
-2024-07-17T09:49:29.330Z,58.4591666666667,-154.382,3.11,-0.2,ml,4,277,0.0932,0.28,av,av93015704,2024-07-18T04:40:00.370Z,"97 km WNW of Aleneva, Alaska",earthquake,1.94,2.39,0.166069949005707,4,reviewed,av,av
