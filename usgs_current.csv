@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-02T21:44:42.160Z,37.7044982910156,-119.50316619873,29.5400009155273,2.94,md,13,94,0.3427,0.17,nc,nc75056651,2024-09-02T21:46:21.559Z,"8 km SE of Yosemite Valley, CA",earthquake,0.62,1.49000001,0.14,12,automatic,nc,nc
+2024-09-02T21:53:43.080Z,36.0605010986328,-120.624336242676,4.17000007629395,1.13,md,12,155,0.02427,0.06,nc,nc75056656,2024-09-02T21:55:21.703Z,"25 km NNW of Parkfield, CA",earthquake,0.39,0.699999988,0.15,6,automatic,nc,nc
+2024-09-02T21:44:42.160Z,37.7044982910156,-119.50316619873,29.5400009155273,2.94,md,13,94,0.3427,0.17,nc,nc75056651,2024-09-02T21:52:13.822Z,"8 km SE of Yosemite Valley, CA",earthquake,0.62,1.49000001,0.14,12,automatic,nc,nc
 2024-09-02T21:29:14.399Z,60.1703,-150.5524,28.4,2.9,ml,,,,0.47,ak,ak024bb6vq2b,2024-09-02T21:36:39.040Z,"38 km SSE of Funny River, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-02T21:22:00.150Z,36.0606651306152,-120.625503540039,5.55000019073486,2.2,md,46,63,0.02511,0.13,nc,nc75056646,2024-09-02T21:34:25.700Z,"25 km NNW of Parkfield, CA",earthquake,0.22,0.419999987,0.13,43,automatic,nc,nc
 2024-09-02T21:09:53.930Z,38.8406677246094,-122.818000793457,14.5500001907349,0.95,md,11,184,0.01381,0.09,nc,nc75056641,2024-09-02T21:34:24.701Z,"8 km WNW of Cobb, CA",earthquake,1.73,2.78999996,0.21,12,automatic,nc,nc
@@ -274,4 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-01T22:07:45.946Z,31.595,-103.982,5.0494,1.6,ml,15,59,0,0.3,tx,tx2024rfmo,2024-09-01T22:19:53.317Z,"35 km NNW of Toyah, Texas",earthquake,0,2.38025736808777,0.2,13,automatic,tx,tx
 2024-09-01T22:01:25.423Z,37.7644,-117.1063,5.7,0.7,ml,9,181.88,0.568,0.1315,nn,nn00883653,2024-09-01T22:03:44.536Z,"12 km ENE of Goldfield, Nevada",earthquake,,0,0.14,7,automatic,nn,nn
 2024-09-01T22:00:46.070Z,35.0783333,-119.1378333,10.14,1.63,ml,39,64,0.0485,0.27,ci,ci40721855,2024-09-01T22:13:56.471Z,"24 km E of Maricopa, CA",earthquake,0.36,0.63,0.127,26,automatic,ci,ci
-2024-09-01T21:51:58.880Z,33.8811667,-116.553,13.08,0.63,ml,26,61,0.1338,0.12,ci,ci40721847,2024-09-02T15:13:50.357Z,"2 km SSW of Garnet, CA",earthquake,0.16,0.66,0.098,14,reviewed,ci,ci
