@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-05T09:11:06.800Z,35.6803333,-117.4755,8.63,1.75,ml,29,73,0.04482,0.14,ci,ci40725455,2024-09-05T09:17:47.758Z,"12 km SSW of Searles Valley, CA",earthquake,0.19,0.47,0.178,25,automatic,ci,ci
+2024-09-05T09:11:06.800Z,35.6803333,-117.4755,8.63,1.75,ml,29,73,0.04482,0.14,ci,ci40725455,2024-09-05T09:22:06.770Z,"12 km SSW of Searles Valley, CA",earthquake,0.19,0.47,0.178,25,automatic,ci,ci
 2024-09-05T09:09:11.270Z,33.6716667,-116.7231667,14.58,0.4,ml,30,60,0.04011,0.12,ci,ci40725447,2024-09-05T09:15:45.350Z,"8 km S of Idyllwild, CA",earthquake,0.2,0.34,0.286,9,automatic,ci,ci
 2024-09-05T09:05:05.674Z,63.2894,-151.7451,16.3,1.8,ml,,,,1.31,ak,ak024bfy7efb,2024-09-05T09:07:40.349Z,"28 km S of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-05T08:43:40.670Z,46.20500183105469,-122.19683074951172,0.709999978542328,0.579999983,md,17,50,,0.119999997,uw,uw62043741,2024-09-05T08:45:54.170Z,"38 km NNE of Amboy, Washington",earthquake,0.36,0.439999998,,1,automatic,uw,uw
