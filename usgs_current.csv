@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-02-04T22:32:53.442Z,64.8277,-149.0789,27.2,0.8,ml,,,,1.08,ak,ak0251m93no9,2025-02-04T22:35:12.628Z,"25 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-02-04T22:28:31.728Z,35.13379288,-98.07666779,6.641482353,2.35,ml,26,102.608139,0.08370555192,0.8994644436,ok,ok2025clvp,2025-02-04T22:31:38.010Z,"5 km N of Verden, Oklahoma",earthquake,2.519594795,2.761811471,0.26,24,automatic,ok,ok
+2025-02-04T22:28:32.070Z,35.12866667,-98.08066667,9.88,1.91,ml,99,56,0,0.28,ok,ok2025clvp,2025-02-04T23:08:25.348Z,"5 km N of Verden, Oklahoma",earthquake,,1.1,0.23,38,reviewed,ok,ok
 2025-02-04T22:08:24.700Z,33.3048333,-117.4541667,2.49,0.78,ml,25,189,0.1143,0.19,ci,ci40179666,2025-02-04T22:12:13.428Z,"11 km NW of Camp Pendleton South, CA",earthquake,0.76,0.56,0.137,10,automatic,ci,ci
 2025-02-04T21:56:13.878Z,65.4442,-148.2385,11.5,0.8,ml,,,,0.14,ak,ak0251m8na5n,2025-02-04T21:58:05.359Z,"16 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-04T21:54:18.578Z,64.5889,-149.215,0,1.8,ml,,,,0.87,ak,ak0251m8mv1i,2025-02-04T21:56:41.499Z,"4 km WSW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-04T21:53:40.565Z,65.4587,-148.1718,0,1.5,ml,,,,1.19,ak,ak0251m8mp2g,2025-02-04T21:55:40.721Z,"18 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-02-04T21:42:50.690Z,38.786333333333,-122.77766666667,3.3,0.72,md,8,128,0.01053,0.02,nc,nc75127926,2025-02-04T23:10:45.394Z,"2 km NW of The Geysers, CA",earthquake,0.57,31.61,0.27,6,reviewed,nc,nc
 2025-02-04T21:35:00.539Z,64.5803,-146.9915,14.3,1,ml,,,,0.41,ak,ak0251m8ir39,2025-02-04T21:37:02.489Z,"7 km NW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-02-04T21:29:23.670Z,46.804500579834,-122.38883209229,9.8500003814697,1.71000004,md,27,155,,0.119999997,uw,uw62065717,2025-02-04T21:31:42.050Z,"6 km WSW of La Grande, Washington",earthquake,0.62,9.38000011,,1,automatic,uw,uw
 2025-02-04T21:19:06.170Z,65.4483,-148.3753,0,1.3,ml,,,,0.69,ak,ak0251m8fc2h,2025-02-04T21:22:11.638Z,"11 km SE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -15,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-04T20:39:05.022Z,58.5689,-154.1867,74.4,1.3,ml,,,,0.4,ak,ak0251m7y6p2,2025-02-04T20:40:54.979Z,"93 km NW of Aleneva, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-02-04T20:18:22.553Z,36.4891,25.6342,10,4.2,mb,61,85,1.342,0.93,us,us7000pbbi,2025-02-04T21:54:42.040Z,"19 km ENE of Mesariá, Greece",earthquake,4.19,1.908,0.102,27,reviewed,us,us
 2025-02-04T20:15:52.930Z,65.3958,-147.9578,0,1.6,ml,,,,0.76,ak,ak0251m7t4zh,2025-02-04T20:17:59.371Z,"30 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-02-04T20:10:51.804Z,40.452,-126.8772,10,3.2,ml,25,278,2.104,0.64,us,us7000pbbg,2025-02-04T21:47:47.040Z,"221 km W of Ferndale, California",earthquake,9.06,2.024,0.039,86,reviewed,us,us
+2025-02-04T20:10:51.804Z,40.452,-126.8772,10,3.2,ml,25,278,2.104,0.64,us,us7000pbbg,2025-02-04T23:24:19.891Z,"221 km W of Ferndale, California",earthquake,9.06,2.024,0.039,86,reviewed,us,us
 2025-02-04T20:06:25.980Z,44.775666666667,-110.78133333333,4.97,1.28,ml,14,96,0.05086,0.18,uu,uu80002653,2025-02-04T21:31:10.290Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.43,0.48,0.40677108068712,3,reviewed,uu,uu
 2025-02-04T20:06:01.290Z,44.766,-110.7835,4.83,0.95,md,16,93,0.05268,0.17,uu,uu80100786,2025-02-04T21:24:14.890Z,"24 km SSW of Mammoth, Wyoming",earthquake,0.31,0.59,0.45900898828418,10,reviewed,uu,uu
 2025-02-04T20:03:31.766Z,65.4512,-148.2846,10.4,1.6,ml,,,,1.2,ak,ak0251m7qizw,2025-02-04T20:05:30.632Z,"14 km SE of Livengood, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -194,6 +195,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-04T02:46:06.292Z,36.5816,25.636,10,5.1,mww,27,100,1.426,0.89,us,us7000pb5h,2025-02-04T13:24:46.399Z,"25 km NE of Firá, Greece",earthquake,5.47,1.941,0.098,10,reviewed,us,us
 2025-02-04T02:38:04.780Z,61.273,-152.25833333333,3.01,-0.31,ml,6,164,0.05049,0.08,av,av93031774,2025-02-04T21:32:35.010Z,"64 km WNW of Tyonek, Alaska",earthquake,0.33,0.47,0.13870522426386,7,reviewed,av,av
 2025-02-04T02:37:37.634Z,61.2634,-152.211,7.3,1,ml,,,,0.44,ak,ak0251lx80w3,2025-02-04T21:29:39.080Z,"61 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-02-04T02:36:16.520Z,61.270333333333,-152.25616666667,2.56,-0.97,ml,5,196,0.04912,0.03,av,av93031819,2025-02-04T23:23:33.400Z,"64 km WNW of Tyonek, Alaska",earthquake,0.35,0.77,0.1030527244084,6,reviewed,av,av
+2025-02-04T02:34:32.120Z,61.2705,-152.25683333333,2.54,-1.09,ml,5,196,0.04946,0.04,av,av93031814,2025-02-04T23:20:22.390Z,"64 km WNW of Tyonek, Alaska",earthquake,0.35,0.92,0.12047213199734,6,reviewed,av,av
 2025-02-04T02:31:30.660Z,61.273166666667,-152.259,3.21,0.19,ml,8,164,0.05084,0.07,av,av93483176,2025-02-04T22:36:44.820Z,"64 km WNW of Tyonek, Alaska",earthquake,0.26,0.37,0.12150622171929,8,reviewed,av,av
 2025-02-04T02:31:19.010Z,58.1865,-155.30416666667,1.13,-0.31,ml,5,153,0.02676,0.13,av,av93031794,2025-02-04T22:42:31.550Z,"85 km NW of Karluk, Alaska",earthquake,0.54,1.18,0.23121731478684,5,reviewed,av,av
 2025-02-04T02:30:47.824Z,58.798,-153.3814,220.5,2.3,ml,,,,0.97,ak,ak0251lx6jny,2025-02-04T02:33:29.013Z,"86 km NNW of Aleneva, Alaska",earthquake,,1.8,,,automatic,ak,ak
