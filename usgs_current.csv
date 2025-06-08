@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-08T11:16:51.020Z,34.1075,-117.4535,2.74,1.49,ml,15,128,0.07323,0.14,ci,ci41179192,2025-06-08T11:24:11.112Z,"1 km NNE of Fontana, CA",earthquake,0.53,0.29,0.321,29,automatic,ci,ci
 2025-06-08T11:00:10.931Z,63.5879,-147.5914,0.8,1.4,ml,,,,0.75,ak,ak0257b4zz0l,2025-06-08T11:02:12.293Z,"67 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-06-08T10:59:12.870Z,38.81266784668,-122.82350158691,2.2000000476837,1.07,md,24,57,0.005836,0.03,nc,nc75192711,2025-06-08T11:00:46.571Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.370000005,0.09,26,automatic,nc,nc
 2025-06-08T10:55:30.320Z,35.338665,-117.8026657,7.27,0.81,ml,12,123,0.07936,0.08,ci,ci41179184,2025-06-08T10:58:55.100Z,"16 km WSW of Johannesburg, CA",earthquake,0.42,1.43,0.383,6,automatic,ci,ci
