@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-05T21:35:44.750Z,38.814666748047,-122.80400085449,2.7400000095367,0.63,md,8,110,0.009535,0.01,nc,nc75205862,2025-07-05T21:37:21.228Z,"6 km NNW of The Geysers, CA",earthquake,0.65,1.83000004,0.31,8,automatic,nc,nc
 2025-07-05T21:33:37.310Z,32.4101667,-115.2275,6.19,2.01,ml,14,60,0.06621,0.21,ci,ci41015103,2025-07-05T21:37:19.146Z,"7 km NNW of Delta, B.C., MX",earthquake,0.36,2.21,0.179,26,automatic,ci,ci
 2025-07-05T20:53:00.611Z,39.1303,-100.0679,10,2.7,mb_lg,15,103,0.408,0.76,us,us7000qavs,2025-07-05T21:08:55.273Z,"11 km NNE of Collyer, Kansas",earthquake,4.54,1.996,0.058,78,reviewed,us,us
-2025-07-05T20:51:41.023Z,39.2764,-99.8481,8.009,2.5,mb_lg,19,62,0.47,0.89,us,us7000qavn,2025-07-05T22:23:37.113Z,"9 km S of Hill City, Kansas",earthquake,2.59,5.658,0.065,62,reviewed,us,us
+2025-07-05T20:51:41.023Z,39.2764,-99.8481,8.009,2.5,mb_lg,19,62,0.47,0.89,us,us7000qavn,2025-07-05T22:41:00.814Z,"9 km S of Hill City, Kansas",earthquake,2.59,5.658,0.065,62,reviewed,us,us
 2025-07-05T20:51:05.980Z,36.0085,-117.8585,3.64,0.59,ml,15,76,0.02588,0.13,ci,ci41015087,2025-07-05T20:54:36.391Z,"9 km ESE of Coso Junction, CA",earthquake,0.22,0.35,0.205,8,automatic,ci,ci
 2025-07-05T20:46:51.490Z,38.822498321533,-122.8073348999,2.7799999713898,0.7,md,8,108,0.01729,0.01,nc,nc75205847,2025-07-05T20:48:26.869Z,"7 km NNW of The Geysers, CA",earthquake,0.69,1.89999998,0.08,9,automatic,nc,nc
 2025-07-05T20:26:24.300Z,33.4991667,-116.7841667,6.88,0.82,ml,40,27,0.02065,0.17,ci,ci41015079,2025-07-05T20:30:24.266Z,"10 km NE of Aguanga, CA",earthquake,0.17,0.37,0.152,27,automatic,ci,ci
@@ -29,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-05T18:25:45.480Z,37.483665466309,-118.78600311279,8.4899997711182,1.44,md,8,152,0.1483,0.04,nc,nc75205797,2025-07-05T18:57:17.198Z,"13 km WSW of Toms Place, CA",earthquake,0.65,4.13000011,0.12,7,automatic,nc,nc
 2025-07-05T18:25:30.229Z,62.4964,-149.1458,3,2.2,ml,,,,0.41,ak,ak0258jwtrz2,2025-07-05T18:27:20.660Z,"49 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-05T18:22:14.380Z,18.885333333333,-68.0125,8.77,3.18,md,12,332,0.508,0.16,pr,pr71488378,2025-07-05T19:03:18.610Z,"53 km NE of Punta Cana, Dominican Republic",earthquake,1.58,31.61,0.10138529443583,9,reviewed,pr,pr
-2025-07-05T18:15:07.109Z,60.0252,-152.4749,98.9,4.4,ml,,,,0.65,ak,ak0258jwrkyq,2025-07-05T22:12:43.215Z,"42 km WNW of Happy Valley, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2025-07-05T18:15:07.109Z,60.0252,-152.4749,98.9,4.4,ml,,,,0.65,ak,ak0258jwrkyq,2025-07-05T22:40:42.340Z,"42 km WNW of Happy Valley, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-07-05T18:13:45.080Z,33.4806667,-116.4736667,13.85,0.73,ml,33,65,0.1083,0.17,ci,ci41014991,2025-07-05T18:17:12.691Z,"20 km ESE of Anza, CA",earthquake,0.21,0.59,0.105,20,automatic,ci,ci
 2025-07-05T18:11:15.300Z,19.8869,143.8578,611.748,4.2,mb,38,223,15.886,1.12,us,us7000qav1,2025-07-05T21:31:23.040Z,"Mariana Islands region",earthquake,18.57,15.791,0.093,32,reviewed,us,us
 2025-07-05T17:58:02.543Z,15.2284,146.8103,35,4.8,mb,102,133,0.983,1.01,us,us7000qauy,2025-07-05T18:21:20.040Z,"113 km E of Saipan, Northern Mariana Islands",earthquake,7.32,1.919,0.05,131,reviewed,us,us
@@ -198,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-04T23:14:17.850Z,37.039833068848,-121.13216400147,9.1300001144409,1.47,md,8,167,0.1692,0.08,nc,nc75205507,2025-07-05T00:17:19.035Z,"25 km W of Los Banos, CA",earthquake,0.69,3.97000003,0.17,4,automatic,nc,nc
 2025-07-04T23:12:39.633Z,23.8252,121.8887,15.624,4.5,mb,45,66,0.439,0.85,us,us7000qarx,2025-07-05T00:29:51.040Z,"33 km ESE of Hualien City, Taiwan",earthquake,1.69,4.002,0.078,49,reviewed,us,us
 2025-07-04T23:12:33.800Z,37.485500335693,-122.32683563232,14.260000228882,2.21,md,53,97,0.05101,0.1,nc,nc75205502,2025-07-04T23:52:15.739Z,"4 km S of Highlands-Baywood Park, CA",earthquake,0.26,0.479999989,0.17,45,automatic,nc,nc
-2025-07-04T22:49:04.037Z,64.5654,-39.9021,10,4.2,mb,48,138,4.25,0.72,us,us7000qars,2025-07-04T23:53:54.040Z,"158 km SW of Tasiilaq, Greenland",earthquake,8.57,1.931,0.066,63,reviewed,us,us
