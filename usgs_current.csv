@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-08T11:33:27.041Z,61.8655,-147.0792,24.4,3.2,ml,,,,0.73,ak,ak025a40z908,2025-08-08T11:35:00.532Z,"9 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-08T11:33:08.720Z,35.2456667,-118.5241667,6.67,1.57,ml,44,34,0.09607,0.13,ci,ci41256280,2025-08-08T11:43:52.940Z,"14 km NNW of Tehachapi, CA",earthquake,0.13,0.48,0.176,26,automatic,ci,ci
 2025-08-08T11:28:45.749Z,63.2655,-150.4369,30,1.5,ml,,,,1.36,ak,ak025a40y7vi,2025-08-08T11:31:12.301Z,"71 km ESE of Denali National Park, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2025-08-08T11:21:56.366Z,60.2413,-152.1424,81.1,1.5,ml,,,,0.49,ak,ak025a40wqok,2025-08-08T11:23:54.985Z,"33 km NW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-08T11:15:56.994Z,51.4035,157.5984,87.748,4.4,mb,81,133,1.709,0.56,us,us6000qz2p,2025-08-08T11:38:53.040Z,"76 km E of Ozernovskiy, Russia",earthquake,10.04,7.346,0.047,132,reviewed,us,us
 2025-08-08T11:10:48.940Z,60.843,-150.9852,48.2,1.6,ml,,,,0.38,ak,ak025a40ud8e,2025-08-08T11:12:36.927Z,"18 km WSW of Point Possession, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-08-08T11:07:51.849Z,31.523,-104.014,4.5848,1.9,ml,37,89,0,0.3,tx,tx2025pmwdgc,2025-08-08T11:13:19.564Z,"31 km NW of Toyah, Texas",earthquake,0,1.014416217804,0.2,26,automatic,tx,tx
 2025-08-08T10:38:45.380Z,35.72,-117.5615,3.71,0.72,ml,23,58,0.09992,0.17,ci,ci41256272,2025-08-08T10:42:15.697Z,"15 km NE of Ridgecrest, CA",earthquake,0.26,0.74,0.261,13,automatic,ci,ci
