@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T12:43:21.102Z,64.4766,-146.9609,6,0.9,ml,,,,0.33,ak,ak025ah9xl9q,2025-08-16T12:45:34.827Z,"5 km SSW of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-16T12:20:49.680Z,32.9378333,-116.2748333,6.09,0.87,ml,36,45,0.1191,0.19,ci,ci40400298,2025-08-16T12:25:01.324Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.21,0.94,0.238,13,automatic,ci,ci
 2025-08-16T12:14:11.010Z,35.580001831055,-120.68683624268,7.3200001716614,0.86,md,8,149,0.08076,0.02,nc,nc75224542,2025-08-16T12:15:46.095Z,"4 km NE of Templeton, CA",earthquake,1.02,1.59000003,0.32,2,automatic,nc,nc
-2025-08-16T12:08:23.906Z,-23.1842,170.8076,10,5.6,mww,69,80,3.151,0.65,us,us6000r1l5,2025-08-16T12:38:43.166Z,"southeast of the Loyalty Islands",earthquake,9.8,1.872,0.06,27,reviewed,us,us
+2025-08-16T12:08:23.906Z,-23.1842,170.8076,10,5.6,mww,69,80,3.151,0.65,us,us6000r1l5,2025-08-16T14:31:18.615Z,"southeast of the Loyalty Islands",earthquake,9.8,1.872,0.06,27,reviewed,us,us
 2025-08-16T11:54:43.730Z,38.793334960938,-122.75350189209,0.43000000715256,0.8,md,6,192,0.01654,0.02,nc,nc75224532,2025-08-16T11:56:15.076Z,"2 km NNE of The Geysers, CA",earthquake,0.67,1.44000006,0.08,5,automatic,nc,nc
 2025-08-16T11:53:26.090Z,34.0106667,-117.2055,5.8,0.71,ml,25,103,0.06873,0.2,ci,ci40400290,2025-08-16T11:57:16.231Z,"5 km SSW of Redlands, CA",earthquake,0.26,0.71,0.377,18,automatic,ci,ci
 2025-08-16T11:52:15.650Z,35.9355,-118.5335,7.02,1.39,ml,31,59,0.1803,0.18,ci,ci40400282,2025-08-16T11:55:42.803Z,"22 km NNW of Kernville, CA",earthquake,0.21,1.47,0.192,27,automatic,ci,ci
@@ -19,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-16T10:57:14.462Z,32.096,-101.48,9.2041,1.1,ml,26,53,0.1,0.1,tx,tx2025qbnqdq,2025-08-16T12:40:22.232Z,"10 km W of Forsan, Texas",earthquake,0.34200042132852,0.67534544702314,0.1,20,reviewed,tx,tx
 2025-08-16T10:54:49.381Z,31.229,-103.505,11.2886,1.6,ml,12,76,0.1,0.2,tx,tx2025qbnnrc,2025-08-16T11:01:26.474Z,"15 km SSE of Lindsay, Texas",earthquake,0,4.2614750862122,0.2,9,automatic,tx,tx
 2025-08-16T10:47:48.420Z,33.5383333,-116.7161667,6.24,0.12,ml,18,76,0.03225,0.11,ci,ci40400250,2025-08-16T10:51:21.265Z,"4 km WSW of Anza, CA",earthquake,0.18,0.33,0.107,7,automatic,ci,ci
-2025-08-16T10:47:02.343Z,-0.5696,-78.3309,10,4.6,mb,47,96,0.176,0.81,us,us6000r1kx,2025-08-16T13:19:13.965Z,"27 km ESE of Machachi, Ecuador",earthquake,6.94,1.886,0.048,129,reviewed,us,us
+2025-08-16T10:47:02.343Z,-0.5696,-78.3309,10,4.6,mb,47,96,0.176,0.81,us,us6000r1kx,2025-08-16T14:14:15.543Z,"27 km ESE of Machachi, Ecuador",earthquake,6.94,1.886,0.048,129,reviewed,us,us
 2025-08-16T10:45:57.220Z,32.9323333,-116.2788333,8.6,0.67,ml,27,84,0.1176,0.17,ci,ci40400242,2025-08-16T10:49:24.418Z,"26 km ENE of Pine Valley, CA",earthquake,0.24,0.87,0.143,10,automatic,ci,ci
 2025-08-16T10:43:01.880Z,18.149833333333,-66.752,19.92,1.97,md,13,88,0.1068,0.1,pr,pr71492953,2025-08-16T11:13:33.140Z,"3 km WSW of Adjuntas, Puerto Rico",earthquake,0.26,0.69,0.067951381029424,6,reviewed,pr,pr
 2025-08-16T10:38:37.590Z,33.1315,-116.035,4.57,0.79,ml,34,83,0.06372,0.22,ci,ci40400234,2025-08-16T10:42:03.375Z,"9 km E of Ocotillo Wells, CA",earthquake,0.23,0.73,0.164,7,automatic,ci,ci
