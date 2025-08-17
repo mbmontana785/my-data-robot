@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-17T15:33:39.980Z,37.636665344238,-119.00566864014,0.68000000715256,0.58,md,8,124,0.009715,0.01,nc,nc75225047,2025-08-17T15:35:15.075Z,"2 km W of Mammoth Lakes, CA",earthquake,0.63,0.529999971,0.12,6,automatic,nc,nc
 2025-08-17T15:32:34.821Z,36.7722,-116.251,9.2,-0.3,ml,10,214.25,0.054,0.0475,nn,nn00902715,2025-08-17T15:34:34.958Z,"47 km ESE of Beatty, Nevada",earthquake,,1.6,0.09,7,automatic,nn,nn
 2025-08-17T15:31:20.390Z,2.2539,126.9547,35,5,mb,54,72,1.529,1.12,us,us6000r1qu,2025-08-17T15:46:44.040Z,"130 km WNW of Tobelo, Indonesia",earthquake,7.33,1.853,0.06,88,reviewed,us,us
-2025-08-17T15:27:39.650Z,33.8236667,-116.965,10.3,2.62,ml,134,14,0.0158,0.22,ci,ci40401226,2025-08-17T16:14:16.014Z,"4 km N of San Jacinto, CA",earthquake,0.11,0.26,0.217,25,automatic,ci,ci
+2025-08-17T15:27:39.650Z,33.8236667,-116.965,10.3,2.62,ml,134,14,0.0158,0.22,ci,ci40401226,2025-08-17T16:42:56.727Z,"4 km N of San Jacinto, CA",earthquake,0.11,0.26,0.217,25,automatic,ci,ci
 2025-08-17T15:26:12.970Z,19.161666870117,-155.51600646973,31.370000839233,2.02,ml,50,123,0.05132,0.140000001,hv,hv74754397,2025-08-17T15:29:52.700Z,"6 km SW of Pāhala, Hawaii",earthquake,0.39,0.5,0.87,4,automatic,hv,hv
 2025-08-17T15:03:15.995Z,2.1339,127.0196,48.21,5.5,mww,51,92,1.397,0.88,us,us6000r1qp,2025-08-17T15:39:24.312Z,"118 km WNW of Tobelo, Indonesia",earthquake,6.51,6.674,0.098,10,reviewed,us,us
 2025-08-17T14:54:10.990Z,36.648,-116.3308,4,0.5,ml,23,81.38,0.007,0.2352,nn,nn00902712,2025-08-17T14:56:27.533Z,"47 km SE of Beatty, Nevada",earthquake,,0.4,0.27,17,automatic,nn,nn
