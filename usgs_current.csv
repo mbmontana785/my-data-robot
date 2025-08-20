@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-20T07:02:09.809Z,60.046,-141.2269,17.9,1.2,ml,,,,0.58,ak,ak025ansuzzo,2025-08-20T07:04:23.317Z,"100 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-08-20T06:54:36.517Z,30.835,-103.792,15.1925,1.5,ml,6,261,0.4,0.2,tx,tx2025qiompd,2025-08-20T07:01:22.298Z,"17 km SSW of Balmorhea, Texas",earthquake,0,9.6779489517212,0.3,4,automatic,tx,tx
+2025-08-20T06:54:02.570Z,36.576831817627,-121.07399749756,11.539999961853,1.04,md,6,165,0.02776,0.16,nc,nc75226152,2025-08-20T06:55:38.035Z,"8 km ENE of Pinnacles, CA",earthquake,2.43,3.48000002,0.29,5,automatic,nc,nc
+2025-08-20T06:53:57.726Z,31.842,-101.939,3.4038,1.1,ml,19,52,0,0.5,tx,tx2025qiolzr,2025-08-20T06:58:35.284Z,"21 km SE of Midland, Texas",earthquake,0,1.3176307678223,0.1,11,automatic,tx,tx
 2025-08-20T06:41:51.880Z,38.780834197998,-122.72499847412,1.6799999475479,0.74,md,7,107,0.009474,0.01,nc,nc75226147,2025-08-20T06:43:27.866Z,"3 km E of The Geysers, CA",earthquake,0.44,0.899999976,0.3,7,automatic,nc,nc
 2025-08-20T06:22:41.300Z,35.8693333,-117.6881667,7.42,0.62,ml,16,85,0.08419,0.11,ci,ci40403618,2025-08-20T06:26:22.479Z,"21 km ESE of Little Lake, CA",earthquake,0.2,0.6,0.151,9,automatic,ci,ci
 2025-08-20T06:21:30.810Z,33.8236667,-117.6655,4.86,2.22,ml,135,19,0.05485,0.19,ci,ci40403610,2025-08-20T06:39:43.907Z,"10 km WSW of Corona, CA",earthquake,0.1,0.26,0.161,27,automatic,ci,ci
@@ -86,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T21:13:46.370Z,32.9035,-116.942,4.57,1.43,ml,40,61,0.06894,0.19,ci,ci40403290,2025-08-19T21:17:15.876Z,"6 km NNW of Lakeside, CA",earthquake,0.18,0.61,0.186,35,automatic,ci,ci
 2025-08-19T21:11:31.100Z,38.791168212891,-122.76100158691,1.2400000095367,0.81,md,12,63,0.009497,0.02,nc,nc75225967,2025-08-19T21:13:05.329Z,"2 km  of The Geysers, CA",earthquake,0.31,0.560000002,0.11,14,automatic,nc,nc
 2025-08-19T21:00:07.223Z,37.3917,-117.1299,0.8,1.1,ml,14,200.35,0.138,0.3125,nn,nn00902821,2025-08-19T21:02:43.193Z,"36 km SSE of Goldfield, Nevada",earthquake,,13.2,0.35,8,automatic,nn,nn
-2025-08-19T20:58:19.462Z,32.067,-103.731,7.4289,1.8,ml,23,57,0,0.3,tx,tx2025qhustb,2025-08-19T22:00:47.531Z,"36 km ESE of Malaga, New Mexico",earthquake,0,2.2847621440887,0.2,15,automatic,tx,tx
+2025-08-19T20:58:19.386Z,32.064,-103.734,7.5439,1.9,mlv,34,41,0,0.4,tx,tx2025qhustb,2025-08-20T07:10:03.692Z,"36 km ESE of Malaga, New Mexico",earthquake,0,1.8130737543106,0.2,23,automatic,tx,tx
 2025-08-19T20:54:47.900Z,37.1606,-114.7669,5.6,2.3,ml,8,109.04,0.334,0.0944,nn,nn00902819,2025-08-19T22:29:10.625Z,"41 km ESE of Alamo, Nevada",earthquake,,7,0.53,6,reviewed,nn,nn
 2025-08-19T20:50:36.845Z,37.3771,-117.1333,5.3,0.8,ml,10,210.77,0.127,0.2402,nn,nn00902818,2025-08-19T20:53:11.610Z,"37 km SSE of Goldfield, Nevada",earthquake,,2.5,0.53,6,automatic,nn,nn
 2025-08-19T20:42:57.460Z,35.8945,-117.7093333,8.38,0.72,ml,19,83,0.07162,0.1,ci,ci40403250,2025-08-19T20:46:30.052Z,"18 km ESE of Little Lake, CA",earthquake,0.16,0.46,0.192,13,automatic,ci,ci
@@ -231,7 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T07:25:38.689Z,34.40816667,-97.47716667,6.23,1.35,ml,44,70,0.0449911712,0.23,ok,ok2025qeuk,2025-08-19T14:13:04.164Z,"5 km SSE of Ratliff City, Oklahoma",earthquake,,0.5,0.21,18,reviewed,ok,ok
 2025-08-19T07:17:05.273Z,61.4373,-149.6792,32.4,0.8,ml,,,,0.59,ak,ak025am5euvz,2025-08-19T07:19:15.851Z,"3 km SE of Knik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-19T07:14:34.731Z,41.9339,-120.1591,8.4,1.3,ml,4,188.11,0.112,0.0745,nn,nn00902804,2025-08-19T18:06:09.416Z,"8 km N of Fort Bidwell, California",earthquake,,13.7,0,1,reviewed,nn,nn
-2025-08-19T07:08:42.340Z,34.224333333333,-82.059,0.16,1.7,md,4,189,0.1655,0.17,se,se60503943,2025-08-20T01:38:57.667Z,"5 km SE of Coronaca, South Carolina",earthquake,2.22,9.4,0.063826484634736,4,reviewed,se,se
-2025-08-19T06:56:23.313Z,61.3136,-152.245,2.9,0.6,ml,,,,0.8,ak,ak025am51tln,2025-08-19T06:58:12.903Z,"65 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-08-19T06:54:37.960Z,38.777500152588,-122.71666717529,2.1900000572205,1,md,12,97,0.01647,0.02,nc,nc75225727,2025-08-19T06:56:13.641Z,"2 km WNW of Anderson Springs, CA",earthquake,0.31,0.50999999,0.11,12,automatic,nc,nc
-2025-08-19T06:51:22.804Z,61.824,-150.075,28.6,1.3,ml,,,,0.55,ak,ak025am50qzc,2025-08-19T06:53:44.180Z,"8 km NNW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
