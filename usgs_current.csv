@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-09T21:19:56.560Z,33.2518333,-116.228,4.59,0.67,ml,34,58,0.06288,0.21,ci,ci41287536,2025-09-09T21:23:51.710Z,"14 km E of Borrego Springs, CA",earthquake,0.23,0.62,0.119,12,automatic,ci,ci
 2025-09-09T21:03:33.930Z,35.987,-117.3245,1.64,2.07,ml,31,79,0.1015,0.17,ci,ci41287520,2025-09-09T21:07:02.775Z,"25 km NNE of Trona, CA",earthquake,0.19,0.5,0.109,26,automatic,ci,ci
+2025-09-09T20:56:17.263Z,29.4648,130.6555,35,4.7,mb,114,112,2.045,0.7,us,us7000qv4u,2025-09-09T21:23:41.040Z,"86 km S of Koshima, Japan",earthquake,7.42,1.911,0.059,88,reviewed,us,us
 2025-09-09T20:48:32.390Z,38.840831756592,-122.76750183106,0.56999999284744,0.6,md,7,169,0.007169,0.01,nc,nc75235692,2025-09-09T21:07:18.256Z,"4 km NW of Cobb, CA",earthquake,0.39,0.699999988,0.12,8,automatic,nc,nc
+2025-09-09T20:36:58.850Z,19.1435,39.2086,10,4.5,mb,60,85,6.733,1.2,us,us7000qv4q,2025-09-09T21:09:05.040Z,"175 km ENE of Tokār, Sudan",earthquake,10.69,1.916,0.077,49,reviewed,us,us
 2025-09-09T20:10:55.830Z,38.687831878662,-122.49333190918,7.2699999809265,1.33,md,8,109,0.07201,0.06,nc,nc75235687,2025-09-09T20:42:18.078Z,"13 km SE of Middletown, CA",earthquake,0.44,1.51999998,0.11,9,automatic,nc,nc
 2025-09-09T20:09:50.450Z,19.1645,-155.48733333333,32.47,2.27,ml,49,113,0.0255,0.11,hv,hv74771557,2025-09-09T20:50:19.340Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.46,0.57,0.15963561303245,30,reviewed,hv,hv
 2025-09-09T20:07:41.779Z,31.231,-103.766,7.6636,2.4,ml,20,76,0.2,0.1,tx,tx2025ruhhpm,2025-09-09T20:59:26.009Z,"9 km SSE of Toyah, Texas",earthquake,0.86326710347258,2.4316839607965,0.1,49,reviewed,tx,tx
@@ -271,5 +274,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T21:29:57.570Z,48.081666666667,-121.916,-1.09,1.44,ml,12,94,0.114,0.17,uw,uw62185131,2025-09-08T21:58:29.010Z,"3 km E of Granite Falls, Washington",explosion,0.28,31.61,0.06921091779404,6,reviewed,uw,uw
 2025-09-08T21:28:33.590Z,59.954666666667,-153.1485,3.01,-0.25,ml,5,276,0.02879,0.33,av,av93757008,2025-09-09T04:08:11.300Z,"56 km ENE of Pedro Bay, Alaska",earthquake,1.6,1.67,0.18243401067013,5,reviewed,av,av
 2025-09-08T21:27:57.085Z,38.258,24.0973,10,5,mww,88,39,1.576,0.96,us,us7000quvk,2025-09-09T17:40:14.438Z,"12 km NE of Káto Soúlion, Greece",earthquake,4.51,1.782,0.06,27,reviewed,us,us
-2025-09-08T21:16:24.690Z,44.694833333333,-110.02216666667,13.34,1.98,ml,12,94,0.08046,0.15,uu,uu80116981,2025-09-08T21:53:09.320Z,"34 km S of Silver Gate, Montana",earthquake,0.42,0.7,0.21876422818977,4,reviewed,uu,uu
-2025-09-08T21:14:19.090Z,49.382833333333,-120.48333333333,-0.51,2.1,ml,16,204,0.5643,0.26,uw,uw62185126,2025-09-08T21:54:07.860Z,"8 km SSE of Princeton, Canada",explosion,1.5,31.61,0.11603087556051,14,reviewed,uw,uw
