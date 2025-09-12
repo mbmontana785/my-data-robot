@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-12T05:39:31.200Z,35.8088341,-117.6333313,1.15,1.85,ml,18,53,0.02992,0.21,ci,ci41289664,2025-09-12T05:42:59.916Z,"21 km WNW of Searles Valley, CA",earthquake,0.42,0.68,0.25,26,automatic,ci,ci
+2025-09-12T05:39:31.150Z,35.8018333,-117.6411667,-0.32,1.94,ml,38,50,0.0381,0.26,ci,ci41289664,2025-09-12T05:43:07.199Z,"20 km N of Ridgecrest, CA",earthquake,0.24,0.5,0.11,25,automatic,ci,ci
 2025-09-12T05:23:52.890Z,17.895166666667,-66.856333333333,16.1,2.01,md,7,235,0.0824,0.1,pr,pr71495418,2025-09-12T05:37:53.160Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.72,0.79,0.18861070885045,4,reviewed,pr,pr
 2025-09-12T05:20:32.150Z,36.0476667,-117.8503333,2.26,1.03,ml,25,49,0.0514,0.12,ci,ci41289648,2025-09-12T05:23:52.013Z,"9 km E of Coso Junction, CA",earthquake,0.14,0.16,0.268,20,automatic,ci,ci
 2025-09-12T05:16:44.585Z,60.1832,-152.6143,100.5,2,ml,,,,0.42,ak,ak025bpt46ui,2025-09-12T05:18:38.887Z,"54 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -262,6 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-11T06:00:17.110Z,38.837665557861,-122.7988357544,2.2300000190735,1.09,md,21,70,0.006673,0.02,nc,nc75236232,2025-09-11T07:37:21.099Z,"7 km WNW of Cobb, CA",earthquake,0.22,0.49000001,0.07,22,automatic,nc,nc
 2025-09-11T05:59:08.945Z,42.816,-107.6885,9.177,2.9,ml,30,77,0.874,0.43,us,us7000qve0,2025-09-12T04:21:29.040Z,"37 km NNE of Jeffrey City, Wyoming",earthquake,4.09,8.588,0.045,66,reviewed,us,us
 2025-09-11T05:59:07.236Z,31.662,-104.376,6.8176,1.1,ml,15,57,0,0.1,tx,tx2025rwwqcw,2025-09-11T17:44:28.498Z,"56 km S of Whites City, New Mexico",earthquake,1.3703117541419,1.0698614985975,0.2,19,reviewed,tx,tx
-2025-09-11T05:52:44.236Z,51.4423,159.3778,35,4.8,mb,23,138,1.646,0.75,us,us7000qvdz,2025-09-11T06:13:37.040Z,"178 km SSE of Vilyuchinsk, Russia",earthquake,13.17,1.954,0.113,24,reviewed,us,us
-2025-09-11T05:50:00.440Z,35.8996667,-117.672,3.71,0.67,ml,16,101,0.05123,0.08,ci,ci41288792,2025-09-11T05:53:24.770Z,"22 km E of Little Lake, CA",earthquake,0.13,0.39,0.111,11,automatic,ci,ci
-2025-09-11T05:43:14.500Z,40.295333862305,-124.59400177002,17.709999084473,2.46,md,19,285,0.2184,0.09,nc,nc75236227,2025-09-11T07:07:18.898Z,"26 km W of Petrolia, CA",earthquake,2.61,1.13999999,0.1,17,automatic,nc,nc
