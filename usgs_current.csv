@@ -238,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T06:59:48.590Z,46.2945,-122.341,8.52,-0.09,ml,6,172,0.01148,0.09,uw,uw62181292,2025-09-15T20:34:44.860Z,"28 km SSE of Mossyrock, Washington",earthquake,0.47,0.68,0.10324176695965,4,reviewed,uw,uw
 2025-09-15T06:59:45.830Z,54.172833333333,-166.0315,-1.26,-0.33,ml,5,193,0.03357,0.49,av,av93050104,2025-09-16T01:26:49.070Z,"17 km WNW of Akutan, Alaska",earthquake,0.83,1.88,0.28310979559152,5,reviewed,av,av
 2025-09-15T06:55:45.740Z,40.924666666667,-111.56316666667,10.74,1.43,ml,18,63,0.1441,0.17,uu,uu80117426,2025-09-15T13:28:18.740Z,"11 km SSW of Henefer, Utah",earthquake,0.36,2.25,0.15832808495032,4,reviewed,uu,uu
-2025-09-15T06:35:50.749Z,60.0236,-150.5414,60.7,1.9,ml,,,,0.47,ak,ak025busfr0i,2025-09-15T06:37:49.728Z,"29 km NE of Fox River, Alaska",earthquake,,0.7,,,automatic,ak,ak
