@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-10-04T06:48:42.540Z,36.7641,-116.2527,13.6,0.5,ml,26,42.57,0.047,0.3768,nn,nn00905406,2025-10-04T06:51:01.792Z,"47 km ESE of Beatty, Nevada",earthquake,,0.4,0.32,17,automatic,nn,nn
 2025-10-04T06:41:07.020Z,33.2103333,-116.3423333,11.12,0.74,ml,45,32,0.07613,0.21,ci,ci41102391,2025-10-04T06:44:35.742Z,"6 km SSE of Borrego Springs, CA",earthquake,0.24,0.43,0.13,14,automatic,ci,ci
-2025-10-04T06:30:15.980Z,38.83483505249,-122.78299713135,1.8300000429153,0.69,md,7,133,0.006757,0.01,nc,nc75244596,2025-10-04T06:31:53.556Z,"5 km WNW of Cobb, CA",earthquake,0.43,0.639999986,0.24,8,automatic,nc,nc
+2025-10-04T06:30:15.980Z,38.83483505249,-122.78299713135,1.8300000429153,0.69,md,7,133,0.006757,0.01,nc,nc75244596,2025-10-04T07:07:17.111Z,"5 km WNW of Cobb, CA",earthquake,0.43,0.639999986,0.24,8,automatic,nc,nc
 2025-10-04T06:25:26.240Z,36.014831542969,-120.57666778565,3.960000038147,1.55,md,18,80,0.04186,0.05,nc,nc75244591,2025-10-04T06:52:19.974Z,"18 km NW of Parkfield, CA",earthquake,0.3,0.430000007,0.22,10,automatic,nc,nc
 2025-10-04T06:13:37.920Z,17.959,-67.077,6.54,2.15,md,7,223,0.03288,0.09,pr,pr71496963,2025-10-04T06:31:02.920Z,"3 km WSW of La Parguera, Puerto Rico",earthquake,0.56,0.31,0.06146379166927,4,reviewed,pr,pr
 2025-10-04T06:01:49.500Z,32.28,-101.929,3.7965,1.8,ml,65,41,0,0.5,tx,tx2025tncksg,2025-10-04T06:05:47.785Z,"21 km NW of Stanton, Texas",earthquake,0,0.63293135166168,0.2,40,automatic,tx,tx
@@ -65,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T21:22:13.840Z,40.360832214355,-121.97783660889,21.079999923706,1.93,md,6,193,0.1622,0.08,nc,nc75244456,2025-10-03T22:12:17.316Z,"12 km WSW of Manton, CA",earthquake,1.25,3.46000004,0.11,6,automatic,nc,nc
 2025-10-03T21:19:32.880Z,33.0276667,-116.2938333,6.56,1,ml,31,78,0.07331,0.2,ci,ci41102295,2025-10-03T21:22:59.076Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.27,0.76,0.124,20,automatic,ci,ci
 2025-10-03T21:11:46.570Z,33.1623333,-116.4243333,9.08,1.98,ml,78,21,0.0856,0.2,ci,ci41102287,2025-10-03T21:22:43.180Z,"11 km SSW of Borrego Springs, CA",earthquake,0.12,0.46,0.187,26,automatic,ci,ci
-2025-10-03T21:10:58.680Z,40.39400100708,-121.96966552734,5.1300001144409,2.85,md,40,45,0.1448,0.25,nc,nc75244451,2025-10-03T21:47:22.132Z,"9 km WSW of Manton, CA",earthquake,0.36,1.54999995,0.11,32,automatic,nc,nc
+2025-10-03T21:10:58.680Z,40.39400100708,-121.96966552734,5.1300001144409,2.85,md,40,45,0.1448,0.25,nc,nc75244451,2025-10-04T06:52:45.277Z,"9 km WSW of Manton, CA",earthquake,0.36,1.54999995,0.11,32,automatic,nc,nc
 2025-10-03T20:45:37.190Z,36.007,-117.8015,1.6,0.94,ml,14,53,0.02517,0.1,ci,ci41102279,2025-10-03T21:00:21.219Z,"12 km NE of Little Lake, CA",earthquake,0.15,0.21,0.16,9,reviewed,ci,ci
 2025-10-03T20:39:24.099Z,57.975,-155.3039,86.7,1,ml,,,,0.07,ak,ak025cosgv6h,2025-10-03T20:41:11.861Z,"67 km NW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2025-10-03T20:37:54.190Z,19.424666666667,-155.3805,9.57,1.77,ml,46,74,0.06249,0.1,hv,hv74791862,2025-10-04T01:10:06.590Z,"15 km W of Volcano, Hawaii",earthquake,0.25,0.49,0.22776019100961,27,reviewed,hv,hv
@@ -208,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T07:19:19.117Z,59.6678,-152.7201,86.5,1.9,ml,,,,0.52,ak,ak025coklxjn,2025-10-03T07:43:50.040Z,"51 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-03T07:15:56.613Z,31.665,-104.371,6.6382,2.1,ml,39,69,0,0.2,tx,tx2025tljbdk,2025-10-03T09:17:26.754Z,"56 km S of Whites City, New Mexico",earthquake,0.78591543327772,0.69299235248027,0.2,27,reviewed,tx,tx
 2025-10-03T07:12:28.690Z,31.633,-104.145,6.0999,1.7,ml,44,57,0.1,0.2,tx,tx2025tljaoc,2025-10-03T09:03:15.653Z,"48 km NW of Toyah, Texas",earthquake,0.49500356660378,0.44692404078226,0.2,25,reviewed,tx,tx
-2025-10-03T06:54:48.430Z,40.579666137695,-122.22650146484,12.140000343323,2,md,7,162,0.07029,0.09,nc,nc75244231,2025-10-03T07:32:19.737Z,"2 km NNE of Palo Cedro, CA",earthquake,1.11,1.62,0.15,5,automatic,nc,nc
