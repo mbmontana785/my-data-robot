@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-09T15:19:05.266Z,63.1594,-147.6828,4,1.6,ml,,,,0.7,ak,ak025cymlgch,2025-10-09T15:21:35.119Z,"68 km ESE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-09T15:14:03.350Z,33.1665,-116.419,8.07,1.12,ml,45,54,0.0904,0.19,ci,ci41105759,2025-10-09T15:18:53.346Z,"11 km SSW of Borrego Springs, CA",earthquake,0.18,0.72,0.164,29,automatic,ci,ci
 2025-10-09T15:00:34.360Z,34.0155,-117.1866667,6.53,2.15,ml,105,14,0.06481,0.19,ci,ci41105751,2025-10-09T15:11:12.970Z,"4 km S of Redlands, CA",earthquake,0.11,0.37,0.17,24,automatic,ci,ci
 2025-10-09T14:49:27.900Z,38.768501281738,-122.72766876221,1.1499999761581,0.75,md,7,71,0.007239,0.02,nc,nc75246986,2025-10-09T15:12:16.076Z,"3 km ESE of The Geysers, CA",earthquake,0.37,0.639999986,0.09,6,automatic,nc,nc
