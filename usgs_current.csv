@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-11T06:41:22.630Z,33.6998333,-116.729,17.33,1.42,ml,71,22,0.02014,0.19,ci,ci41106575,2025-10-11T06:45:30.184Z,"5 km SSW of Idyllwild, CA",earthquake,0.16,0.29,0.268,26,automatic,ci,ci
+2025-10-11T06:33:22.120Z,38.767333984375,-122.72350311279,0.56000000238419,0.76,md,7,104,0.00583,0.02,nc,nc75247721,2025-10-11T06:34:59.496Z,"3 km WSW of Anderson Springs, CA",earthquake,0.35,0.680000007,0.17,6,automatic,nc,nc
 2025-10-11T06:16:33.120Z,35.7768333,-117.6015,7.97,1.15,ml,30,60,0.03896,0.14,ci,ci41106567,2025-10-11T06:20:03.104Z,"18 km W of Searles Valley, CA",earthquake,0.17,0.45,0.193,20,automatic,ci,ci
 2025-10-11T06:01:42.350Z,38.818668365479,-122.78299713135,1.5800000429153,0.61,md,7,119,0.005695,0.01,nc,nc75247716,2025-10-11T06:17:21.893Z,"5 km NNW of The Geysers, CA",earthquake,0.49,1.30999994,0.18,8,automatic,nc,nc
 2025-10-11T05:30:13.650Z,38.835498809815,-122.80583190918,2.0899999141693,0.97,md,10,77,0.01244,0.01,nc,nc75247706,2025-10-11T05:52:18.701Z,"7 km WNW of Cobb, CA",earthquake,0.36,0.670000017,0.29,11,automatic,nc,nc
@@ -228,6 +230,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-10T08:50:12.480Z,59.709,-152.3023,74.9,1.8,ml,,,,0.73,ak,ak025d065fcw,2025-10-10T08:52:33.681Z,"27 km WSW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-10-10T08:48:28.200Z,32.121,-102.169,5.6396,0.5,ml,17,75,0,0.2,tx,tx2025tyihkc,2025-10-10T11:31:45.070Z,"16 km NNW of Midland, Texas",earthquake,0.75757585548019,0.66771049312142,0.1,10,reviewed,tx,tx
 2025-10-10T08:42:52.700Z,35.439334869385,-120.72016906738,6.8699998855591,1.55,md,15,79,0.04773,0.04,nc,nc75247266,2025-10-10T09:47:20.134Z,"7 km SW of Atascadero, CA",earthquake,0.31,0.779999971,0.14,7,automatic,nc,nc
+2025-10-10T08:39:27.503Z,7.1969,126.7558,81.589,4.5,mb,32,112,1.175,0.75,us,us6000rg21,2025-10-11T06:33:18.040Z,"22 km ESE of Santiago, Philippines",earthquake,7.74,7.623,0.104,27,reviewed,us,us
 2025-10-10T08:34:07.869Z,61.7352,-149.7957,34.3,1.3,ml,,,,0.54,ak,ak025d061zjm,2025-10-10T08:36:25.655Z,"11 km N of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-10T08:30:28.038Z,65.5585,-144.7653,0,1.6,ml,,,,1.05,ak,ak025d06168j,2025-10-10T08:32:54.681Z,"2 km SE of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-10T08:12:25.650Z,19.471000671387,-155.49266052246,2.0499999523163,1.7,ml,40,53,0.03675,0.180000007,hv,hv74800327,2025-10-10T08:15:53.480Z,"27 km W of Volcano, Hawaii",earthquake,0.32,1.28999996,0.32,5,automatic,hv,hv
@@ -242,7 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-10T07:14:55.400Z,38.820667266846,-122.81016540527,2.8800001144409,1.81,md,39,39,0.01719,0.05,nc,nc75247246,2025-10-10T08:32:18.544Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.310000002,0.12,36,automatic,nc,nc
 2025-10-10T06:58:54.870Z,34.268,-117.0773333,4.69,1.56,ml,72,30,0.06058,0.15,ci,ci41106071,2025-10-10T16:43:32.815Z,"7 km NNE of Running Springs, CA",earthquake,0.13,0.42,0.138,48,reviewed,ci,ci
 2025-10-10T06:47:25.528Z,32.116,-101.924,8.7158,1.7,ml,66,36,0.1,0.1,tx,tx2025tyehgo,2025-10-10T08:25:17.304Z,"12 km W of Stanton, Texas",earthquake,0.25174848785393,0.45026715453068,0.2,43,reviewed,tx,tx
-2025-10-10T06:43:15.340Z,33.785,-117.5305,12.77,1.79,ml,87,25,0.0511,0.19,ci,ci41106063,2025-10-10T18:50:10.005Z,"10 km SSE of Corona, CA",earthquake,0.16,0.32,0.153,125,reviewed,ci,ci
-2025-10-10T06:41:15.170Z,38.787666320801,-122.7636642456,1.5700000524521,1.12,md,16,73,0.017,0.03,nc,nc75247236,2025-10-10T08:07:19.350Z,"1 km NNW of The Geysers, CA",earthquake,0.25,0.5,0.13,16,automatic,nc,nc
-2025-10-10T06:39:10.384Z,32.123,-101.922,8.2275,0.8,ml,29,42,0,0.2,tx,tx2025tyeaaw,2025-10-10T09:27:34.874Z,"12 km W of Stanton, Texas",earthquake,0.38919698247141,0.8988541887202,0.2,14,reviewed,tx,tx
-2025-10-10T06:34:56.160Z,60.022,-153.078,1.47,-0.25,ml,5,101,0.03043,0.24,av,av93813373,2025-10-10T23:22:09.320Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.52,0.71,0.25296203414797,5,reviewed,av,av
