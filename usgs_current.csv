@@ -174,4 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-01T09:47:47.650Z,37.984664916992,-122.05833435059,13.140000343323,1.24,md,11,144,0.05383,0.04,nc,nc75257486,2025-11-01T12:57:16.844Z,"1 km E of Pacheco, CA",earthquake,0.4,0.819999993,0.07,6,automatic,nc,nc
 2025-11-01T09:37:15.560Z,33.8268333,-118.5911667,2.55,1.85,ml,81,81,0.1766,0.29,ci,ci41323760,2025-11-01T09:40:53.826Z,"18 km WSW of Manhattan Beach, CA",earthquake,0.27,1.04,0.181,27,automatic,ci,ci
 2025-11-01T09:36:22.690Z,38.787666320801,-122.76983642578,1.3899999856949,0.74,md,10,84,0.01516,0.02,nc,nc75257481,2025-11-01T10:07:17.647Z,"2 km NW of The Geysers, CA",earthquake,0.33,0.550000012,0.05,10,automatic,nc,nc
-2025-11-01T09:17:42.170Z,60.413,-151.5888,47.2,2.3,ml,,,,0.48,ak,ak025e0kdhhu,2025-11-01T09:30:11.490Z,"16 km WNW of Cohoe, Alaska",earthquake,,1.2,,,automatic,ak,ak
