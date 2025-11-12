@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-12T18:53:42.580Z,37.442665100098,-118.87349700928,2.2400000095367,1.33,md,17,138,0.1298,0.05,nc,nc75262501,2025-11-12T18:55:18.603Z,"22 km SW of Toms Place, CA",earthquake,0.29,2,0.19,15,automatic,nc,nc
 2025-11-12T18:35:55.948Z,60.9532,-150.696,34.3,1.5,ml,,,,0.45,ak,ak025eiwr3be,2025-11-12T18:37:36.472Z,"3 km N of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-11-12T18:24:33.410Z,33.9015,-117.042,9.99,1.39,ml,61,31,0.0548,0.16,ci,ci40484410,2025-11-12T18:28:24.117Z,"7 km WSW of Beaumont, CA",earthquake,0.13,0.51,0.199,27,automatic,ci,ci
 2025-11-12T18:20:31.300Z,38.826168060303,-122.82416534424,8.6099996566772,0.75,md,8,133,0.01135,0.06,nc,nc75262491,2025-11-12T18:22:07.240Z,"8 km NW of The Geysers, CA",earthquake,2.26,4.92000008,0.15,9,automatic,nc,nc
