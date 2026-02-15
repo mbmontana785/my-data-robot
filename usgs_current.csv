@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-02-15T21:41:26.917Z,60.802,-150.7,27.3,1.8,ml,29,80,0.2,1.2,ak,ak2026dggvcr,2026-02-15T21:43:30.628Z,"13 km S of Point Possession, Alaska",earthquake,3.3,1.8956,0.3,6,automatic,ak,ak
 2026-02-15T21:23:14.890Z,38.81583404541,-122.81883239746,1.039999961853,1.01,md,5,126,0.01019,0.01,nc,nc75314387,2026-02-15T21:24:53.179Z,"7 km NW of The Geysers, CA",earthquake,0.51,1.32000005,0.53,8,automatic,nc,nc
 2026-02-15T21:04:32.750Z,38.813999176025,-122.81632995606,1.1799999475479,0.72,md,15,110,0.01058,0.03,nc,nc75314377,2026-02-15T21:06:07.970Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.569999993,0.21,15,automatic,nc,nc
 2026-02-15T21:04:10.020Z,38.813667297363,-122.81583404541,1.2699999809265,2.53,md,44,50,0.01071,0.05,nc,nc75314372,2026-02-15T21:07:39.210Z,"7 km NW of The Geysers, CA",earthquake,0.13,0.200000003,0.18,49,automatic,nc,nc
