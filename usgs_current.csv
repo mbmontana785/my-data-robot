@@ -187,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-08-15T17:51:27.384Z,-7.7671,120.6775,10,4.7,mb,30,81,2.885,0.78,us,us6000tl2u,2026-08-15T18:27:11.040Z,"96 km NNE of Ruteng, Indonesia",earthquake,8.92,1.892,0.11,25,reviewed,us,us
 2026-08-15T17:44:14.375Z,-7.9256,120.4122,10,4.7,mb,27,74,2.966,0.7,us,us6000tl2t,2026-08-15T18:18:48.040Z,"76 km N of Ruteng, Indonesia",earthquake,6.03,1.802,0.112,24,reviewed,us,us
 2026-08-15T17:43:52.820Z,33.882833333333,-117.6975,4.55,1.23,ml,42,54,0.01714,0.18,ci,ci40673282,2026-08-15T17:47:16.339Z,"11 km E of Yorba Linda, CA",earthquake,0.19,0.31,0.34864158106677,31,automatic,ci,ci
-2026-08-15T17:41:42.009Z,51.4925,159.9696,10,4.6,mb,61,119,2.136,1.01,us,us6000tl2s,2026-08-15T18:05:30.040Z,"192 km SSE of Vilyuchinsk, Russia",earthquake,8.7,1.882,0.065,71,reviewed,us,us
